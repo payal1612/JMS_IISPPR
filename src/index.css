@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary: #7b1e3a; /* Dark Red */
+    --color-primary-dark: #4e0e23; 
+    --color-primary-light: #f4e5e7; /* Light Red */
+    --color-secondary: #f4e5e7; /* Soft Background Accent */
+    --color-accent: #b02c42;
+    --color-accent-light: #e5d6d6;
+    --color-bg-light: #f5f5f5;
+    --color-bg-dark: #212529; /* used for footer */
+    --color-text: #212529;
+    --color-subtext: #495057; /* subheadings, captions */
+    --color-white: #ffffff;
+    --color-muted: #dee2e6;
+    --color-highlight: #bf97a4;
+    --color-new-primary: #703b5f;
+    --color-new-primary-dark: #482742;
+    --color-new-primary-sub: #69315521;
+}
