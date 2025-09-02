@@ -8,7 +8,7 @@ export const generateIssuePDF = async (issue, publisher, editorialBoard) => {
   const pageHeight = pdf.internal.pageSize.getHeight();
   const margin = 20;
   const contentWidth = pageWidth - (2 * margin);
-  
+
   let yPosition = margin;
   const lineHeight = 7;
   const titleHeight = 12;
@@ -96,7 +96,7 @@ export const generateIssuePDF = async (issue, publisher, editorialBoard) => {
       pdf.addPage();
       yPosition = margin;
     }
-    
+
     pdf.setFont('helvetica', 'bold');
     pdf.text(member.name, margin, yPosition);
     yPosition += lineHeight - 2;
@@ -206,7 +206,7 @@ export const generateIssuePDF = async (issue, publisher, editorialBoard) => {
     yPosition += lineHeight;
     pdf.setFont('helvetica', 'normal');
     pdf.setTextColor(60, 60, 60);
-    
+
     const declarations = [
       { name: 'Ethics Declaration', value: article.ethicsDeclaration },
       { name: 'Plagiarism Declaration', value: article.plagiarismDeclaration },
@@ -253,7 +253,7 @@ export const generateResearchPDF = async (articles) => {
   const pageHeight = pdf.internal.pageSize.getHeight();
   const margin = 20;
   const contentWidth = pageWidth - (2 * margin);
-  
+
   let yPosition = margin;
   const lineHeight = 7;
   const titleHeight = 12;
@@ -393,7 +393,7 @@ export const generateResearchPDF = async (articles) => {
   });
 
   return pdf;
-}; 
+};
 
 
 
@@ -485,20 +485,34 @@ export const generateArticlePDF = async (articles) => {
   }
 
   // Abstract
-  if (typeof articles.abstract === 'string') {
+  if (Array.isArray(articles.abstract) && articles.abstract.length > 0) {
     pdf.setFontSize(12);
     pdf.setFont('helvetica', 'bold');
     pdf.setTextColor(44, 62, 80);
     checkPageBreak(lineHeight * 3);
     pdf.text('Abstract:', margin, yPosition.value);
+    console.log('Rendering abstract:', articles.abstract);
     yPosition.value += lineHeight + 2;
 
     pdf.setFontSize(11);
     pdf.setFont('helvetica', 'normal');
     pdf.setTextColor(60, 60, 60);
-    drawJustifiedText(pdf, articles.abstract, margin, yPosition, contentWidth, lineHeight, checkPageBreak);
+
+    const abstractText = articles.abstract.join(" ");
+
+    drawJustifiedText(
+      pdf,
+      abstractText,
+      margin,
+      yPosition,
+      contentWidth,
+      lineHeight,
+      checkPageBreak
+    );
+
     yPosition.value += 15;
   }
+
 
   // Keywords
   if (Array.isArray(articles.keywords) && articles.keywords.length > 0) {
