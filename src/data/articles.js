@@ -9287,7 +9287,7 @@ const articles = [
       {
         heading: "3.REVIEW OF LITERATURE",
         paragraphs: [
-          "3.1 Sánchez‑Queija, I., & Sánchez‑Queija, A. (2024). Identity development and adjustment during emerging adulthood from a gender perspective.",
+          "3.1 Sánchez-Queija, I., & Sánchez-Queija, A. (2024). Identity development and adjustment during emerging adulthood from a gender perspective.",
           "This study confirmed the Spanish version of the Dimensions of Identity Development Scale (DIDS) and looked at how identity processes connect to well-being in emerging adults, focusing on gender differences. The researchers guessed that identity dimensions would predict psychological adjustment and that these connections would differ by gender. The results showed that men had higher scores in commitment, while women scored higher in exploration and ruminative thinking. Identity commitment had a stronger positive effect on well-being for men than for women.",
           "3.2 Mungo, A., Delhaye, M., Blondiau, C., & Hein, M. (2024). Identity formation in individuals between 16 and 25 years old with borderline personality disorder.",
           "This clinical study looked at identity development in young adults with borderline personality disorder (BPD). Researchers expected to find problems with identity formation. The results showed that individuals with BPD had significantly lower identity synthesis and higher identity confusion compared to their peers. The study emphasizes how BPD interrupts important identity development during adolescence and young adulthood.",
@@ -9338,7 +9338,7 @@ const articles = [
       {
         heading: "6. Limitations and Future Directions",
         paragraphs: [
-          "●Limitations:",
+          "Limitations:",
           "1.Sampling Limitations",
           "The data that was collected included an uneven age distribution making it difficult to analyse and generalise the data. Hence the sampling could have been more varied and included an equal number of participants from all age groups. Also because the sampling method was random some of the participants did not fill out the questionnaire truthfully and tried to fill the form without interest leading to redundant answers or same choices for all questions which later had to be removed from the data analysis. A regulated and non biased sample should have been selected but the lack of time and the willingness of individuals influenced the sample. Finally, working with a larger sample size would have given us more accurate results which was one of our biggest limitations.",
           "2.Socio-Cultural Constraints on Identity Exploration  questionnaire",
@@ -10711,7 +10711,7 @@ const articles = [
     volume: 1,
     title: "Localizing Climate Action: The National Action Plan on Climate Change (NAPCC) and Panchayats",
     author: "Sayyed Zeenat, T. S. Bagheshri, and Bhavya Gupta",
-     authorAbbrev: "S Zeenat , T.S Bagheshri and  B.Gupta",
+    authorAbbrev: "S Zeenat , T.S Bagheshri and  B.Gupta",
     abstract: [
       "This article studies the localization of climate action through the lens of National Action Plan on Climate Change (NAPCC) and its implementation through the framework of Panchayat Raj Institutions aiming to understand how effectively climate change is being localized in In the context of SDGs 13(Climate Action), we focus on assessing the alignment between national climate goals and their reach into community-level initiatives. The idea behind this study is to uncover the potential of decentralized governance in building climate-resilient Panchayats. Using the qualitative research methods such as policy reviews, literature reviews and case studies from selected Panchayats, by analyzing the current state of NAPCC mission integration at the local level. ",
       "It identifies three critical themes: (1) Climate Resilient Rural Development, (2) Policy and Institutional Synergies, and (3) Capacity Building and Finance. These themes guide the investigation into institutional, policy, and financial mechanisms that support or hinder effective climate action at the grassroots ",
@@ -10735,7 +10735,7 @@ const articles = [
       {
         "heading": "",
         "paragraphs": [
-          
+
           "In alignment with NEP 2020, platforms like DIKSHA and SWAYAM were positioned to promote access, equity, and quality, but uneven digital access and language barriers have constrained outcomes (Ministry of Education, 2020; Oxfam India, 2022; Azim Premji Foundation, 2022).",
           "Problem Statement:",
           "Although India has developed a goal-oriented national climate policy through the NAPCC, implementation of these policies and missions into action at the grassroots level remains a significant challenge and under-researched work.",
@@ -11907,12 +11907,12 @@ const articles = [
         ]
       }
     ],
-    conclusion:[
+    conclusion: [
       "India’s digital economy faces a crucial challenge with a growing workforce and unregulated digital platforms. Women and transgender individuals are especially vulnerable to digital and algorithmic bias, along with structural societal issues. This necessitates converging and gender-sensitive policy interventions for a more inclusive digital economy.",
       "Policy frameworks must be developed through multi-level and multi-stakeholder participation, with regular revisions and robust compliance mechanisms. In addition to government intervention, platforms must proactively ensure safe online spaces and prevent digital and physical abuse of women and transgender gig workers. Programs like *Mahila Samarthya Yojana* should be aligned with modern technological needs for long-term sustainability. In the short run, platforms may be incentivized for implementing work-friendly policies through tax rebates and exemptions.",
       "Ultimately, social protection is not an optional luxury—it is a constitutional right under Article 21. Legal reforms and structural changes must ensure a greater participation of women in the workforce, addressing core technological inequities. The gig economy holds significant potential for empowering women and ensuring equitable workforce participation in India's journey towards becoming a developed nation by 2047."
     ],
-    references:[
+    references: [
       {
         heading: "Bansal, T., & De, S. (2024). Gender and the gig economy: An analysis of women workers across gig platforms. International Journal for Research in Applied Science & Engineering Technology, 12(9).",
         links: "https://doi.org/10.22214/ijraset.2024.64178"
@@ -12074,595 +12074,595 @@ const articles = [
 
   //mera
   {
-  "id": 9,
-  "serialNumber": 45,
-  "issue": 4,
-  "volume": 1,
-  "title": "INDIA’S BLUE DIPLOMACY IN THE WESTERN INDIAN OCEAN: SECURING MARITIME COMMONS BEYOND THE INDO-PACIFIC (2008–2024)",
-  "author": [
-    "SumitGusain",
-    "SaanviBudhiraja",
-    "Rishi Gurung",
-    "Anisha Tiwari",
-    "AishiMitra"
-  ],
-  "authorAbbrev": [
-    "S. Gusain",
-    "S. Budhiraja",
-    "R. Gurung",
-    "A. Tiwari",
-    "A. Mitra"
-  ],
-  "status": "Submitted",
-  "abstract": [
-    "This paper is a critical analysis of India’s evolving maritime strategy in the Western Indian Ocean (WIO) from 2008 to 2024, putting forth the argument of India’s ‘blue diplomacy’ witnessing a strategic paradigm shift that now transcends the confines of the Indo-Pacific narrative to adopt a much more feasible approach. Laid down in the SAGAR (Security and Growth for All in the Region) vision and refined under the recent MAHASAGAR framework, India’s policies in the WIO interpret maritime security, regional connectivity, ecological supervision, and sustainable development as interlinked pillars of foreign policy. The study explores how the pressing necessity of safeguarding vital sea lanes that handle over 80% of India’s crude oil imports and a significant share of national trade, drives forward India’s westward focus of deep engagement with the geopolitically sensitive WIO region.",
-    "Key aspects of this ‘blue diplomacy’ include strong maritime security collaboration against common threats like piracy, arms proliferation, and illicit trafficking, enabled by operations such as Operation Sankalp and through initiatives like the Information Fusion Centre–Indian Ocean Region (IFC-IOR). The paper investigates the strategic use of port development by India and highlights projects like Chabahar in Iran and Sittwe in Myanmar, serving both as hubs for logistics as well as tools for encouraging inclusive regional development, improving access particularly for landlocked economies and strengthening India’s “Act East” and “Neighbourhood First” policies.",
-    "The research also digs around India’s active involvement with international platforms such as the Indian Ocean Rim Association (IORA) and Indian Ocean Commission (IOC) to support the growth of the sustainable ocean-based economy and improve cooperation. Additionally, the study makes a point of aligning the Sustainable Development Goals (particularly SDGs 13, 14, 16, and 17) into India’s maritime plan."
-  ],
-  "keywords": [
-    "Blue Diplomacy",
-    "Western Indian Ocean (WIO)",
-    "Maritime Security",
-    "Port Development",
-    "Sustainable Development Goals (SDGs)"
-  ],
-  "intro": [
-    "The Western Indian Ocean (WIO) has become an important strategic marine arena in the 21st century. The area is very important for the safety, economy, and environment of the larger Indo-Pacific because it is close to important sea lanes of communication (SLOCs) that help transfer a lot of the world’s products and energy. India needs to protect its national interests not just at the WIO, which is a marine border. It’s also a way to show strength through strategic partnerships, port diplomacy and efforts to promote long-term growth.",
-    "India’s part in the WIO has changed in the last few years. It used to be largely about safety, but today it works together in many ways. There are also investments in ports like Chabahar and Sittwe, as well as contributions to entities like the Indian Ocean Rim Association (IORA) and the Indian Ocean Commission (IOC). In addition to this, there are also anti-piracy operations, humanitarian aid and disaster relief (HADR) missions, and efforts to make the navy stronger. India’s focus on protecting marine biodiversity, making the climate more resilient, and blue economy projects is another indicator that it is in line with the UN Sustainable Development Goals (SDGs).",
-    "A number of scholars are still interested in India’s involvement in the WIO, but most of their work has focused on what it does in the Eastern Indo-Pacific. This article tries to fill in the gaps by looking at how India’s strategic shift towards the WIO affects long-term maritime governance and regional security, as well as the geopolitical effects of its port diplomacy. The study’s goal is to employ theme analysis to show how India’s changing maritime position could affect the future of the Western Indian Ocean system in its entirety."
-  ],
-  "problemStatement": [
-    "Despite India’s continued involvement in the Indo-Pacific, the Western Indian Ocean (WIO) has not gotten much attention in talks of strategic maritime research and policy. Given the rise of maritime issues like illicit fishing, environmental impact, piracy, and geopolitical competition, particularly with China, India’s admission to the WIO under the SAGAR and later MAHASAGAR doctrines marks a significant change. There is a significant research gap in evaluating how India integrates sustainability, security, and diplomacy to become a net security provider in this vital region."
-  ],
-  "researchObjectives": [
-    "To explore India’s maritime policy in the Western Indian Ocean, moving away from the Indo-Pacific and how it helps maintain the area safe through anti-piracy operations, naval stations, and humanitarian aid.",
-    "To examine how India’s port diplomacy and huge infrastructure projects like Chabahar and Sittwe can change the way the world operates, link diverse locations and help blue economy projects that are in line with the Sustainable Development Goals.",
-    "To assess how India collaborates with organisations like the IORA and IOC to improve the climate in the Western Indian Ocean region, make the environment safer, and make the regulations that govern the sea fairer."
-  ],
-  "researchQuestions": [
-    "How has India’s maritime strategy evolved in the Western Indian Ocean, and what impact has it had on regional security and stability?",
-    "In what ways does India employ port diplomacy and strategic infrastructure projects to advance geopolitical influence, regional integration, and sustainable economic growth?",
-    "How effective is India’s collaboration with regional and multilateral organizations in addressing environmental challenges, marine biodiversity conservation, and inclusive maritime governance?"
-  ],
-  "thematicLiteratureReview": [
-    {
-      "heading": "Strategic Vision and Blue Economy in the WIO",
-      "paragraphs": [
-        "Strategic Vision and Blue Economy in the WIO – India’s shift from the Indo-Pacific to the WIO reflects an evolution in strategic thinking. Scholars such as Gurjar & Dutta (2021) and Kesnur & Mishra (2022) have underscored India’s adoption of the SAGAR doctrine as a new regional identity marker rooted in sovereign maritime governance and SDG alignment. The Blue Economy Vision 2030 and the Viksit Bharat 2047 roadmap further emphasize economic-ecological synergy."
-      ],
-      "gap": "Limited evaluation exists on the realignment from SAGAR to MAHASAGAR in 2025 and how it differentiates India’s long-term geopolitical intent."
-    },
-    {
-      "heading": "Maritime Security and Naval Architecture",
-      "paragraphs": [
-        "Maritime Security and Naval Architecture – Anti-piracy operations, HADR missions, and the IFC-IOR are well documented in think tank analyses (Brewster, 2024; Express, 2025). However, most works focus on the Indo-Pacific and underappreciate India’s evolving doctrine of net security provider in the WIO."
-      ],
-      "gap": "Insufficient cross-national comparative studies of Indian naval deployments with those of other regional powers (e.g., France, China) in the WIO."
-    },
-    {
-      "heading": "Multilateral Governance: IORA, IOC and Blue Growth",
-      "paragraphs": [
-        "India’s IORA and IOC leadership has been viewed as the connecting bridge between security and developmental objectives (e.g., Mohan, 2017; Bhattacharya, 2024). IORA’s focus on SDG 14 and 17 and IOC’s fisheries, biodiversity activities are significant pillars of regional cooperation."
-      ],
-      "gap": "A critical institutional analysis comparing India’s engagement with IORA vs. IOC is still absent."
-    },
-    {
-      "heading": "Infrastructure Diplomacy: Ports and Trade Corridors",
-      "paragraphs": [
-        "India’s port diplomacy, including Chabahar, Sittwe, and Ehoala, is documented by ORF (2024–2025) and the Ministry of Ports. Yet academic analyses often treat these as isolated foreign policy tools rather than part of a long-term ocean governance vision."
-      ],
-      "gap": "Lack of integrated studies linking port-building to India’s strategic blue economy agenda and regional trust-building."
-    },
-    {
-      "heading": "Environmental Sustainability and Blue Resilience",
-      "paragraphs": [
-        "Literature such as WWF Report (2017), Jayaram et al. (2025), and Roy (2019) foreground ecological stress in the WIO. India’s Deep Ocean Mission, MISHTI, and marine spatial planning efforts are emerging topics. Tools like PFZAS and ABIS also represent technological leadership in marine conservation."
-      ],
-      "gap": "Few studies assess the impact effectiveness of India’s environmental contributions in WIO nations, or whether they result in measurable resilience and local capacity-building."
-    }
-  ],
-  "methodology": [
-    "This study uses a qualitative, thematic case study approach to examine India’s blue diplomacy in the Western Indian Ocean (2008–2024). The research focuses on three key dimensions: strategic infrastructure, maritime security, and ecological sustainability – each aligned with relevant Sustainable Development Goals (SDGs), particularly SDGs 13, 14, and 17.",
-    "The methodology combines content analysis of policy documents, government reports, and multilateral declarations (e.g., SAGAR, IORA, MAHASAGAR); and comparative case studies of India-led initiatives including – Strategic Infrastructure: Chabahar and Sittwe Ports; Security Architecture: IFC-IOR, anti-piracy patrols; Environmental Engagements: Agalega Island, Deep Ocean Mission, MISHTI.",
-    "The Data for the study were further sourced from Indian government publications (PIB, MoES, MEA), reports from ORF, ICWA, TERI, and UNEP, academic and policy literature, news coverage and official press releases (2008–2024). However, it is to be noted, that the study is based on secondary data and may not fully capture classified strategic assessments or on-ground environmental impact. Future studies may benefit from regional fieldwork and primary stakeholder interviews."
-  ],
-  "content": [
-    {
-      "heading": "Framing the Vision: India’s Blue Economy and Maritime Strategy in the WIO",
-      "paragraphs": [
-        "India’s strategic approach to the Western Indian Ocean since 2008 put forward a calibrated modification of the sovereign state’s maritime vision that moved away from the entire Indo-Pacific framework to a specific and much more feasible narrative of fusing its economic ambitions, security needs and sustainability in accordance with international law. This thematic section delves into the critical aspects of India’s ever-evolving maritime approach in the WIO and its strategic adaptation beyond the Indo-Pacific corridors ever since the inception of the SAGAR (Security and Growth for All in the Region) doctrine, its special focus on sovereignty under the United Nations Convention on the Law of the Sea (UNCLOS), and its systematic alignment with the UN-laid Sustainable Development Goals (SDGs), specifically SDGs 14, 8, and 16. These focus points allow the strengthening of India’s leadership in the region, intersecting broader concepts such as security cooperation, infrastructural support, global partnerships, and ecological responsibility. Through this unified, interlinked and interdependent structure, India continues to push for its claim as the regional advocate for legitimacy, partnership and responsible guardianship across the WIO."
-      ]
-    },
-    {
-      "heading": "Strategic shift beyond the Indo-Pacific",
-      "paragraphs": [
-        "India’s paradigm shift from a historical focus on the Indo-Pacific corridors towards the Western Indian Ocean is driven by the ever-growing dependence on sea lanes that make up for over 80% of the overall crude oil imports and large volumes of trade (Haldar & Gupta, 2025). The rise of maritime threats including piracy, trafficking, and strategic rivalry compelled India to turn its focus westward. This strategic shift is further reinforced by the WIO’s proximity to the Middle Eastern countries like Iraq, Saudi Arabia, and the United Arab Emirates, which collectively make up 40% to over 50% of India’s total crude oil imports (Haldar & Gupta, 2025).",
-        "This strategy was consolidated by the SAGAR (Security and Growth for All in the Region) doctrine which was announced in 2015 and prioritized: Oceans’ security through the enhancement of cooperation and naval monitoring. Secondly, inclusive regional growth fostering economic partnerships with coastal and island states in the WIO. Thirdly, nurturing regional stability through diplomatic coalitions (Kesnur and Mishra, 2022; Naha, 2021).",
-        "The SAGAR doctrine has undergone significant evolution and was rearticulated in March 2025 as, Mutual and Holistic Advancement for Security and Growth Across Regions (MAHASAGAR). This strategic shift solidifies India’s role as a regional balance maker and net security provider capable of capacity building, military diplomacy, military assistance and direct deployment of its own military forces, thus contributing to regional resilience and sustainability while also safeguarding shared maritime commons (Haldar & Gupta, 2025; E-IR, 2025)."
-      ]
-    },
-    {
-      "heading": "Blue Economy, Legal Frameworks, and Sustainable Development",
-      "paragraphs": [
-        "India’s blue economy framework is a detailed and all-encompassing plan which integrates economic growth and ecosystem conservation (TERI, 2022). This strategy is defined through a holistic understanding of the Blue Economy Vision, a vital component of the much bigger Vision of New India by 2030 (Press Information Bureau [PIB], 2022). The vision aims for national development by making effective and responsible use of the ocean resources, while the strategy focuses on sustainable use of resources in sectors such as fisheries, tourism, maritime transport, renewable energy, aquaculture, seabed mining, and marine biotechnology, across offshore and coastal lines (Ministry of Earth Sciences, 2025; TERI, 2022; KPMG, 2024). The Blue Economy is in the centre of India’s Viksit Bharat 2047 vision and targets a US$100 billion contribution (Ministry of Earth Sciences, 2025; PIB, 2022; KPMG, 2024).",
-        "The international law under UNCLOS forms the strong ground on which India exercises its maritime leadership. The Indian State defends its sovereign rights over its Exclusive Economic Zone (EEZ) and continental shelf according to the provisions by UNCLOS. India also supports free navigation at sea and the peaceful settlement of maritime disputes through legal frameworks, while opposing any one-sided action that may disturb the peace & order at sea (Gurjar & Dutta, 2021). India is also an active part of multiple regional forums such as the Indian Ocean Rim Association (IORA) and Indian Ocean Commission (IOC) cooperating together in maritime security, fisheries management and ocean governance, aligning with SDG 16 (Peace, Justice and Strong Institutions) (Gurjar & Dutta, 2021)."
-      ]
-    },
-    {
-      "heading": "Security Through Collaboration: India’s Maritime Safety Architecture in the Western Indian Ocean (2008–2024)",
-      "paragraphs": [
-        "The Western Indian Ocean (WIO) which stretches from the eastern seaboard of Africa to island nations such as Seychelles, Madagascar, Mauritius, Maldives, and Comoros, has emerged as a pivotal region in India’s maritime strategy and blue diplomacy. A Maritime Strategy can be defined as the principle that governs a war at sea. It has become one of the topmost priorities of India’s foreign policies since the Mumbai attacks in 2008 which arose from the maritime border. 2008 stands as a year that marks a strategic shift of maritime strategies that addresses security challenges from diverse sources like antagonistic neighbours to non-state actors like pirates, maritime terrorists and armed robbers.",
-        "Since 2008, the Indian navy has deployed units in the Gulf of Aden and in the east coast of Africa towards anti-piracy patrols. (Express 2025) Following anti-piracy events along with interests in energy security, economic growth and protecting sea lanes, the WIO has become a major priority for India’s economic, ecological and maritime interests."
-      ]
-    },
-    {
-      "heading": "Anti-Piracy Operations: The Pillar of Security Collaboration",
-      "paragraphs": [
-        "The WIO has become a vital arena in India’s Maritime Security, particularly with the rise of non-traditional threats. The re-emergence of piracy invasions along the coast of Somalia between 2007-2012 became a major factor in continuous deployment of the Indian Navy to escort vulnerable commercial vessels to safety. This scenario is what prompted the launching of Operation Sankalp in 2019, thus India’s response to the growing tension in the Gulf. It provided protection for Indian-flagged merchant ships overflying maritime zones in the Persian Gulf, Gulf of Oman and the Middle East. Another component of India’s approach involves starting construction of an airstrip and jetty on Agalega Island in Mauritius in 2024. With regional partnerships being of utmost importance in times of invasions, there have been several examples where coordinated multilateral responses have resulted in timely rescue. Indian Navy navy together with Seychelles Defence Forces and Sri Lanka Navy intercepted and rescued hijacked vessel on 27 January 2024. India and Madagascar have expanded their naval and defence relations through arrangements that help each other to fight piracy, illegal fishing, and other such crimes targeted against maritime security. The navies and coast guards can now conduct bilateral exercises and operationalise some cooperation arrangements for approach, while also exchanging best practices for securing regional maritime lanes."
-      ]
-    },
-    {
-      "heading": "Information Fusion Centre – Indian Ocean Region (IFC-IOR): Real-Time Regional Coordination",
-      "paragraphs": [
-        "Incidents of large-scale piracy has reduced since 2012 with the growing militarisation in the area and with the emergence of regional Information Fusion Centres (IFCs). In the Western Indian Ocean, a regional information sharing arrangement was established in Madagascar in 2016 and India opened the Information Fusion Centre – Indian Ocean Region (IFC-IOR) in 2017. (Brewster 2024) The IFC routinely gathers and updates information on illegal fishing, unwanted people and environmental incidents in the WIO, and provides almost real-time alerts and summaries of piracy incidents. IFC-IOR also conducts annual workshops in which members from more than 25 countries, including Indian Ocean Island nations and African coastal nations, share best practices, coordinate simulated incident response exercises, and create a consensus framework to respond to challenges in the maritime domain. During large cyclones or oil spillages, the IFC-IOR provides critical incident information to navies and coast guards of affected countries for coordinated search and rescue and pollution control operations."
-      ]
-    },
-    {
-      "heading": "Humanitarian Assistance and Disaster Relief (HADR): Soft Power Dimension",
-      "paragraphs": [
-        "Humanitarian Assistance and Disaster Relief (HADR) has emerged as an important pillar of Indian maritime diplomacy and projection of Indian soft-powers in the Western Indian Ocean (WIO) region. This promotes cordial ties with foreign countries. Over the past decade, numerous humanitarian crises have taken place - from the direct impacts of armed conflict, the COVID-19 pandemic, natural disasters, and extreme natural weather events, as a result of climate change. Following the 2004 tsunami, the tempo of the Indian Navy’s HADR operations increased. Within these operations, elements of what is today the Indian vision of Security and Growth for All in the Region (SAGAR) began to surface. (The Indian Navy’s Humanitarian Role: Strategic Soft Power in Action 2024) Under this, India responded to Cyclone Idai in Mozambique in 2019 by deploying three ships carrying relief material. During the Mauritius oil spill disaster in 2020, India provided specialised equipment and a technical team. India also led naval missions where INS Airavat delivered medical aid to several countries like Sudan, South Sudan, Djibouti and Eritrea during the Covid-19 pandemic. These missions highlighted India’s preparedness as a first responder, but also strengthened the health security in the WIO."
-      ]
-    },
-    {
-      "heading": "Alignment with the Sustainable Development Goals (SDGs)",
-      "paragraphs": [
-        "India’s maritime security efforts in the Western Indian Ocean (WIO) between 2008–2024 advance global initiatives. For instance, India’s anti-piracy patrols, disaster response efforts, and establishing the Information Fusion Centre for the Indian Ocean Region (IFC-IOR) promote sustainable development goals (SDGs) such as SDG 14 (conservation and sustainable use of oceans, seas and marine resources), SDG 16 (promoting peaceful societies and just institutions) and SDG 17 (strengthening partnerships to achieve the SDGs). Such activities, along with joint naval actions exercising interoperability, the sharing of pertinent regional information and contributing to capacity-building for island states cumulatively build trust, develop an inclusive maritime security model, and re-enforces India as a reliable “net security provider”, which enhances regional security and advances the common vision of sustainable and rules-based maritime order."
-      ]
-    },
-    {
-      "heading": "IORA and IOC: Multilateral Platforms for Inclusive Blue Growth",
-      "paragraphs": [
-        "In the geopolitical framework of Western Indian Ocean, India conducts its diplomatic position in the context of the two, interconnected institutional arrangements, i.e. Indian Ocean Rim Association (IORA) and Indian Ocean Commission (IOC). The former, IORA, provides state officials with a well-organized platform where they could cooperate in the field of marine resources management, sustainable development, and maritime security. The latter is the IOC, which focuses on the coordination of the Anglophone littoral states. In conjunction, they provide additional collaborative opportunities in areas of high maritime priorities, which strengthen strategic interests of India (Mohan, 2017). Their ability to build partnerships between sovereigns like countries promotes the development of cohesion in policy-making and strategies that appeal to the interest of member-states, through regional organizations like IORA and IOC (Du Plessis, 2024).",
-        "India has taken on a much more eminent role in a wider picture of maritime security structures than before over the past decades such as the Indian associations with the organizations, like the Intergovernmental Standing Committee on Ship (AU-ISSA) and Djibouti Code of Conduct of the African Union. Collectively these bodies provide a formal multilateral platform against which the modern-day challenges such as piracy and various transnational crimes are struggled. Admittedly, strategic projects that are promoted by these two regional institutions can be appealing to the main Indian goals enhancing the more active cross-border collaboration and strengthening the role of India in the broader community of ocean governance (Bhattacharya, 2024). A combination of calibrated fisheries policies, prudence in exploring the resources, and inflexible blue trade quality have enabled the Indian Coast Guard and other authorities to build-in a growth-ecological balance conscious system which in turn has provided an avenue that leads to a healthier marine order."
-      ]
-    },
-    {
-      "heading": "IORA’s Impact on Blue Growth",
-      "paragraphs": [
-        "Indian Ocean Rim Association (IORA) is a regional platform that focuses on the process of developing the blue economy, or rather generating economic growth, livelihood and employment based on sustainable management of marine resources. In his analysis of 2018, Khurana follows the development of the institution through diplomatic interaction to a system of an institutional architecture supporting maritime governance, aiming at restraining illegal fishing, lessening marine pollution and introducing a comprehensive maritime order. The association aims to enhance cooperation among the states of the Indian Ocean Rim region within the mandate of its activities in the regions and also focuses on not only economic growth but also sustainable growth. The organization also encourages intra-regional and local projects like Sagarmala that will boost the maritime connectivity of trade. The most iconic one is the Blue Economy Dialogue, an organized platform twinning member states to share approaches, best practices, and strategies to sustainably manage the ocean (Mohan, 2017). This process has played a critical role to define blue growth agenda of IORA where it has paid focus on fisheries management, marine tourism, and ocean renewable energy. Based on the IORA Action Plan on the Blue Economy that outlines the importance of integrating ocean governance policies and economic paths towards obtaining an environmentally sustainable blue growth (Upadhyay & Mishra, 2020)."
-      ]
-    },
-    {
-      "heading": "IOC’s Contributions to Regional Development",
-      "paragraphs": [
-        "I would make your attention to the works of the Indian Ocean Commission (IOC) an intergovernmental organization who devotes itself to regional economic development, social cohesion and cultural development. By directing emphasis on sustainable exploitation of the marine resources, the IOC enables integrated exploitation of the oceanic resources. In this direction, the Commission has taken a complex approach that includes the issue of having sustainable fisheries, marine biodiversity as well as having renewable energy.",
-        "S Bhattacharya highlights, in the context of the mandate to promote scientific research, and sustainable development, the IOC has contributed towards blue growth and ocean governance. Some of the modalities encompass the systematic study of the coastal and open-ocean ecosystems as well as the identification of good practices in sustainable management, capacity-building activities targeted at member countries. These activities are put together in the aim to facilitate more informed, and eventually more successful management of marine resources. G. Mohan assumes that the keystone of regional stability is in competent design of the policy. As a practical proposal, he proposes an iterative, dialogue-driven process, through which participating states may tune a common institutional architecture, that reflects the broadly defined collective interests of the region."
-      ]
-    },
-    {
-      "heading": "Infrastructure as Influence: Port Diplomacy and Marine Sustainability",
-      "paragraphs": [
-        "The Western Indian Ocean connects Africa, the Middle East, and South Asia making it a critical hub in India’s maritime strategy. Control and access here give India’s navy more power in locations other than the Indo-Pacific. India uses port development as a tool of influence in the region offering aid, capacity-building, and investments to build trust without coercion following a sustainable design. More than 90% of India’s trade is conducted via the country’s maritime channel, India’s ports and trade related infrastructure needs constant improvement to speed up expansion in the manufacturing sector and support the “Make in India” strategy (Ministry of Ports, Shipping and Waterways, n.d.).",
-        "The region hosts some of the world’s most important naval corridors and strategically sensitive passages through which one-third of the world’s container traffic and two-thirds of global oil shipments pass (Observer Research Foundation, 2024). India’s port diplomacy encompassing initiatives like Chabahar in Iran, Sittwe in Myanmar, and Ehoala in Madagascar, shows its seriousness about making safe and long-lasting maritime commons."
-      ]
-    },
-    {
-      "heading": "Chabahar Port: Strategic Leverage in Iran’s Maritime Gateway",
-      "paragraphs": [
-        "Chabahar port also known as the Golden Gate owing to its strategic location that allows landlocked Afghanistan and other Central Asian countries to access the sea. India, Afghanistan and Iran have a special interest to develop the port with the aim to neutralize the strategic imbalance caused by Gwadar port and reduce Afghanistan’s dependency on Pakistan for trade and transit.",
-        "On 13 May 2024, India and Iran signed a 10-year long-term agreement for operation of Shahid Behesti terminal at the Chabahar port. This deal lets India run a foreign port by itself for the first time. (ICPS, 2024). Chabahar is an important commerce route between India and Eurasia because it is at the centre of the International North–South Transport Corridor (INSTC).",
-        "The U.S. sanctions against Iran have made it impossible for the two countries to get along. India has always tried to get geopolitical exemptions and kept diplomatic balance even with these constraints. This illustrates that Chabahar is a very important exception since it connects the region and is not a matter of bilateral interest."
-      ]
-    },
-    {
-      "heading": "Sittwe Port: Enhancing India’s Act East Connectivity",
-      "paragraphs": [
-        "The Kaladan Multimodal Transit Transport project in India includes the Sittwe Port which is situated in Myanmar, in the state of Rakhine. The goal of the KMMTTP project is to connect the northeastern states of India, which are landlocked to the Bay of Bengal by sea, river, and road, pushing the country’s Act East agenda forward. Harnessing the Sittwe–Chittagong–Sabroom–Agartala route via water and land will reduce the transit time from four to two days, saving money, time and reducing carbon emissions.",
-        "In April 2024, the Indian government took complete control of Sittwe Port through India Ports Global Ltd. (IPGL) showcasing its strategic interests (ORF, 2025). The project enhances India’s logistical capabilities and strengthens its position as a key regional player in organizations such as the South Asian Free Trade Area (SAFTA) and the Association of Southeast Asian Nations-India Free Trade Area (AIFTA), as well as the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) promoting regional integration and cooperation (ORF, 2025).",
-        "This shows India’s ability to implement infrastructure initiatives which can benefit Myanmar’s trade and development as well as bolster its connectivity linkages. The port’s completion allows India to offer Myanmar an alternative to China’s dominant presence."
-      ]
-    },
-    {
-      "heading": "Ecological Imperatives: Climate Action and Blue Sustainability in the Western Indian Ocean",
-      "paragraphs": [
-        "Climate change has emerged as one of the most defining issues of the 21st century, with implications that are far too deep to be dismissed. No longer is it a national border- and political ideology-bound crisis, but a global phenomenon whose impacts spill across continents, affecting and disrupting societies, economies and ecosystems worldwide. And among the worst hit, are the oceans of the world.",
-        "The ocean covers nearly three-quarters of our planet, produces more than half of the oxygen that we breathe, and absorbs about a quarter of the Carbon Dioxide we produce. However, this comes at a devastating cost. The dissolved CO2 reacts with the seawater to form carbonic acid and lowers the ocean’s pH in the process also known as ocean acidification, which further results in the weakening of coral skeletons and dissolving of the shells of molluscs and planktons, but also disrupting the lives of billions of people who ultimately depend upon the oceans for their nutrition and livelihoods. In fact, it is projected to decrease the ocean’s pH levels from approximately 8.1 to 7.7 by the end of the century, the consequences to which would be nothing short of detrimental. [Obura et al., WWF Report, 2017]",
-        "This crisis is particularly alarming in the Western Indian Ocean (WIO), a region of exceptional biodiversity and immense economic importance. From Seychelles’ coral reefs to Madagascar’s dense mangrove forests and seagrass meadows that line the coasts of Kenya, Tanzania and Mozambique, the WIO is home to over 11,000 documented species. Yet, decades of overexploitation and habitat loss have placed these ecosystems under tremendous pressure. Mangrove cover is shrinking, Kenya and Tanzania have lost about 18% in the past 25 years, while Mozambique has lost 27% in an even shorter period. Coral reefs have declined by 15% following major bleaching events such as the 1997-98 El Niño. The region’s busy shipping lanes, which carry a third of global oil tanker traffic, further expose it to the risk of oil spills and invasive species. The collapse of these habitats may have catastrophic effects as fewer nursery grounds for fish would mean dwindling fish stocks and reduced food security for millions. [Obura et al., WWF Report, 2017] In this context, the idea of a Blue Economy, rather, more importantly, Blue Sustainability, is no longer a lofty ideal but an ecological and economic necessity."
-      ]
-    },
-    {
-      "heading": "International and Regional Initiatives for Climate Action and Sustainability",
-      "paragraphs": [
-        "The concept of Blue Economy first gained global prominence during the Rio+20 Conference in 2012, which was built upon the idea of decoupling socio-economic development from environmental degradation. Since then, several regional initiatives in the WIO have been put into practise, that align the interests of their countries with the Sustainable Development Goals (SDGs), particularly SDG 14, which calls for the conservation and sustainable use of oceans and marine resources. [Mohanty et al., RIS Report, 2015]",
-        "The IORA, which is often considered to be leading the other regional efforts, has been a central platform for the same. Similarly, the Mauritius Declaration (2015) had stressed the need for better ocean governance, while the Jakarta Declaration (2017) had outlined the commitments for sustainable fishing and stronger legal frameworks. Further, the Nairobi Convention had led to the establishment of the Out Blue Future (OBF) initiative which focuses on inclusive and sustainable ocean governance in the WIO, aiming to empower the local communities and attract environmentally responsible investments. [ORF Occasional Paper: 181, A. Roy, 2019]",
-        "As for the Small Island Developing States (SIDS), especially Seychelles and Mauritius, several innovative approaches have been adapted. For instance, Seychelles’ “debt-for adaptation” dedicates 30% of its Exclusive Economic Zone (EEZ) for marine conservation, while Mauritius launched an ambitious Ocean Economy Strategy (2013) to drive sustainable maritime growth. But these high-profile initiatives also raise certain concerns regarding their successful implementation, particularly in the less wealthy WIO nations, or whether these initiatives remain limited only to the better-resourced states. [ORF Occasional Paper: 181, A. Roy, 2019], [Obura et al., WWF Report, 2017]"
-      ]
-    },
-    {
-      "heading": "Climate Action and Resilience (SDG 13)",
-      "paragraphs": [
-        "In the humanitarian arena, the Indian Navy has time and again served as the first respondent to natural disasters in the WIO, playing a crucial role during Cyclone Idai in Mozambique (2019), Cyclone Diane in Madagascar (2020) and the MV Wakashio oil spill in Mauritius (2020). Even during the Covid-19 pandemic, India had, under Mission Sagar, supplied food, medical aid, to Mauritius, Seychelles, Comoros, and Madagascar, which further established India as a trusted regional partner. [ORF Issue Brief: 576, S. Kesnur, A. Mishra, 2022]",
-        "Yet, India’s contributions don’t stop at emergency responses. Through its clean energy partnerships with Mauritius and Sri Lanka, and through several multilateral platforms like International Solar Alliance (ISA) and the Coalition for Disaster Resilient Infrastructure (CDRI), India is promoting long-term resilience by sharing technology and building climate-resilient infrastructure. [Current Conservation, D. Jayaram, H. Narayanan, I. Jain, June 30, 2025]"
-      ]
-    },
-    {
-      "heading": "Marine Biodiversity and Ecosystem Conservation (SDG 14 & 15)",
-      "paragraphs": [
-        "India had also made significant efforts towards marine biodiversity and ecosystem conservation, which can’t simply be neglected. In 2021, it had launched the Deep Ocean Mission (DOM) under the Ministry of Earth Sciences, which aimed to map the deep-sea resources and genetic biodiversity while also expanding marine conservation areas. Alongside, India is also developing a Maine Spatial Plan (MSP) which seeks to reduce conflicts between human activities and what is needed for further ecosystem resilience. Costal restoration is also gaining momentum through the National Coastal Mission, which is committing to restore mangroves and coral, with notable achievements in coral transplantation and seagrass restoration in Tamil Nadu’s Gulf of Mannar Biosphere Reserve. Further, emerging research also shows that coral-mangrove hybrid conservation models might serve as climate sanctuaries for corals, potentially reducing the heat-induced bleaching; while coral aquaculture, growing corals in controlled environments for transplantation, could offer both ecological benefits and new livelihood opportunities. [Dr. Raman Murthy; UN Oceans Conference, 2022]",
-        "The Mangrove Initiative for Shoreline Habitats and Tangible Incomes (MISHTI) scheme clearly demonstrated how livelihoods can be directly improved through conservation, where Gujrat, notably, revived nearly 19,000 hectares of mangroves, while also improving fish stocks and fishermen incomes. Given their efficiency as carbon sinks, India is now exploring blue carbon credit mechanisms, aligning them with global REDD+ initiatives. [Policy Circle, S. Jain, S. Gull, May 25, 2025]"
-      ]
-    },
-    {
-      "heading": "Science, Monitoring and Capacity Building",
-      "paragraphs": [
-        "To further strengthen these efforts, scientific research and monitoring also plays an important role. The Marine Biodiversity and Environment Management Division (MBEMD) at CMFRI is dedicate to understand marine habitats and assess the impacts of pollution and fishing, and also develop protocols for the restoration of coral reefs, seagrass beds and mangrove stands. [CMFRI official, accessed last in July 26, 2025]",
-        "At the same time, India also offers its expertise in tools like Potential Fishing Zone Advisory Services (PFZAS), which helps fishermen locate fish aggregation zones efficiently and reduce carbon emissions, while the Coral Bleaching and Algal Bloom Information Service (ABIS) provides real-time ecosystem monitoring. The International Training Centre for Operational Oceanography (ITCO-Ocean) supports capacity building across the region. On fisheries governance, the PM Matsya Sampada Yojana (PMMSY) further promotes sustainable aquaculture, and ISRO’s oceanographic satellites, along with the Information Fusion Centre– Indian Ocean Region (IFC-IOR), are improving surveillance against Illegal, Unreported, and Unregulated (IUU) fishing as well. [ORF Issue Brief: 576, S. Kesnur, A. Mishra, 2022]"
-      ]
-    },
-    {
-      "heading": "Maritime Domain Awareness (MDA) and Regional Exercises",
-      "paragraphs": [
-        "Maritime Domain Awareness (MDA), aided by the White Shipping Information agreements India had signed with the WIO countries like Mauritius, Seychelles, Kenya and Mozambique. Moreover, the Lucknow Declaration (2020), and the participation in multilateral maritime exercises like Cutlass Express (2017, 2020), have further strengthened India’s efforts against Illegal, Unreported, and Unregulated (IUU) fishing. [ORF Issue Brief: 576, S. Kesnur, A. Mishra, 2022]",
-        "Yet, despite these strong initiatives, there is very little evaluation of how these initiatives impact the ecological health and socio-economic resilience of WIO partner nations. For instance, while India may share its technology and knowledge to these countries, there is very little evidence on how effectively the recipient nations would utilize these tools, or whether they’re being translated into tangible conservation outcomes. Therefore, to understand whether India’s interventions strengthen regional conservation capacities or they remain largely symbolic is a very crucial need for assessing their real contributions to SDG 14 and 15."
-      ]
-    }
-  ],
-  "conclusion": [
-    "India’s Blue Diplomacy in the Western Indian Ocean is a brilliant initiative that goes beyond only ports. It gives a big picture of the sea that encompasses safety, connections, growth, and working together in the area. India’s SAGAR strategy asks for a long-term and broad commitment in the area, which includes enhanced military presence and marine domain awareness, humanitarian help, and building capacity. India backs a rules-based and international system through entities like IORA, BIMSTEC, and regional free trade agreements.",
-    "India’s strategic investments in regions like Chabahar and Sittwe only make it simpler to trade and get about, but they also show that India is a good partner for security and progress. India does this to stop relying too much on important trade routes like Malacca and to stop China from being stronger. Building infrastructure that can handle climate change, doing health diplomacy, and teaching people in Africa are all ways that India is helping South–South solidarity.",
-    "India visualizes itself as a bridge between the Indo-Pacific and the Western Indian Ocean. India’s concept of the maritime commons isn’t military but it’s broad and includes a realistic view of geopolitics and a dedication to development. It wants to create a safe, open marine system that protects the common good for everyone while also keeping its own strategic independence."
-  ],
-  "acknowledgements": [],
-  "references": [
-    {
-      "heading": "Baalnoi Academy. (n.d.). India’s ‘Necklace of Diamonds’ strategy.",
-      "links": "https://baalnoiacademy.com/indias-necklace-of-diamonds-strategy/"
-    },
-    {
-      "heading": "Bhattacharya, S. (2024). Middle power and regionalism: Implications of India joining the Indian Ocean Commission (pp. 71–89). Routledge.",
-      "links": ""
-    },
-    {
-      "heading": "Bhattacharya, S. B. (n.d.). The strategic significance of the Indian Ocean for India’s security in the 21st century: An overview.",
-      "links": ""
-    },
-    {
-      "heading": "Chevallier, R. (2017, May). Integrated marine and coastal management in the Western Indian Ocean: Towards a sustainable oceans’ economy (Occasional Paper No. 258). South African Institute of International Affairs.",
-      "links": "https://www.jstor.org/stable/resrep28393"
-    },
-    {
-      "heading": "Climate Connection. (2025, December 3). The Murky Waters of the Blue Economy: A Cautious Look at India’s Coastal Development.",
-      "links": "https://climateconnection.in/blog/murkywaters-blue-economy-cautious-look-indias-coastal-development"
-    },
-    {
-      "heading": "Du Plessis, N. (2024). Exploring the ‘ocean economies’ of Western Indian Ocean coastal states (Doctoral dissertation, Cape Peninsula University of Technology).",
-      "links": ""
-    },
-    {
-      "heading": "Gupta, A. (2023, September 6). Role of defence diplomacy in shaping favourable strategic neighbourhood. Vivekananda International Foundation.",
-      "links": "https://www.vifindia.org/article/2023/september/06/Role-of-Defence-Diplomacy-in-Shaping-Favourable-Strategic-Neighbourhood"
-    },
-    {
-      "heading": "Gurjar, S., & Dutta, A. (2021, March). Evolving geopolitics of the Western Indian Ocean: A primer from India. Indian Council of World Affairs.",
-      "links": "https://www.icwa.in/WriteReadData/RTF1984/5898247569.pdf"
-    },
-    {
-      "heading": "Haldar, S., & Gupta, S. (2025, June 9). Prioritising the Western Indian Ocean in India’s maritime security calculus. Observer Research Foundation.",
-      "links": "https://www.orfonline.org/expertspeak/prioritising-the-western-indian-ocean-in-india-s-maritime-security-calculus"
-    },
-    {
-      "heading": "Indian Council for Professional Studies (ICPS). (n.d.). The Chabahar Port and India–Iran Agreement.",
-      "links": "https://www.icpsnet.org/issuebrief/The-Chabahar-Port-and-India-Iran-Agreement"
-    },
-    {
-      "heading": "Indian Navy collaborates with Sri Lanka and Seychelles to rescue hijacked Sri Lankan fishing vessel. (n.d.). The Economic Times.",
-      "links": "https://economictimes.indiatimes.com/news/defence/indian-navy-collaborates-with-sri-lanka-and-seychelles-to-rescue-hijacked-sri-lankan-fishing-vessel/articleshow"
-    },
-    {
-      "heading": "Indian Navy safely escorted 3,440 ships and 25,000 crew in anti-piracy patrols since 2008: Centre. (2024, February 2). The New Indian Express.",
-      "links": "https://www.newindianexpress.com/nation/2024/Feb/02/indian-navy-safely-escorted-3440-ships-and-25000-crew-in-anti-piracy-patrols-since-2008-centre"
-    },
-    {
-      "heading": "Jan, S., & Gull, S. H. (2025, May 25). Blue economy: Mangroves, coral reefs key to India’s economic ambitions. Policy Circle.",
-      "links": "https://www.policycircle.org/blue-economy-mangroves-coral-reefs-key-to-indias-economic-ambitions/"
-    },
-    {
-      "heading": "Jayaram, D., Narayanan, H., & Jain, I. (2025, July 3). The geopolitics of climate change in the Indian Ocean Region. Current Conservation.",
-      "links": "https://www.currentconservation.org/the-geopolitics-of-climate-change-in-the-indian-ocean-region"
-    },
-    {
-      "heading": "Kesnur, S. B., & Mishra, A. (2022). India’s maritime agenda pivots to Western Indian Ocean (ORF Issue Brief No. 576). Observer Research Foundation.",
-      "links": "https://www.orfonline.org/research/india-s-maritime-agenda-pivots-to-western-indian-ocean"
-    },
-    {
-      "heading": "Khurana, G. S. (2018). Multilateral structures in the Indian Ocean: Review and way ahead. Maritime Affairs: Journal of the National Maritime Foundation of India, 14(1), 11–23.",
-      "links": ""
-    },
-    {
-      "heading": "Lakshmi, N. (2024). India’s maritime agenda pivots to Western Indian Ocean. Observer Research Foundation.",
-      "links": "https://www.orfonline.org/research/india-s-maritime-agenda-pivots-to-western-indian-ocean"
-    },
-    {
-      "heading": "Lidarev, I., & Pant, H. V. (2022). India and maritime governance in the Indian Ocean: The impact of geopolitics on India’s involvement in maritime governance.",
-      "links": ""
-    },
-    {
-      "heading": "Łukaszuk, T. (2025). India’s role in the Indian Ocean Region in the 21st century: Maritime governance perspective. In H. Pant & K. Baruah (Eds.), The Routledge Handbook of Maritime India (pp. 210–225). Routledge India.",
-      "links": ""
-    },
-    {
-      "heading": "Ministry of Earth Sciences, Government of India. (2025, May). Transforming India’s blue economy: Investment, innovation and sustainable growth.",
-      "links": "https://www.moes.gov.in/sites/default/files/2025-05/White-Paper_Blue_Economy.pdf"
-    },
-    {
-      "heading": "Mishra, A., & Sen, S. (2022). Maritime security and development in the South-West Indian Ocean region: Harnessing India’s engagement with Small Island Developing States. In S. Singh (Ed.), India’s Maritime Diplomacy in the Indian Ocean Region (pp. 98–113). Pentagon Press.",
-      "links": ""
-    },
-    {
-      "heading": "Mohan, G. (2017). Engaging with the Indian Ocean. Global Public Policy Institute.",
-      "links": "https://www.gppi.net/2017/08/22/engaging-with-the-indian-ocean"
-    },
-    {
-      "heading": "Mohanty, S. K., Dash, P., Gupta, A., & Gaur, P. (2015). Prospects of Blue Economy in the Indian Ocean. Research and Information System for Developing Countries (RIS).",
-      "links": "https://www.ris.org.in/sites/default/files/Final_Blue_Economy_Report_2015-Website.pdf"
-    },
-    {
-      "heading": "Murthy, R. (2022). Interactive Dialogue 2: Managing, Protecting, Conserving and Restoring Marine and Coastal Ecosystems. UN Ocean Conference (2022).",
-      "links": ""
-    },
-    {
-      "heading": "Naha, N. (2021, January 5). Reshaping India’s foreign policy for 2021. The Kootneeti.",
-      "links": "https://thekootneeti.in/2021/01/05/reshaping-indias-foreign-policy-for-2021/"
-    },
-    {
-      "heading": "Obura, D., Smits, M., Chaudhry, T., McPhillips, J., Beal, D., Astier, C., Tanzer, J., & Gamblin, P. (2017, January). Reviving the Western Indian Ocean Economy: Actions for a Sustainable Future. WWF International.",
-      "links": "https://sustainabledevelopment.un.org/content/documents/13692WWF2.pdf"
-    },
-    {
-      "heading": "Observer Research Foundation. (n.d.). Chabahar’s opportunities and challenges.",
-      "links": "https://www.orfonline.org/research/chabahar-s-opportunities-and-challenges"
-    },
-    {
-      "heading": "Observer Research Foundation. (n.d.). Facilitating India–Myanmar trade through Sittwe port: Opportunities and challenges.",
-      "links": "https://www.orfonline.org/research/facilitating-india-myanmar-trade-through-sittwe-port-opportunities-and-challenges"
-    },
-    {
-      "heading": "Observer Research Foundation. (n.d.). Prioritising the Western Indian Ocean in India’s maritime security calculus.",
-      "links": "https://www.orfonline.org/expert-speak/prioritising-the-western-indian-ocean-in-india-s-maritime-security-calculus"
-    },
-    {
-      "heading": "Observer Research Foundation. (n.d.). Strategic competition in the Indian Ocean: Why island states matter.",
-      "links": "https://www.orfonline.org/expert-speak/strategic-competition-in-the-indian-ocean-why-island-states-matter"
-    },
-    {
-      "heading": "Peron-Doise, M. (2025). Indo-Pacific’s vision of France and India: Enhancing maritime multilateralism. In A. Mukherjee & C. Rajagopalan (Eds.), The Routledge Handbook of Maritime India (pp. 122–135). Routledge India.",
-      "links": ""
-    },
-    {
-      "heading": "Press Information Bureau (PIB). (2024, February 22). Text of the Vice-President’s speech – Inauguration of International Maritime Seminar - MILAN 2024.",
-      "links": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2007989"
-    },
-    {
-      "heading": "Press Information Bureau. (2022, February 3). Union Minister Dr Jitendra Singh says, Blue Economy is the sixth dimension of Government of India’s Vision of New India by 2030.",
-      "links": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1795031"
-    },
-    {
-      "heading": "RACE IAS. (n.d.). 9th National Level Pollution Response Exercise (NATPOLREX-IX).",
-      "links": "https://raceias.com/current-affairs/9th-national-level-pollution-response-exercise-natpolrex-ix"
-    },
-    {
-      "heading": "Roy, A. (2019, January). Blue Economy in the Indian Ocean: Governance Perspectives for Sustainable Development in the Region (ORF Occasional Paper No. 181). Observer Research Foundation.",
-      "links": "https://www.orfonline.org/wp-content/uploads/2019/02/Blue-Economy-in-the-Indian-Ocean.pdf"
-    },
-    {
-      "heading": "Sagarmala. (n.d.). Port modernization.",
-      "links": "https://sagarmala.gov.in/project/port-modernization"
-    },
-    {
-      "heading": "Sangomla, A. (2024, April 29). Indian Ocean is heating up much faster than we think, at a rate of 1.7–3.8°C per century. Down To Earth.",
-      "links": "https://www.downtoearth.org.in/news/climate/change/indian-ocean-is-heating-up-much-faster-than-we-think-at-a-rate-of-1-7-3-8-c-per/century-95805"
-    },
-    {
-      "heading": "Sharma, R. (2024). India’s maritime security and multilateralism in the Western Indian Ocean. International Journal of Social Science and Economic Research, 9(2), 267–280.",
-      "links": "https://ijsser.org/2024files/ijsser_09__267.pdf"
-    },
-    {
-      "heading": "Sodha, M. (2025, May 8). Our Blue Future – A Multi-stakeholder Initiative for Inclusive Sustainable Blue Economy (ISBE) in the Western Indian Ocean. PANORAMA.",
-      "links": "https://panorama.solutions/en/solution/our-blue-future-multi-stakeholder-initiative-inclusive-sustainable-blue-economy-isbe-western-indian-ocean"
-    },
-    {
-      "heading": "Swarajya. Base in Oman: India granted access to strategically located Duqm port for military use.",
-      "links": "https://swarajyamag.com/insta/base-in-oman-india-granted-access-to-strategically-located-duqm-port-for-military-use"
-    },
-    {
-      "heading": "The Energy and Resources Institute. (2022, July). Blue economy: A roadmap for sustainable development.",
-      "links": "https://www.teriin.org/sites/default/files/2022/07/Blue_Economy_Publication.pdf"
-    },
-    {
-      "heading": "UNEP. (2023). India - ID2 - Marine and Coastal Ecosystems.",
-      "links": "https://www.unep.org/system/files/2023-09/INDIA-%20ID2%20marine%20and%20coastal%20ecosystems%20.pdf"
-    }
-  ]
-},
+    "id": 9,
+    "serialNumber": 45,
+    "issue": 4,
+    "volume": 1,
+    "title": "INDIA’S BLUE DIPLOMACY IN THE WESTERN INDIAN OCEAN: SECURING MARITIME COMMONS BEYOND THE INDO-PACIFIC (2008–2024)",
+    "author": [
+      "SumitGusain",
+      "SaanviBudhiraja",
+      "Rishi Gurung",
+      "Anisha Tiwari",
+      "AishiMitra"
+    ],
+    "authorAbbrev": [
+      "S. Gusain",
+      "S. Budhiraja",
+      "R. Gurung",
+      "A. Tiwari",
+      "A. Mitra"
+    ],
+    "status": "Submitted",
+    "abstract": [
+      "This paper is a critical analysis of India’s evolving maritime strategy in the Western Indian Ocean (WIO) from 2008 to 2024, putting forth the argument of India’s ‘blue diplomacy’ witnessing a strategic paradigm shift that now transcends the confines of the Indo-Pacific narrative to adopt a much more feasible approach. Laid down in the SAGAR (Security and Growth for All in the Region) vision and refined under the recent MAHASAGAR framework, India’s policies in the WIO interpret maritime security, regional connectivity, ecological supervision, and sustainable development as interlinked pillars of foreign policy. The study explores how the pressing necessity of safeguarding vital sea lanes that handle over 80% of India’s crude oil imports and a significant share of national trade, drives forward India’s westward focus of deep engagement with the geopolitically sensitive WIO region.",
+      "Key aspects of this ‘blue diplomacy’ include strong maritime security collaboration against common threats like piracy, arms proliferation, and illicit trafficking, enabled by operations such as Operation Sankalp and through initiatives like the Information Fusion Centre–Indian Ocean Region (IFC-IOR). The paper investigates the strategic use of port development by India and highlights projects like Chabahar in Iran and Sittwe in Myanmar, serving both as hubs for logistics as well as tools for encouraging inclusive regional development, improving access particularly for landlocked economies and strengthening India’s “Act East” and “Neighbourhood First” policies.",
+      "The research also digs around India’s active involvement with international platforms such as the Indian Ocean Rim Association (IORA) and Indian Ocean Commission (IOC) to support the growth of the sustainable ocean-based economy and improve cooperation. Additionally, the study makes a point of aligning the Sustainable Development Goals (particularly SDGs 13, 14, 16, and 17) into India’s maritime plan."
+    ],
+    "keywords": [
+      "Blue Diplomacy",
+      "Western Indian Ocean (WIO)",
+      "Maritime Security",
+      "Port Development",
+      "Sustainable Development Goals (SDGs)"
+    ],
+    "intro": [
+      "The Western Indian Ocean (WIO) has become an important strategic marine arena in the 21st century. The area is very important for the safety, economy, and environment of the larger Indo-Pacific because it is close to important sea lanes of communication (SLOCs) that help transfer a lot of the world’s products and energy. India needs to protect its national interests not just at the WIO, which is a marine border. It’s also a way to show strength through strategic partnerships, port diplomacy and efforts to promote long-term growth.",
+      "India’s part in the WIO has changed in the last few years. It used to be largely about safety, but today it works together in many ways. There are also investments in ports like Chabahar and Sittwe, as well as contributions to entities like the Indian Ocean Rim Association (IORA) and the Indian Ocean Commission (IOC). In addition to this, there are also anti-piracy operations, humanitarian aid and disaster relief (HADR) missions, and efforts to make the navy stronger. India’s focus on protecting marine biodiversity, making the climate more resilient, and blue economy projects is another indicator that it is in line with the UN Sustainable Development Goals (SDGs).",
+      "A number of scholars are still interested in India’s involvement in the WIO, but most of their work has focused on what it does in the Eastern Indo-Pacific. This article tries to fill in the gaps by looking at how India’s strategic shift towards the WIO affects long-term maritime governance and regional security, as well as the geopolitical effects of its port diplomacy. The study’s goal is to employ theme analysis to show how India’s changing maritime position could affect the future of the Western Indian Ocean system in its entirety."
+    ],
+    "problemStatement": [
+      "Despite India’s continued involvement in the Indo-Pacific, the Western Indian Ocean (WIO) has not gotten much attention in talks of strategic maritime research and policy. Given the rise of maritime issues like illicit fishing, environmental impact, piracy, and geopolitical competition, particularly with China, India’s admission to the WIO under the SAGAR and later MAHASAGAR doctrines marks a significant change. There is a significant research gap in evaluating how India integrates sustainability, security, and diplomacy to become a net security provider in this vital region."
+    ],
+    "researchObjectives": [
+      "To explore India’s maritime policy in the Western Indian Ocean, moving away from the Indo-Pacific and how it helps maintain the area safe through anti-piracy operations, naval stations, and humanitarian aid.",
+      "To examine how India’s port diplomacy and huge infrastructure projects like Chabahar and Sittwe can change the way the world operates, link diverse locations and help blue economy projects that are in line with the Sustainable Development Goals.",
+      "To assess how India collaborates with organisations like the IORA and IOC to improve the climate in the Western Indian Ocean region, make the environment safer, and make the regulations that govern the sea fairer."
+    ],
+    "researchQuestions": [
+      "How has India’s maritime strategy evolved in the Western Indian Ocean, and what impact has it had on regional security and stability?",
+      "In what ways does India employ port diplomacy and strategic infrastructure projects to advance geopolitical influence, regional integration, and sustainable economic growth?",
+      "How effective is India’s collaboration with regional and multilateral organizations in addressing environmental challenges, marine biodiversity conservation, and inclusive maritime governance?"
+    ],
+    "thematicLiteratureReview": [
+      {
+        "heading": "Strategic Vision and Blue Economy in the WIO",
+        "paragraphs": [
+          "Strategic Vision and Blue Economy in the WIO – India’s shift from the Indo-Pacific to the WIO reflects an evolution in strategic thinking. Scholars such as Gurjar & Dutta (2021) and Kesnur & Mishra (2022) have underscored India’s adoption of the SAGAR doctrine as a new regional identity marker rooted in sovereign maritime governance and SDG alignment. The Blue Economy Vision 2030 and the Viksit Bharat 2047 roadmap further emphasize economic-ecological synergy."
+        ],
+        "gap": "Limited evaluation exists on the realignment from SAGAR to MAHASAGAR in 2025 and how it differentiates India’s long-term geopolitical intent."
+      },
+      {
+        "heading": "Maritime Security and Naval Architecture",
+        "paragraphs": [
+          "Maritime Security and Naval Architecture – Anti-piracy operations, HADR missions, and the IFC-IOR are well documented in think tank analyses (Brewster, 2024; Express, 2025). However, most works focus on the Indo-Pacific and underappreciate India’s evolving doctrine of net security provider in the WIO."
+        ],
+        "gap": "Insufficient cross-national comparative studies of Indian naval deployments with those of other regional powers (e.g., France, China) in the WIO."
+      },
+      {
+        "heading": "Multilateral Governance: IORA, IOC and Blue Growth",
+        "paragraphs": [
+          "India’s IORA and IOC leadership has been viewed as the connecting bridge between security and developmental objectives (e.g., Mohan, 2017; Bhattacharya, 2024). IORA’s focus on SDG 14 and 17 and IOC’s fisheries, biodiversity activities are significant pillars of regional cooperation."
+        ],
+        "gap": "A critical institutional analysis comparing India’s engagement with IORA vs. IOC is still absent."
+      },
+      {
+        "heading": "Infrastructure Diplomacy: Ports and Trade Corridors",
+        "paragraphs": [
+          "India’s port diplomacy, including Chabahar, Sittwe, and Ehoala, is documented by ORF (2024–2025) and the Ministry of Ports. Yet academic analyses often treat these as isolated foreign policy tools rather than part of a long-term ocean governance vision."
+        ],
+        "gap": "Lack of integrated studies linking port-building to India’s strategic blue economy agenda and regional trust-building."
+      },
+      {
+        "heading": "Environmental Sustainability and Blue Resilience",
+        "paragraphs": [
+          "Literature such as WWF Report (2017), Jayaram et al. (2025), and Roy (2019) foreground ecological stress in the WIO. India’s Deep Ocean Mission, MISHTI, and marine spatial planning efforts are emerging topics. Tools like PFZAS and ABIS also represent technological leadership in marine conservation."
+        ],
+        "gap": "Few studies assess the impact effectiveness of India’s environmental contributions in WIO nations, or whether they result in measurable resilience and local capacity-building."
+      }
+    ],
+    "methodology": [
+      "This study uses a qualitative, thematic case study approach to examine India’s blue diplomacy in the Western Indian Ocean (2008–2024). The research focuses on three key dimensions: strategic infrastructure, maritime security, and ecological sustainability – each aligned with relevant Sustainable Development Goals (SDGs), particularly SDGs 13, 14, and 17.",
+      "The methodology combines content analysis of policy documents, government reports, and multilateral declarations (e.g., SAGAR, IORA, MAHASAGAR); and comparative case studies of India-led initiatives including – Strategic Infrastructure: Chabahar and Sittwe Ports; Security Architecture: IFC-IOR, anti-piracy patrols; Environmental Engagements: Agalega Island, Deep Ocean Mission, MISHTI.",
+      "The Data for the study were further sourced from Indian government publications (PIB, MoES, MEA), reports from ORF, ICWA, TERI, and UNEP, academic and policy literature, news coverage and official press releases (2008–2024). However, it is to be noted, that the study is based on secondary data and may not fully capture classified strategic assessments or on-ground environmental impact. Future studies may benefit from regional fieldwork and primary stakeholder interviews."
+    ],
+    "content": [
+      {
+        "heading": "Framing the Vision: India’s Blue Economy and Maritime Strategy in the WIO",
+        "paragraphs": [
+          "India’s strategic approach to the Western Indian Ocean since 2008 put forward a calibrated modification of the sovereign state’s maritime vision that moved away from the entire Indo-Pacific framework to a specific and much more feasible narrative of fusing its economic ambitions, security needs and sustainability in accordance with international law. This thematic section delves into the critical aspects of India’s ever-evolving maritime approach in the WIO and its strategic adaptation beyond the Indo-Pacific corridors ever since the inception of the SAGAR (Security and Growth for All in the Region) doctrine, its special focus on sovereignty under the United Nations Convention on the Law of the Sea (UNCLOS), and its systematic alignment with the UN-laid Sustainable Development Goals (SDGs), specifically SDGs 14, 8, and 16. These focus points allow the strengthening of India’s leadership in the region, intersecting broader concepts such as security cooperation, infrastructural support, global partnerships, and ecological responsibility. Through this unified, interlinked and interdependent structure, India continues to push for its claim as the regional advocate for legitimacy, partnership and responsible guardianship across the WIO."
+        ]
+      },
+      {
+        "heading": "Strategic shift beyond the Indo-Pacific",
+        "paragraphs": [
+          "India’s paradigm shift from a historical focus on the Indo-Pacific corridors towards the Western Indian Ocean is driven by the ever-growing dependence on sea lanes that make up for over 80% of the overall crude oil imports and large volumes of trade (Haldar & Gupta, 2025). The rise of maritime threats including piracy, trafficking, and strategic rivalry compelled India to turn its focus westward. This strategic shift is further reinforced by the WIO’s proximity to the Middle Eastern countries like Iraq, Saudi Arabia, and the United Arab Emirates, which collectively make up 40% to over 50% of India’s total crude oil imports (Haldar & Gupta, 2025).",
+          "This strategy was consolidated by the SAGAR (Security and Growth for All in the Region) doctrine which was announced in 2015 and prioritized: Oceans’ security through the enhancement of cooperation and naval monitoring. Secondly, inclusive regional growth fostering economic partnerships with coastal and island states in the WIO. Thirdly, nurturing regional stability through diplomatic coalitions (Kesnur and Mishra, 2022; Naha, 2021).",
+          "The SAGAR doctrine has undergone significant evolution and was rearticulated in March 2025 as, Mutual and Holistic Advancement for Security and Growth Across Regions (MAHASAGAR). This strategic shift solidifies India’s role as a regional balance maker and net security provider capable of capacity building, military diplomacy, military assistance and direct deployment of its own military forces, thus contributing to regional resilience and sustainability while also safeguarding shared maritime commons (Haldar & Gupta, 2025; E-IR, 2025)."
+        ]
+      },
+      {
+        "heading": "Blue Economy, Legal Frameworks, and Sustainable Development",
+        "paragraphs": [
+          "India’s blue economy framework is a detailed and all-encompassing plan which integrates economic growth and ecosystem conservation (TERI, 2022). This strategy is defined through a holistic understanding of the Blue Economy Vision, a vital component of the much bigger Vision of New India by 2030 (Press Information Bureau [PIB], 2022). The vision aims for national development by making effective and responsible use of the ocean resources, while the strategy focuses on sustainable use of resources in sectors such as fisheries, tourism, maritime transport, renewable energy, aquaculture, seabed mining, and marine biotechnology, across offshore and coastal lines (Ministry of Earth Sciences, 2025; TERI, 2022; KPMG, 2024). The Blue Economy is in the centre of India’s Viksit Bharat 2047 vision and targets a US$100 billion contribution (Ministry of Earth Sciences, 2025; PIB, 2022; KPMG, 2024).",
+          "The international law under UNCLOS forms the strong ground on which India exercises its maritime leadership. The Indian State defends its sovereign rights over its Exclusive Economic Zone (EEZ) and continental shelf according to the provisions by UNCLOS. India also supports free navigation at sea and the peaceful settlement of maritime disputes through legal frameworks, while opposing any one-sided action that may disturb the peace & order at sea (Gurjar & Dutta, 2021). India is also an active part of multiple regional forums such as the Indian Ocean Rim Association (IORA) and Indian Ocean Commission (IOC) cooperating together in maritime security, fisheries management and ocean governance, aligning with SDG 16 (Peace, Justice and Strong Institutions) (Gurjar & Dutta, 2021)."
+        ]
+      },
+      {
+        "heading": "Security Through Collaboration: India’s Maritime Safety Architecture in the Western Indian Ocean (2008–2024)",
+        "paragraphs": [
+          "The Western Indian Ocean (WIO) which stretches from the eastern seaboard of Africa to island nations such as Seychelles, Madagascar, Mauritius, Maldives, and Comoros, has emerged as a pivotal region in India’s maritime strategy and blue diplomacy. A Maritime Strategy can be defined as the principle that governs a war at sea. It has become one of the topmost priorities of India’s foreign policies since the Mumbai attacks in 2008 which arose from the maritime border. 2008 stands as a year that marks a strategic shift of maritime strategies that addresses security challenges from diverse sources like antagonistic neighbours to non-state actors like pirates, maritime terrorists and armed robbers.",
+          "Since 2008, the Indian navy has deployed units in the Gulf of Aden and in the east coast of Africa towards anti-piracy patrols. (Express 2025) Following anti-piracy events along with interests in energy security, economic growth and protecting sea lanes, the WIO has become a major priority for India’s economic, ecological and maritime interests."
+        ]
+      },
+      {
+        "heading": "Anti-Piracy Operations: The Pillar of Security Collaboration",
+        "paragraphs": [
+          "The WIO has become a vital arena in India’s Maritime Security, particularly with the rise of non-traditional threats. The re-emergence of piracy invasions along the coast of Somalia between 2007-2012 became a major factor in continuous deployment of the Indian Navy to escort vulnerable commercial vessels to safety. This scenario is what prompted the launching of Operation Sankalp in 2019, thus India’s response to the growing tension in the Gulf. It provided protection for Indian-flagged merchant ships overflying maritime zones in the Persian Gulf, Gulf of Oman and the Middle East. Another component of India’s approach involves starting construction of an airstrip and jetty on Agalega Island in Mauritius in 2024. With regional partnerships being of utmost importance in times of invasions, there have been several examples where coordinated multilateral responses have resulted in timely rescue. Indian Navy navy together with Seychelles Defence Forces and Sri Lanka Navy intercepted and rescued hijacked vessel on 27 January 2024. India and Madagascar have expanded their naval and defence relations through arrangements that help each other to fight piracy, illegal fishing, and other such crimes targeted against maritime security. The navies and coast guards can now conduct bilateral exercises and operationalise some cooperation arrangements for approach, while also exchanging best practices for securing regional maritime lanes."
+        ]
+      },
+      {
+        "heading": "Information Fusion Centre – Indian Ocean Region (IFC-IOR): Real-Time Regional Coordination",
+        "paragraphs": [
+          "Incidents of large-scale piracy has reduced since 2012 with the growing militarisation in the area and with the emergence of regional Information Fusion Centres (IFCs). In the Western Indian Ocean, a regional information sharing arrangement was established in Madagascar in 2016 and India opened the Information Fusion Centre – Indian Ocean Region (IFC-IOR) in 2017. (Brewster 2024) The IFC routinely gathers and updates information on illegal fishing, unwanted people and environmental incidents in the WIO, and provides almost real-time alerts and summaries of piracy incidents. IFC-IOR also conducts annual workshops in which members from more than 25 countries, including Indian Ocean Island nations and African coastal nations, share best practices, coordinate simulated incident response exercises, and create a consensus framework to respond to challenges in the maritime domain. During large cyclones or oil spillages, the IFC-IOR provides critical incident information to navies and coast guards of affected countries for coordinated search and rescue and pollution control operations."
+        ]
+      },
+      {
+        "heading": "Humanitarian Assistance and Disaster Relief (HADR): Soft Power Dimension",
+        "paragraphs": [
+          "Humanitarian Assistance and Disaster Relief (HADR) has emerged as an important pillar of Indian maritime diplomacy and projection of Indian soft-powers in the Western Indian Ocean (WIO) region. This promotes cordial ties with foreign countries. Over the past decade, numerous humanitarian crises have taken place - from the direct impacts of armed conflict, the COVID-19 pandemic, natural disasters, and extreme natural weather events, as a result of climate change. Following the 2004 tsunami, the tempo of the Indian Navy’s HADR operations increased. Within these operations, elements of what is today the Indian vision of Security and Growth for All in the Region (SAGAR) began to surface. (The Indian Navy’s Humanitarian Role: Strategic Soft Power in Action 2024) Under this, India responded to Cyclone Idai in Mozambique in 2019 by deploying three ships carrying relief material. During the Mauritius oil spill disaster in 2020, India provided specialised equipment and a technical team. India also led naval missions where INS Airavat delivered medical aid to several countries like Sudan, South Sudan, Djibouti and Eritrea during the Covid-19 pandemic. These missions highlighted India’s preparedness as a first responder, but also strengthened the health security in the WIO."
+        ]
+      },
+      {
+        "heading": "Alignment with the Sustainable Development Goals (SDGs)",
+        "paragraphs": [
+          "India’s maritime security efforts in the Western Indian Ocean (WIO) between 2008–2024 advance global initiatives. For instance, India’s anti-piracy patrols, disaster response efforts, and establishing the Information Fusion Centre for the Indian Ocean Region (IFC-IOR) promote sustainable development goals (SDGs) such as SDG 14 (conservation and sustainable use of oceans, seas and marine resources), SDG 16 (promoting peaceful societies and just institutions) and SDG 17 (strengthening partnerships to achieve the SDGs). Such activities, along with joint naval actions exercising interoperability, the sharing of pertinent regional information and contributing to capacity-building for island states cumulatively build trust, develop an inclusive maritime security model, and re-enforces India as a reliable “net security provider”, which enhances regional security and advances the common vision of sustainable and rules-based maritime order."
+        ]
+      },
+      {
+        "heading": "IORA and IOC: Multilateral Platforms for Inclusive Blue Growth",
+        "paragraphs": [
+          "In the geopolitical framework of Western Indian Ocean, India conducts its diplomatic position in the context of the two, interconnected institutional arrangements, i.e. Indian Ocean Rim Association (IORA) and Indian Ocean Commission (IOC). The former, IORA, provides state officials with a well-organized platform where they could cooperate in the field of marine resources management, sustainable development, and maritime security. The latter is the IOC, which focuses on the coordination of the Anglophone littoral states. In conjunction, they provide additional collaborative opportunities in areas of high maritime priorities, which strengthen strategic interests of India (Mohan, 2017). Their ability to build partnerships between sovereigns like countries promotes the development of cohesion in policy-making and strategies that appeal to the interest of member-states, through regional organizations like IORA and IOC (Du Plessis, 2024).",
+          "India has taken on a much more eminent role in a wider picture of maritime security structures than before over the past decades such as the Indian associations with the organizations, like the Intergovernmental Standing Committee on Ship (AU-ISSA) and Djibouti Code of Conduct of the African Union. Collectively these bodies provide a formal multilateral platform against which the modern-day challenges such as piracy and various transnational crimes are struggled. Admittedly, strategic projects that are promoted by these two regional institutions can be appealing to the main Indian goals enhancing the more active cross-border collaboration and strengthening the role of India in the broader community of ocean governance (Bhattacharya, 2024). A combination of calibrated fisheries policies, prudence in exploring the resources, and inflexible blue trade quality have enabled the Indian Coast Guard and other authorities to build-in a growth-ecological balance conscious system which in turn has provided an avenue that leads to a healthier marine order."
+        ]
+      },
+      {
+        "heading": "IORA’s Impact on Blue Growth",
+        "paragraphs": [
+          "Indian Ocean Rim Association (IORA) is a regional platform that focuses on the process of developing the blue economy, or rather generating economic growth, livelihood and employment based on sustainable management of marine resources. In his analysis of 2018, Khurana follows the development of the institution through diplomatic interaction to a system of an institutional architecture supporting maritime governance, aiming at restraining illegal fishing, lessening marine pollution and introducing a comprehensive maritime order. The association aims to enhance cooperation among the states of the Indian Ocean Rim region within the mandate of its activities in the regions and also focuses on not only economic growth but also sustainable growth. The organization also encourages intra-regional and local projects like Sagarmala that will boost the maritime connectivity of trade. The most iconic one is the Blue Economy Dialogue, an organized platform twinning member states to share approaches, best practices, and strategies to sustainably manage the ocean (Mohan, 2017). This process has played a critical role to define blue growth agenda of IORA where it has paid focus on fisheries management, marine tourism, and ocean renewable energy. Based on the IORA Action Plan on the Blue Economy that outlines the importance of integrating ocean governance policies and economic paths towards obtaining an environmentally sustainable blue growth (Upadhyay & Mishra, 2020)."
+        ]
+      },
+      {
+        "heading": "IOC’s Contributions to Regional Development",
+        "paragraphs": [
+          "I would make your attention to the works of the Indian Ocean Commission (IOC) an intergovernmental organization who devotes itself to regional economic development, social cohesion and cultural development. By directing emphasis on sustainable exploitation of the marine resources, the IOC enables integrated exploitation of the oceanic resources. In this direction, the Commission has taken a complex approach that includes the issue of having sustainable fisheries, marine biodiversity as well as having renewable energy.",
+          "S Bhattacharya highlights, in the context of the mandate to promote scientific research, and sustainable development, the IOC has contributed towards blue growth and ocean governance. Some of the modalities encompass the systematic study of the coastal and open-ocean ecosystems as well as the identification of good practices in sustainable management, capacity-building activities targeted at member countries. These activities are put together in the aim to facilitate more informed, and eventually more successful management of marine resources. G. Mohan assumes that the keystone of regional stability is in competent design of the policy. As a practical proposal, he proposes an iterative, dialogue-driven process, through which participating states may tune a common institutional architecture, that reflects the broadly defined collective interests of the region."
+        ]
+      },
+      {
+        "heading": "Infrastructure as Influence: Port Diplomacy and Marine Sustainability",
+        "paragraphs": [
+          "The Western Indian Ocean connects Africa, the Middle East, and South Asia making it a critical hub in India’s maritime strategy. Control and access here give India’s navy more power in locations other than the Indo-Pacific. India uses port development as a tool of influence in the region offering aid, capacity-building, and investments to build trust without coercion following a sustainable design. More than 90% of India’s trade is conducted via the country’s maritime channel, India’s ports and trade related infrastructure needs constant improvement to speed up expansion in the manufacturing sector and support the “Make in India” strategy (Ministry of Ports, Shipping and Waterways, n.d.).",
+          "The region hosts some of the world’s most important naval corridors and strategically sensitive passages through which one-third of the world’s container traffic and two-thirds of global oil shipments pass (Observer Research Foundation, 2024). India’s port diplomacy encompassing initiatives like Chabahar in Iran, Sittwe in Myanmar, and Ehoala in Madagascar, shows its seriousness about making safe and long-lasting maritime commons."
+        ]
+      },
+      {
+        "heading": "Chabahar Port: Strategic Leverage in Iran’s Maritime Gateway",
+        "paragraphs": [
+          "Chabahar port also known as the Golden Gate owing to its strategic location that allows landlocked Afghanistan and other Central Asian countries to access the sea. India, Afghanistan and Iran have a special interest to develop the port with the aim to neutralize the strategic imbalance caused by Gwadar port and reduce Afghanistan’s dependency on Pakistan for trade and transit.",
+          "On 13 May 2024, India and Iran signed a 10-year long-term agreement for operation of Shahid Behesti terminal at the Chabahar port. This deal lets India run a foreign port by itself for the first time. (ICPS, 2024). Chabahar is an important commerce route between India and Eurasia because it is at the centre of the International North–South Transport Corridor (INSTC).",
+          "The U.S. sanctions against Iran have made it impossible for the two countries to get along. India has always tried to get geopolitical exemptions and kept diplomatic balance even with these constraints. This illustrates that Chabahar is a very important exception since it connects the region and is not a matter of bilateral interest."
+        ]
+      },
+      {
+        "heading": "Sittwe Port: Enhancing India’s Act East Connectivity",
+        "paragraphs": [
+          "The Kaladan Multimodal Transit Transport project in India includes the Sittwe Port which is situated in Myanmar, in the state of Rakhine. The goal of the KMMTTP project is to connect the northeastern states of India, which are landlocked to the Bay of Bengal by sea, river, and road, pushing the country’s Act East agenda forward. Harnessing the Sittwe–Chittagong–Sabroom–Agartala route via water and land will reduce the transit time from four to two days, saving money, time and reducing carbon emissions.",
+          "In April 2024, the Indian government took complete control of Sittwe Port through India Ports Global Ltd. (IPGL) showcasing its strategic interests (ORF, 2025). The project enhances India’s logistical capabilities and strengthens its position as a key regional player in organizations such as the South Asian Free Trade Area (SAFTA) and the Association of Southeast Asian Nations-India Free Trade Area (AIFTA), as well as the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) promoting regional integration and cooperation (ORF, 2025).",
+          "This shows India’s ability to implement infrastructure initiatives which can benefit Myanmar’s trade and development as well as bolster its connectivity linkages. The port’s completion allows India to offer Myanmar an alternative to China’s dominant presence."
+        ]
+      },
+      {
+        "heading": "Ecological Imperatives: Climate Action and Blue Sustainability in the Western Indian Ocean",
+        "paragraphs": [
+          "Climate change has emerged as one of the most defining issues of the 21st century, with implications that are far too deep to be dismissed. No longer is it a national border- and political ideology-bound crisis, but a global phenomenon whose impacts spill across continents, affecting and disrupting societies, economies and ecosystems worldwide. And among the worst hit, are the oceans of the world.",
+          "The ocean covers nearly three-quarters of our planet, produces more than half of the oxygen that we breathe, and absorbs about a quarter of the Carbon Dioxide we produce. However, this comes at a devastating cost. The dissolved CO2 reacts with the seawater to form carbonic acid and lowers the ocean’s pH in the process also known as ocean acidification, which further results in the weakening of coral skeletons and dissolving of the shells of molluscs and planktons, but also disrupting the lives of billions of people who ultimately depend upon the oceans for their nutrition and livelihoods. In fact, it is projected to decrease the ocean’s pH levels from approximately 8.1 to 7.7 by the end of the century, the consequences to which would be nothing short of detrimental. [Obura et al., WWF Report, 2017]",
+          "This crisis is particularly alarming in the Western Indian Ocean (WIO), a region of exceptional biodiversity and immense economic importance. From Seychelles’ coral reefs to Madagascar’s dense mangrove forests and seagrass meadows that line the coasts of Kenya, Tanzania and Mozambique, the WIO is home to over 11,000 documented species. Yet, decades of overexploitation and habitat loss have placed these ecosystems under tremendous pressure. Mangrove cover is shrinking, Kenya and Tanzania have lost about 18% in the past 25 years, while Mozambique has lost 27% in an even shorter period. Coral reefs have declined by 15% following major bleaching events such as the 1997-98 El Niño. The region’s busy shipping lanes, which carry a third of global oil tanker traffic, further expose it to the risk of oil spills and invasive species. The collapse of these habitats may have catastrophic effects as fewer nursery grounds for fish would mean dwindling fish stocks and reduced food security for millions. [Obura et al., WWF Report, 2017] In this context, the idea of a Blue Economy, rather, more importantly, Blue Sustainability, is no longer a lofty ideal but an ecological and economic necessity."
+        ]
+      },
+      {
+        "heading": "International and Regional Initiatives for Climate Action and Sustainability",
+        "paragraphs": [
+          "The concept of Blue Economy first gained global prominence during the Rio+20 Conference in 2012, which was built upon the idea of decoupling socio-economic development from environmental degradation. Since then, several regional initiatives in the WIO have been put into practise, that align the interests of their countries with the Sustainable Development Goals (SDGs), particularly SDG 14, which calls for the conservation and sustainable use of oceans and marine resources. [Mohanty et al., RIS Report, 2015]",
+          "The IORA, which is often considered to be leading the other regional efforts, has been a central platform for the same. Similarly, the Mauritius Declaration (2015) had stressed the need for better ocean governance, while the Jakarta Declaration (2017) had outlined the commitments for sustainable fishing and stronger legal frameworks. Further, the Nairobi Convention had led to the establishment of the Out Blue Future (OBF) initiative which focuses on inclusive and sustainable ocean governance in the WIO, aiming to empower the local communities and attract environmentally responsible investments. [ORF Occasional Paper: 181, A. Roy, 2019]",
+          "As for the Small Island Developing States (SIDS), especially Seychelles and Mauritius, several innovative approaches have been adapted. For instance, Seychelles’ “debt-for adaptation” dedicates 30% of its Exclusive Economic Zone (EEZ) for marine conservation, while Mauritius launched an ambitious Ocean Economy Strategy (2013) to drive sustainable maritime growth. But these high-profile initiatives also raise certain concerns regarding their successful implementation, particularly in the less wealthy WIO nations, or whether these initiatives remain limited only to the better-resourced states. [ORF Occasional Paper: 181, A. Roy, 2019], [Obura et al., WWF Report, 2017]"
+        ]
+      },
+      {
+        "heading": "Climate Action and Resilience (SDG 13)",
+        "paragraphs": [
+          "In the humanitarian arena, the Indian Navy has time and again served as the first respondent to natural disasters in the WIO, playing a crucial role during Cyclone Idai in Mozambique (2019), Cyclone Diane in Madagascar (2020) and the MV Wakashio oil spill in Mauritius (2020). Even during the Covid-19 pandemic, India had, under Mission Sagar, supplied food, medical aid, to Mauritius, Seychelles, Comoros, and Madagascar, which further established India as a trusted regional partner. [ORF Issue Brief: 576, S. Kesnur, A. Mishra, 2022]",
+          "Yet, India’s contributions don’t stop at emergency responses. Through its clean energy partnerships with Mauritius and Sri Lanka, and through several multilateral platforms like International Solar Alliance (ISA) and the Coalition for Disaster Resilient Infrastructure (CDRI), India is promoting long-term resilience by sharing technology and building climate-resilient infrastructure. [Current Conservation, D. Jayaram, H. Narayanan, I. Jain, June 30, 2025]"
+        ]
+      },
+      {
+        "heading": "Marine Biodiversity and Ecosystem Conservation (SDG 14 & 15)",
+        "paragraphs": [
+          "India had also made significant efforts towards marine biodiversity and ecosystem conservation, which can’t simply be neglected. In 2021, it had launched the Deep Ocean Mission (DOM) under the Ministry of Earth Sciences, which aimed to map the deep-sea resources and genetic biodiversity while also expanding marine conservation areas. Alongside, India is also developing a Maine Spatial Plan (MSP) which seeks to reduce conflicts between human activities and what is needed for further ecosystem resilience. Costal restoration is also gaining momentum through the National Coastal Mission, which is committing to restore mangroves and coral, with notable achievements in coral transplantation and seagrass restoration in Tamil Nadu’s Gulf of Mannar Biosphere Reserve. Further, emerging research also shows that coral-mangrove hybrid conservation models might serve as climate sanctuaries for corals, potentially reducing the heat-induced bleaching; while coral aquaculture, growing corals in controlled environments for transplantation, could offer both ecological benefits and new livelihood opportunities. [Dr. Raman Murthy; UN Oceans Conference, 2022]",
+          "The Mangrove Initiative for Shoreline Habitats and Tangible Incomes (MISHTI) scheme clearly demonstrated how livelihoods can be directly improved through conservation, where Gujrat, notably, revived nearly 19,000 hectares of mangroves, while also improving fish stocks and fishermen incomes. Given their efficiency as carbon sinks, India is now exploring blue carbon credit mechanisms, aligning them with global REDD+ initiatives. [Policy Circle, S. Jain, S. Gull, May 25, 2025]"
+        ]
+      },
+      {
+        "heading": "Science, Monitoring and Capacity Building",
+        "paragraphs": [
+          "To further strengthen these efforts, scientific research and monitoring also plays an important role. The Marine Biodiversity and Environment Management Division (MBEMD) at CMFRI is dedicate to understand marine habitats and assess the impacts of pollution and fishing, and also develop protocols for the restoration of coral reefs, seagrass beds and mangrove stands. [CMFRI official, accessed last in July 26, 2025]",
+          "At the same time, India also offers its expertise in tools like Potential Fishing Zone Advisory Services (PFZAS), which helps fishermen locate fish aggregation zones efficiently and reduce carbon emissions, while the Coral Bleaching and Algal Bloom Information Service (ABIS) provides real-time ecosystem monitoring. The International Training Centre for Operational Oceanography (ITCO-Ocean) supports capacity building across the region. On fisheries governance, the PM Matsya Sampada Yojana (PMMSY) further promotes sustainable aquaculture, and ISRO’s oceanographic satellites, along with the Information Fusion Centre– Indian Ocean Region (IFC-IOR), are improving surveillance against Illegal, Unreported, and Unregulated (IUU) fishing as well. [ORF Issue Brief: 576, S. Kesnur, A. Mishra, 2022]"
+        ]
+      },
+      {
+        "heading": "Maritime Domain Awareness (MDA) and Regional Exercises",
+        "paragraphs": [
+          "Maritime Domain Awareness (MDA), aided by the White Shipping Information agreements India had signed with the WIO countries like Mauritius, Seychelles, Kenya and Mozambique. Moreover, the Lucknow Declaration (2020), and the participation in multilateral maritime exercises like Cutlass Express (2017, 2020), have further strengthened India’s efforts against Illegal, Unreported, and Unregulated (IUU) fishing. [ORF Issue Brief: 576, S. Kesnur, A. Mishra, 2022]",
+          "Yet, despite these strong initiatives, there is very little evaluation of how these initiatives impact the ecological health and socio-economic resilience of WIO partner nations. For instance, while India may share its technology and knowledge to these countries, there is very little evidence on how effectively the recipient nations would utilize these tools, or whether they’re being translated into tangible conservation outcomes. Therefore, to understand whether India’s interventions strengthen regional conservation capacities or they remain largely symbolic is a very crucial need for assessing their real contributions to SDG 14 and 15."
+        ]
+      }
+    ],
+    "conclusion": [
+      "India’s Blue Diplomacy in the Western Indian Ocean is a brilliant initiative that goes beyond only ports. It gives a big picture of the sea that encompasses safety, connections, growth, and working together in the area. India’s SAGAR strategy asks for a long-term and broad commitment in the area, which includes enhanced military presence and marine domain awareness, humanitarian help, and building capacity. India backs a rules-based and international system through entities like IORA, BIMSTEC, and regional free trade agreements.",
+      "India’s strategic investments in regions like Chabahar and Sittwe only make it simpler to trade and get about, but they also show that India is a good partner for security and progress. India does this to stop relying too much on important trade routes like Malacca and to stop China from being stronger. Building infrastructure that can handle climate change, doing health diplomacy, and teaching people in Africa are all ways that India is helping South–South solidarity.",
+      "India visualizes itself as a bridge between the Indo-Pacific and the Western Indian Ocean. India’s concept of the maritime commons isn’t military but it’s broad and includes a realistic view of geopolitics and a dedication to development. It wants to create a safe, open marine system that protects the common good for everyone while also keeping its own strategic independence."
+    ],
+    "acknowledgements": [],
+    "references": [
+      {
+        "heading": "Baalnoi Academy. (n.d.). India’s ‘Necklace of Diamonds’ strategy.",
+        "links": "https://baalnoiacademy.com/indias-necklace-of-diamonds-strategy/"
+      },
+      {
+        "heading": "Bhattacharya, S. (2024). Middle power and regionalism: Implications of India joining the Indian Ocean Commission (pp. 71–89). Routledge.",
+        "links": ""
+      },
+      {
+        "heading": "Bhattacharya, S. B. (n.d.). The strategic significance of the Indian Ocean for India’s security in the 21st century: An overview.",
+        "links": ""
+      },
+      {
+        "heading": "Chevallier, R. (2017, May). Integrated marine and coastal management in the Western Indian Ocean: Towards a sustainable oceans’ economy (Occasional Paper No. 258). South African Institute of International Affairs.",
+        "links": "https://www.jstor.org/stable/resrep28393"
+      },
+      {
+        "heading": "Climate Connection. (2025, December 3). The Murky Waters of the Blue Economy: A Cautious Look at India’s Coastal Development.",
+        "links": "https://climateconnection.in/blog/murkywaters-blue-economy-cautious-look-indias-coastal-development"
+      },
+      {
+        "heading": "Du Plessis, N. (2024). Exploring the ‘ocean economies’ of Western Indian Ocean coastal states (Doctoral dissertation, Cape Peninsula University of Technology).",
+        "links": ""
+      },
+      {
+        "heading": "Gupta, A. (2023, September 6). Role of defence diplomacy in shaping favourable strategic neighbourhood. Vivekananda International Foundation.",
+        "links": "https://www.vifindia.org/article/2023/september/06/Role-of-Defence-Diplomacy-in-Shaping-Favourable-Strategic-Neighbourhood"
+      },
+      {
+        "heading": "Gurjar, S., & Dutta, A. (2021, March). Evolving geopolitics of the Western Indian Ocean: A primer from India. Indian Council of World Affairs.",
+        "links": "https://www.icwa.in/WriteReadData/RTF1984/5898247569.pdf"
+      },
+      {
+        "heading": "Haldar, S., & Gupta, S. (2025, June 9). Prioritising the Western Indian Ocean in India’s maritime security calculus. Observer Research Foundation.",
+        "links": "https://www.orfonline.org/expertspeak/prioritising-the-western-indian-ocean-in-india-s-maritime-security-calculus"
+      },
+      {
+        "heading": "Indian Council for Professional Studies (ICPS). (n.d.). The Chabahar Port and India–Iran Agreement.",
+        "links": "https://www.icpsnet.org/issuebrief/The-Chabahar-Port-and-India-Iran-Agreement"
+      },
+      {
+        "heading": "Indian Navy collaborates with Sri Lanka and Seychelles to rescue hijacked Sri Lankan fishing vessel. (n.d.). The Economic Times.",
+        "links": "https://economictimes.indiatimes.com/news/defence/indian-navy-collaborates-with-sri-lanka-and-seychelles-to-rescue-hijacked-sri-lankan-fishing-vessel/articleshow"
+      },
+      {
+        "heading": "Indian Navy safely escorted 3,440 ships and 25,000 crew in anti-piracy patrols since 2008: Centre. (2024, February 2). The New Indian Express.",
+        "links": "https://www.newindianexpress.com/nation/2024/Feb/02/indian-navy-safely-escorted-3440-ships-and-25000-crew-in-anti-piracy-patrols-since-2008-centre"
+      },
+      {
+        "heading": "Jan, S., & Gull, S. H. (2025, May 25). Blue economy: Mangroves, coral reefs key to India’s economic ambitions. Policy Circle.",
+        "links": "https://www.policycircle.org/blue-economy-mangroves-coral-reefs-key-to-indias-economic-ambitions/"
+      },
+      {
+        "heading": "Jayaram, D., Narayanan, H., & Jain, I. (2025, July 3). The geopolitics of climate change in the Indian Ocean Region. Current Conservation.",
+        "links": "https://www.currentconservation.org/the-geopolitics-of-climate-change-in-the-indian-ocean-region"
+      },
+      {
+        "heading": "Kesnur, S. B., & Mishra, A. (2022). India’s maritime agenda pivots to Western Indian Ocean (ORF Issue Brief No. 576). Observer Research Foundation.",
+        "links": "https://www.orfonline.org/research/india-s-maritime-agenda-pivots-to-western-indian-ocean"
+      },
+      {
+        "heading": "Khurana, G. S. (2018). Multilateral structures in the Indian Ocean: Review and way ahead. Maritime Affairs: Journal of the National Maritime Foundation of India, 14(1), 11–23.",
+        "links": ""
+      },
+      {
+        "heading": "Lakshmi, N. (2024). India’s maritime agenda pivots to Western Indian Ocean. Observer Research Foundation.",
+        "links": "https://www.orfonline.org/research/india-s-maritime-agenda-pivots-to-western-indian-ocean"
+      },
+      {
+        "heading": "Lidarev, I., & Pant, H. V. (2022). India and maritime governance in the Indian Ocean: The impact of geopolitics on India’s involvement in maritime governance.",
+        "links": ""
+      },
+      {
+        "heading": "Łukaszuk, T. (2025). India’s role in the Indian Ocean Region in the 21st century: Maritime governance perspective. In H. Pant & K. Baruah (Eds.), The Routledge Handbook of Maritime India (pp. 210–225). Routledge India.",
+        "links": ""
+      },
+      {
+        "heading": "Ministry of Earth Sciences, Government of India. (2025, May). Transforming India’s blue economy: Investment, innovation and sustainable growth.",
+        "links": "https://www.moes.gov.in/sites/default/files/2025-05/White-Paper_Blue_Economy.pdf"
+      },
+      {
+        "heading": "Mishra, A., & Sen, S. (2022). Maritime security and development in the South-West Indian Ocean region: Harnessing India’s engagement with Small Island Developing States. In S. Singh (Ed.), India’s Maritime Diplomacy in the Indian Ocean Region (pp. 98–113). Pentagon Press.",
+        "links": ""
+      },
+      {
+        "heading": "Mohan, G. (2017). Engaging with the Indian Ocean. Global Public Policy Institute.",
+        "links": "https://www.gppi.net/2017/08/22/engaging-with-the-indian-ocean"
+      },
+      {
+        "heading": "Mohanty, S. K., Dash, P., Gupta, A., & Gaur, P. (2015). Prospects of Blue Economy in the Indian Ocean. Research and Information System for Developing Countries (RIS).",
+        "links": "https://www.ris.org.in/sites/default/files/Final_Blue_Economy_Report_2015-Website.pdf"
+      },
+      {
+        "heading": "Murthy, R. (2022). Interactive Dialogue 2: Managing, Protecting, Conserving and Restoring Marine and Coastal Ecosystems. UN Ocean Conference (2022).",
+        "links": ""
+      },
+      {
+        "heading": "Naha, N. (2021, January 5). Reshaping India’s foreign policy for 2021. The Kootneeti.",
+        "links": "https://thekootneeti.in/2021/01/05/reshaping-indias-foreign-policy-for-2021/"
+      },
+      {
+        "heading": "Obura, D., Smits, M., Chaudhry, T., McPhillips, J., Beal, D., Astier, C., Tanzer, J., & Gamblin, P. (2017, January). Reviving the Western Indian Ocean Economy: Actions for a Sustainable Future. WWF International.",
+        "links": "https://sustainabledevelopment.un.org/content/documents/13692WWF2.pdf"
+      },
+      {
+        "heading": "Observer Research Foundation. (n.d.). Chabahar’s opportunities and challenges.",
+        "links": "https://www.orfonline.org/research/chabahar-s-opportunities-and-challenges"
+      },
+      {
+        "heading": "Observer Research Foundation. (n.d.). Facilitating India–Myanmar trade through Sittwe port: Opportunities and challenges.",
+        "links": "https://www.orfonline.org/research/facilitating-india-myanmar-trade-through-sittwe-port-opportunities-and-challenges"
+      },
+      {
+        "heading": "Observer Research Foundation. (n.d.). Prioritising the Western Indian Ocean in India’s maritime security calculus.",
+        "links": "https://www.orfonline.org/expert-speak/prioritising-the-western-indian-ocean-in-india-s-maritime-security-calculus"
+      },
+      {
+        "heading": "Observer Research Foundation. (n.d.). Strategic competition in the Indian Ocean: Why island states matter.",
+        "links": "https://www.orfonline.org/expert-speak/strategic-competition-in-the-indian-ocean-why-island-states-matter"
+      },
+      {
+        "heading": "Peron-Doise, M. (2025). Indo-Pacific’s vision of France and India: Enhancing maritime multilateralism. In A. Mukherjee & C. Rajagopalan (Eds.), The Routledge Handbook of Maritime India (pp. 122–135). Routledge India.",
+        "links": ""
+      },
+      {
+        "heading": "Press Information Bureau (PIB). (2024, February 22). Text of the Vice-President’s speech – Inauguration of International Maritime Seminar - MILAN 2024.",
+        "links": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2007989"
+      },
+      {
+        "heading": "Press Information Bureau. (2022, February 3). Union Minister Dr Jitendra Singh says, Blue Economy is the sixth dimension of Government of India’s Vision of New India by 2030.",
+        "links": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1795031"
+      },
+      {
+        "heading": "RACE IAS. (n.d.). 9th National Level Pollution Response Exercise (NATPOLREX-IX).",
+        "links": "https://raceias.com/current-affairs/9th-national-level-pollution-response-exercise-natpolrex-ix"
+      },
+      {
+        "heading": "Roy, A. (2019, January). Blue Economy in the Indian Ocean: Governance Perspectives for Sustainable Development in the Region (ORF Occasional Paper No. 181). Observer Research Foundation.",
+        "links": "https://www.orfonline.org/wp-content/uploads/2019/02/Blue-Economy-in-the-Indian-Ocean.pdf"
+      },
+      {
+        "heading": "Sagarmala. (n.d.). Port modernization.",
+        "links": "https://sagarmala.gov.in/project/port-modernization"
+      },
+      {
+        "heading": "Sangomla, A. (2024, April 29). Indian Ocean is heating up much faster than we think, at a rate of 1.7–3.8°C per century. Down To Earth.",
+        "links": "https://www.downtoearth.org.in/news/climate/change/indian-ocean-is-heating-up-much-faster-than-we-think-at-a-rate-of-1-7-3-8-c-per/century-95805"
+      },
+      {
+        "heading": "Sharma, R. (2024). India’s maritime security and multilateralism in the Western Indian Ocean. International Journal of Social Science and Economic Research, 9(2), 267–280.",
+        "links": "https://ijsser.org/2024files/ijsser_09__267.pdf"
+      },
+      {
+        "heading": "Sodha, M. (2025, May 8). Our Blue Future – A Multi-stakeholder Initiative for Inclusive Sustainable Blue Economy (ISBE) in the Western Indian Ocean. PANORAMA.",
+        "links": "https://panorama.solutions/en/solution/our-blue-future-multi-stakeholder-initiative-inclusive-sustainable-blue-economy-isbe-western-indian-ocean"
+      },
+      {
+        "heading": "Swarajya. Base in Oman: India granted access to strategically located Duqm port for military use.",
+        "links": "https://swarajyamag.com/insta/base-in-oman-india-granted-access-to-strategically-located-duqm-port-for-military-use"
+      },
+      {
+        "heading": "The Energy and Resources Institute. (2022, July). Blue economy: A roadmap for sustainable development.",
+        "links": "https://www.teriin.org/sites/default/files/2022/07/Blue_Economy_Publication.pdf"
+      },
+      {
+        "heading": "UNEP. (2023). India - ID2 - Marine and Coastal Ecosystems.",
+        "links": "https://www.unep.org/system/files/2023-09/INDIA-%20ID2%20marine%20and%20coastal%20ecosystems%20.pdf"
+      }
+    ]
+  },
 
-{
-  "id":10,
-  "serialNumber": 46,
-  "issueNo": 4,
-  "volume": 1,
-  "title": "From Policy to Progress: An Analysis of Government Initiatives Addressing Educational Equity and the Digital Divide",
-  "author": [
-    "Deeksha",
-    "Avradeep Saha",
-    "Pavni Agrawal",
-    "Nandan Dhar",
-    "Ankit Vardani"
-  ],
-  "authorAbbrev": [
-    "Deeksha¹",
-    "Avradeep Saha²",
-    "Pavni Agrawal³",
-    "Nandan Dhar⁴",
-    "Ankit Vardani⁵"
-  ],
-  "status": "Submitted",
-  "abstract": [
-    "This study is to critically examine how targeted digital education policies and initiatives have contributed to reducing educational inequality in India.",
-    "By using key policies such as the BharatNet Project, PM e-vidya, DIKSHA platform as evaluative tools, this study aims to assess both their achievements in improving access, inclusion, and learning outcomes, and their limitations in addressing structural and digital disparities across socio-economic, rural-urban, and gender divides.",
-    "We used the descriptive method by reviewing policies, government reports, news articles, and educational data from official sources to understand how digital initiatives are addressing educational inequalities in India.",
-    "Digital policies like BharatNet and Digital India have improved internet access in rural areas, and have helped schools adopt online learning.",
-    "However, gaps still remain due to lack of devices, electricity, and digital skills, and access to the internet in some regions.",
-    "Further, the study seeks to bridge the gap between policy intent and on-ground impact, enhanced understanding of how far these digital interventions have progressed in transforming educational equity, and what barriers persist in the path toward inclusive and equitable quality education.",
-    "The study relies on secondary data sources and does not include direct surveys or interviews, so some ground-level issues may not be fully recorded."
-  ],
-  "keywords": [
-    "digital divide",
-    "educational inequality",
-    "BharatNet",
-    "SDG 10",
-    "Digital India",
-    "policy analysis"
-  ],
-  "intro": [
-    "Educational inequality remains a persistent challenge in India, deeply rooted in historical, socioeconomic, and geographic disparities.",
-    "Despite significant progress in enrollment rates and infrastructure development over the past decades, access to quality education continues to be uneven, particularly across rural-urban divides, income groups, and gender.",
-    "In response to these disparities, to address these gaps, digital technology is now being seen as an important way to make education more equal and accessible for everyone.",
-    "In alignment with the global commitment to Sustainable Development Goal 10 (SDG 10) which seeks to reduce inequality, India has taken several policy initiatives aimed at leveraging digital infrastructure to enhance educational access and equity.",
-    "Key among these are the Digital India Campaign, PM e-Vidya, the National Education Policy (NEP) 2020, and the DIKSHA platform.",
-    "These initiatives together show a change in policy, focusing on using technology-based solutions that can reach many people, with the goal of reducing gaps in access to and involvement in education.",
-    "However, the transformative potential of digital education remains contested, especially in the context of pre-existing structural inequalities.",
-    "While digital platforms have expanded the reach of educational content, they have also exposed and, in some cases, deepened the digital divide, particularly among economically marginalized populations, rural communities, and gender-disadvantaged groups."
-  ],
-  "problemStatement": [
-    "Despite India’s major push toward digital education, gaps remain in equitable access and inclusivity.",
-    "Projects like BharatNet and PM e-Vidya have improved infrastructure, but rural areas, low-income households, and marginalized groups face barriers like poor connectivity, lack of devices, and limited digital skills.",
-    "The digital divide continues to widen educational inequality, especially post-COVID-19, raising questions about how effective these initiatives really are in reducing disparities."
-  ],
-  "researchObjectives": [
-    "To critically evaluate government-led digital initiatives like BharatNet, PM e-Vidya, and DIKSHA in reducing educational inequality.",
-    "To analyze the limitations of these programs in addressing structural, regional, and socio-economic barriers.",
-    "To identify areas where digital policies have succeeded and where they have fallen short in achieving inclusive education."
-  ],
-  "researchQuestions": [
-    "How effective are initiatives like BharatNet and PM e-Vidya in bridging the educational digital divide in India?",
-    "What are the main barriers preventing equitable outcomes in digital education?",
-    "To what extent do these initiatives align with the objectives of SDG 10 in reducing inequalities?"
-  ],
-  "thematicLiteratureReview": [
-    "The digital divide has emerged as a central concern in policy and academic debates on education. Scholars argue that while digital platforms create new opportunities for access, they simultaneously deepen inequalities when infrastructure and affordability gaps are not addressed (Oxfam India, 2021).",
-    "Global studies, including UNESCO (2021), highlight how the pandemic magnified existing disparities, with rural, poor, and female students disproportionately excluded from digital learning.",
-    "In India, policies like Digital India and BharatNet are designed to address these divides, but ground-level studies suggest uneven impact. For example, NCERT (2021) found that a large proportion of students lacked access to devices during the pandemic.",
-    "Research also emphasizes that while platforms such as DIKSHA and SWAYAM increase reach, high dropout rates and language barriers reduce their effectiveness (Singh, 2022).",
-    "This literature underscores the need to evaluate not just access but also inclusivity, cultural relevance, and sustainability of digital education initiatives."
-  ],
-  "methodology": [
-    "This research uses a descriptive method, relying primarily on secondary data sources such as government reports, survey data, academic papers, and news articles.",
-    "By systematically reviewing these sources, the study evaluates the effectiveness of digital initiatives like BharatNet, PM e-Vidya, DIKSHA, and SWAYAM in reducing educational inequalities.",
-    "The methodology is qualitative in nature, focusing on critical policy analysis and impact assessment rather than empirical fieldwork.",
-    "Limitations include lack of primary data collection, meaning the findings depend on existing literature and reported outcomes."
-  ],
-  "content": [
-    {
-      "theme": "Project BharatNet: Its Impact on Reducing Digital Divide in Educational Sectors of Rural India",
-      "paragraphs": [
-        "BharatNet aims to provide broadband to all Gram Panchayats, being one of the largest rural telecom projects globally.",
-        "Initially approved in 2011 as the National Optical Fibre Network (NOFN), and later renamed in 2015, the project faced delays but entered Phase II in 2017.",
-        "By March 2025, over 218,000 Gram Panchayats were service ready, with more than 6.92 lakh km of optical fiber laid.",
-        "BharatNet expanded access during COVID-19, enabling online education through smart boards and digital classrooms in rural areas such as Sakarda village, Gujarat.",
-        "However, disparities remain: in northeastern states, less than 60% of Gram Panchayats were connected by 2023, and in Telangana, only 8.78% of schools reported internet access.",
-        "Implementation delays, coordination issues, and regional disparities hinder BharatNet’s potential as a fully equitable education enabler."
-      ]
-    },
-    {
-      "theme": "Online Education Push During COVID-19 Lockdown",
-      "paragraphs": [
-        "The COVID-19 pandemic disrupted education for over 320 million learners in India.",
-        "According to the NSSO (2018), only 4.4% of rural households owned computers, compared to 23.4% in urban areas, and only 14.9% of rural households had internet access compared to 42% urban.",
-        "Government initiatives included SWAYAM Prabha, a set of 32 DTH TV channels broadcasting lessons, and Manodarpan, a free tele-counselling service for mental health support.",
-        "While television-based lessons reached students without internet, limited interactivity and language issues reduced effectiveness.",
-        "Rural and female students were disproportionately excluded due to lack of access to devices.",
-        "State-level innovations such as Rajasthan’s DigiLEP program leveraged WhatsApp-based learning for 68,000 schools, showing promise but still limited by gender bias and unequal phone access.",
-        "COVID-19 highlighted the deep impact of digital inequality on educational equity in India."
-      ]
-    },
-    {
-      "theme": "PM e-Vidya under New Education Policy 2020 – A Visionary Shift or Digital Exclusion?",
-      "paragraphs": [
-        "NEP 2020 introduced PM e-Vidya under the 'One Nation, One Digital Platform' framework to unify digital education resources through DIKSHA, SWAYAM, and TV channels.",
-        "While visionary, its implementation has been inequitable: NFHS-5 (2022) data shows only 15% of rural households had internet access compared to 42% in urban households.",
-        "Some states like Kerala successfully implemented EdTech via initiatives like KITE VICTERS, while Bihar and Jharkhand lagged behind.",
-        "PM e-Vidya’s non-interactive format, lack of vernacular content, and poor teacher awareness (40% in rural schools) limited its reach.",
-        "Success stories like localized adaptations in Nagaland show potential, but overall, PM e-Vidya risks reinforcing existing inequalities unless inclusivity is prioritized."
-      ]
-    },
-    {
-      "theme": "Assessing the Impact of DIKSHA and SWAYAM on Indian Educational Inequalities",
-      "paragraphs": [
-        "DIKSHA, launched in 2017, provides multilingual, inclusive educational resources through NCERT, CBSE, and SCERTs.",
-        "Over 200 million students and 7 million teachers have engaged with DIKSHA, with more than 72% of enrolled students accessing materials.",
-        "However, limitations include poor mobile compatibility, uneven regional adoption, and content diversity issues.",
-        "SWAYAM, also launched in 2017, provides MOOCs from Class 9 to postgraduate level, with over 31 million enrolments and 288 universities accepting course credits.",
-        "Despite its wide reach, dropout rates remain high (27–31%), largely due to English-only content, lack of interactivity, and difficult course design.",
-        "Both DIKSHA and SWAYAM represent crucial steps toward digital inclusion, but greater efforts are needed to make them adaptive, engaging, and linguistically accessible."
-      ]
-    }
-  ],
-  "conclusion": [
-    "Government initiatives such as BharatNet, PM e-Vidya, DIKSHA, and SWAYAM have made significant contributions to expanding the reach of digital education in India.",
-    "These programs have improved internet access, provided digital content, and created alternative platforms like TV and radio for students without internet access.",
-    "However, deep-rooted inequalities remain, particularly in rural areas, among low-income households, and for girls and marginalized groups.",
-    "The pandemic further magnified these disparities, demonstrating that infrastructure alone cannot ensure equity.",
-    "Digital education policies must now move beyond access to focus on inclusivity, vernacular content, device affordability, teacher training, and gender-sensitive approaches.",
-    "India’s path to equitable digital education requires not just technological expansion but also structural reforms that directly address social and economic barriers."
-  ],
-  "acknowledgements": [
-    "The authors wish to acknowledge the guidance and support received from faculty mentors during the preparation of this paper.",
-    "We are also grateful to the organizations and institutions whose reports and publications formed the backbone of our secondary research.",
-    "Special thanks are due to peer reviewers for their constructive feedback."
-  ],
-  "references": [
-    {
-      "heading": "Angel One. (2025). How BharatNet is transforming rural connectivity in India.",
-      "links": "https://www.angelone.in/news/how-bharatnet-is-transforming-rural-connectivity-in-india"
-    },
-    {
-      "heading": "Government of India. (2023). BharatNet Project Status Report.",
-      "links": "https://www.bbnl.nic.in/Pages/home.aspx"
-    },
-    {
-      "heading": "Ministry of Education. (2020). National Education Policy 2020.",
-      "links": "https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf"
-    },
-    {
-      "heading": "National Council of Educational Research and Training (NCERT). (2021). Students’ access to digital learning during COVID-19.",
-      "links": "https://ncert.nic.in/pdf/publication/reports/covid19/learningduringCOVID.pdf"
-    },
-    {
-      "heading": "NITI Aayog. (2021). Connected Learning: How digital platforms can bridge the education divide.",
-      "links": "https://www.niti.gov.in/sites/default/files/2021-08/connected-learning.pdf"
-    },
-    {
-      "heading": "Press Information Bureau. (2021). PM e-Vidya programme launched under Atma Nirbhar Bharat Abhiyaan.",
-      "links": "https://pib.gov.in/PressReleseDetailm.aspx?PRID=1629875"
-    },
-    {
-      "heading": "Singh, A. (2022). Digital learning in India: Opportunities and challenges. Economic and Political Weekly, 57(4).",
-      "links": "https://www.epw.in/journal/2022/4/digital-learning-india.html"
-    },
-    {
-      "heading": "UNESCO. (2021). When schools shut: Gendered impacts of COVID-19 school closures.",
-      "links": "https://unesdoc.unesco.org/ark:/48223/pf0000379270"
-    },
-    {
-      "heading": "Oxfam India. (2021). The digital divide in education in India.",
-      "links": "https://www.oxfamindia.org/press-release/oxfam-india-study-digital-divide-education"
-    },
-    {
-      "heading": "World Bank. (2022). Remote learning during the global school closures: Lessons from developing countries.",
-      "links": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/355141624508196987/remote-learning"
-    }
-  ]
-},
+  {
+    "id": 10,
+    "serialNumber": 46,
+    "issueNo": 4,
+    "volume": 1,
+    "title": "From Policy to Progress: An Analysis of Government Initiatives Addressing Educational Equity and the Digital Divide",
+    "author": [
+      "Deeksha",
+      "Avradeep Saha",
+      "Pavni Agrawal",
+      "Nandan Dhar",
+      "Ankit Vardani"
+    ],
+    "authorAbbrev": [
+      "Deeksha¹",
+      "Avradeep Saha²",
+      "Pavni Agrawal³",
+      "Nandan Dhar⁴",
+      "Ankit Vardani⁵"
+    ],
+    "status": "Submitted",
+    "abstract": [
+      "This study is to critically examine how targeted digital education policies and initiatives have contributed to reducing educational inequality in India.",
+      "By using key policies such as the BharatNet Project, PM e-vidya, DIKSHA platform as evaluative tools, this study aims to assess both their achievements in improving access, inclusion, and learning outcomes, and their limitations in addressing structural and digital disparities across socio-economic, rural-urban, and gender divides.",
+      "We used the descriptive method by reviewing policies, government reports, news articles, and educational data from official sources to understand how digital initiatives are addressing educational inequalities in India.",
+      "Digital policies like BharatNet and Digital India have improved internet access in rural areas, and have helped schools adopt online learning.",
+      "However, gaps still remain due to lack of devices, electricity, and digital skills, and access to the internet in some regions.",
+      "Further, the study seeks to bridge the gap between policy intent and on-ground impact, enhanced understanding of how far these digital interventions have progressed in transforming educational equity, and what barriers persist in the path toward inclusive and equitable quality education.",
+      "The study relies on secondary data sources and does not include direct surveys or interviews, so some ground-level issues may not be fully recorded."
+    ],
+    "keywords": [
+      "digital divide",
+      "educational inequality",
+      "BharatNet",
+      "SDG 10",
+      "Digital India",
+      "policy analysis"
+    ],
+    "intro": [
+      "Educational inequality remains a persistent challenge in India, deeply rooted in historical, socioeconomic, and geographic disparities.",
+      "Despite significant progress in enrollment rates and infrastructure development over the past decades, access to quality education continues to be uneven, particularly across rural-urban divides, income groups, and gender.",
+      "In response to these disparities, to address these gaps, digital technology is now being seen as an important way to make education more equal and accessible for everyone.",
+      "In alignment with the global commitment to Sustainable Development Goal 10 (SDG 10) which seeks to reduce inequality, India has taken several policy initiatives aimed at leveraging digital infrastructure to enhance educational access and equity.",
+      "Key among these are the Digital India Campaign, PM e-Vidya, the National Education Policy (NEP) 2020, and the DIKSHA platform.",
+      "These initiatives together show a change in policy, focusing on using technology-based solutions that can reach many people, with the goal of reducing gaps in access to and involvement in education.",
+      "However, the transformative potential of digital education remains contested, especially in the context of pre-existing structural inequalities.",
+      "While digital platforms have expanded the reach of educational content, they have also exposed and, in some cases, deepened the digital divide, particularly among economically marginalized populations, rural communities, and gender-disadvantaged groups."
+    ],
+    "problemStatement": [
+      "Despite India’s major push toward digital education, gaps remain in equitable access and inclusivity.",
+      "Projects like BharatNet and PM e-Vidya have improved infrastructure, but rural areas, low-income households, and marginalized groups face barriers like poor connectivity, lack of devices, and limited digital skills.",
+      "The digital divide continues to widen educational inequality, especially post-COVID-19, raising questions about how effective these initiatives really are in reducing disparities."
+    ],
+    "researchObjectives": [
+      "To critically evaluate government-led digital initiatives like BharatNet, PM e-Vidya, and DIKSHA in reducing educational inequality.",
+      "To analyze the limitations of these programs in addressing structural, regional, and socio-economic barriers.",
+      "To identify areas where digital policies have succeeded and where they have fallen short in achieving inclusive education."
+    ],
+    "researchQuestions": [
+      "How effective are initiatives like BharatNet and PM e-Vidya in bridging the educational digital divide in India?",
+      "What are the main barriers preventing equitable outcomes in digital education?",
+      "To what extent do these initiatives align with the objectives of SDG 10 in reducing inequalities?"
+    ],
+    "thematicLiteratureReview": [
+      "The digital divide has emerged as a central concern in policy and academic debates on education. Scholars argue that while digital platforms create new opportunities for access, they simultaneously deepen inequalities when infrastructure and affordability gaps are not addressed (Oxfam India, 2021).",
+      "Global studies, including UNESCO (2021), highlight how the pandemic magnified existing disparities, with rural, poor, and female students disproportionately excluded from digital learning.",
+      "In India, policies like Digital India and BharatNet are designed to address these divides, but ground-level studies suggest uneven impact. For example, NCERT (2021) found that a large proportion of students lacked access to devices during the pandemic.",
+      "Research also emphasizes that while platforms such as DIKSHA and SWAYAM increase reach, high dropout rates and language barriers reduce their effectiveness (Singh, 2022).",
+      "This literature underscores the need to evaluate not just access but also inclusivity, cultural relevance, and sustainability of digital education initiatives."
+    ],
+    "methodology": [
+      "This research uses a descriptive method, relying primarily on secondary data sources such as government reports, survey data, academic papers, and news articles.",
+      "By systematically reviewing these sources, the study evaluates the effectiveness of digital initiatives like BharatNet, PM e-Vidya, DIKSHA, and SWAYAM in reducing educational inequalities.",
+      "The methodology is qualitative in nature, focusing on critical policy analysis and impact assessment rather than empirical fieldwork.",
+      "Limitations include lack of primary data collection, meaning the findings depend on existing literature and reported outcomes."
+    ],
+    "content": [
+      {
+        "theme": "Project BharatNet: Its Impact on Reducing Digital Divide in Educational Sectors of Rural India",
+        "paragraphs": [
+          "BharatNet aims to provide broadband to all Gram Panchayats, being one of the largest rural telecom projects globally.",
+          "Initially approved in 2011 as the National Optical Fibre Network (NOFN), and later renamed in 2015, the project faced delays but entered Phase II in 2017.",
+          "By March 2025, over 218,000 Gram Panchayats were service ready, with more than 6.92 lakh km of optical fiber laid.",
+          "BharatNet expanded access during COVID-19, enabling online education through smart boards and digital classrooms in rural areas such as Sakarda village, Gujarat.",
+          "However, disparities remain: in northeastern states, less than 60% of Gram Panchayats were connected by 2023, and in Telangana, only 8.78% of schools reported internet access.",
+          "Implementation delays, coordination issues, and regional disparities hinder BharatNet’s potential as a fully equitable education enabler."
+        ]
+      },
+      {
+        "theme": "Online Education Push During COVID-19 Lockdown",
+        "paragraphs": [
+          "The COVID-19 pandemic disrupted education for over 320 million learners in India.",
+          "According to the NSSO (2018), only 4.4% of rural households owned computers, compared to 23.4% in urban areas, and only 14.9% of rural households had internet access compared to 42% urban.",
+          "Government initiatives included SWAYAM Prabha, a set of 32 DTH TV channels broadcasting lessons, and Manodarpan, a free tele-counselling service for mental health support.",
+          "While television-based lessons reached students without internet, limited interactivity and language issues reduced effectiveness.",
+          "Rural and female students were disproportionately excluded due to lack of access to devices.",
+          "State-level innovations such as Rajasthan’s DigiLEP program leveraged WhatsApp-based learning for 68,000 schools, showing promise but still limited by gender bias and unequal phone access.",
+          "COVID-19 highlighted the deep impact of digital inequality on educational equity in India."
+        ]
+      },
+      {
+        "theme": "PM e-Vidya under New Education Policy 2020 – A Visionary Shift or Digital Exclusion?",
+        "paragraphs": [
+          "NEP 2020 introduced PM e-Vidya under the 'One Nation, One Digital Platform' framework to unify digital education resources through DIKSHA, SWAYAM, and TV channels.",
+          "While visionary, its implementation has been inequitable: NFHS-5 (2022) data shows only 15% of rural households had internet access compared to 42% in urban households.",
+          "Some states like Kerala successfully implemented EdTech via initiatives like KITE VICTERS, while Bihar and Jharkhand lagged behind.",
+          "PM e-Vidya’s non-interactive format, lack of vernacular content, and poor teacher awareness (40% in rural schools) limited its reach.",
+          "Success stories like localized adaptations in Nagaland show potential, but overall, PM e-Vidya risks reinforcing existing inequalities unless inclusivity is prioritized."
+        ]
+      },
+      {
+        "theme": "Assessing the Impact of DIKSHA and SWAYAM on Indian Educational Inequalities",
+        "paragraphs": [
+          "DIKSHA, launched in 2017, provides multilingual, inclusive educational resources through NCERT, CBSE, and SCERTs.",
+          "Over 200 million students and 7 million teachers have engaged with DIKSHA, with more than 72% of enrolled students accessing materials.",
+          "However, limitations include poor mobile compatibility, uneven regional adoption, and content diversity issues.",
+          "SWAYAM, also launched in 2017, provides MOOCs from Class 9 to postgraduate level, with over 31 million enrolments and 288 universities accepting course credits.",
+          "Despite its wide reach, dropout rates remain high (27–31%), largely due to English-only content, lack of interactivity, and difficult course design.",
+          "Both DIKSHA and SWAYAM represent crucial steps toward digital inclusion, but greater efforts are needed to make them adaptive, engaging, and linguistically accessible."
+        ]
+      }
+    ],
+    "conclusion": [
+      "Government initiatives such as BharatNet, PM e-Vidya, DIKSHA, and SWAYAM have made significant contributions to expanding the reach of digital education in India.",
+      "These programs have improved internet access, provided digital content, and created alternative platforms like TV and radio for students without internet access.",
+      "However, deep-rooted inequalities remain, particularly in rural areas, among low-income households, and for girls and marginalized groups.",
+      "The pandemic further magnified these disparities, demonstrating that infrastructure alone cannot ensure equity.",
+      "Digital education policies must now move beyond access to focus on inclusivity, vernacular content, device affordability, teacher training, and gender-sensitive approaches.",
+      "India’s path to equitable digital education requires not just technological expansion but also structural reforms that directly address social and economic barriers."
+    ],
+    "acknowledgements": [
+      "The authors wish to acknowledge the guidance and support received from faculty mentors during the preparation of this paper.",
+      "We are also grateful to the organizations and institutions whose reports and publications formed the backbone of our secondary research.",
+      "Special thanks are due to peer reviewers for their constructive feedback."
+    ],
+    "references": [
+      {
+        "heading": "Angel One. (2025). How BharatNet is transforming rural connectivity in India.",
+        "links": "https://www.angelone.in/news/how-bharatnet-is-transforming-rural-connectivity-in-india"
+      },
+      {
+        "heading": "Government of India. (2023). BharatNet Project Status Report.",
+        "links": "https://www.bbnl.nic.in/Pages/home.aspx"
+      },
+      {
+        "heading": "Ministry of Education. (2020). National Education Policy 2020.",
+        "links": "https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf"
+      },
+      {
+        "heading": "National Council of Educational Research and Training (NCERT). (2021). Students’ access to digital learning during COVID-19.",
+        "links": "https://ncert.nic.in/pdf/publication/reports/covid19/learningduringCOVID.pdf"
+      },
+      {
+        "heading": "NITI Aayog. (2021). Connected Learning: How digital platforms can bridge the education divide.",
+        "links": "https://www.niti.gov.in/sites/default/files/2021-08/connected-learning.pdf"
+      },
+      {
+        "heading": "Press Information Bureau. (2021). PM e-Vidya programme launched under Atma Nirbhar Bharat Abhiyaan.",
+        "links": "https://pib.gov.in/PressReleseDetailm.aspx?PRID=1629875"
+      },
+      {
+        "heading": "Singh, A. (2022). Digital learning in India: Opportunities and challenges. Economic and Political Weekly, 57(4).",
+        "links": "https://www.epw.in/journal/2022/4/digital-learning-india.html"
+      },
+      {
+        "heading": "UNESCO. (2021). When schools shut: Gendered impacts of COVID-19 school closures.",
+        "links": "https://unesdoc.unesco.org/ark:/48223/pf0000379270"
+      },
+      {
+        "heading": "Oxfam India. (2021). The digital divide in education in India.",
+        "links": "https://www.oxfamindia.org/press-release/oxfam-india-study-digital-divide-education"
+      },
+      {
+        "heading": "World Bank. (2022). Remote learning during the global school closures: Lessons from developing countries.",
+        "links": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/355141624508196987/remote-learning"
+      }
+    ]
+  },
 
 
 
