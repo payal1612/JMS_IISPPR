@@ -433,7 +433,7 @@ const LandingPage = () => {
 
 
       {/* --- Journal Statistics Section --- */}
-      <section
+      {/* <section
         className="py-20 px-4 text-white"
         style={{
           background: "linear-gradient(to right, #caa1b8ff, #3b0a29ff, #2b1426ff"
@@ -465,7 +465,7 @@ const LandingPage = () => {
             ));
           })()}
         </div>
-      </section>
+      </section> */}
 
 
 
@@ -543,7 +543,7 @@ const LandingPage = () => {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link
+              {/* <Link
                 to="/contact-us"
                 className="inline-flex items-center justify-center gap-2 px-8 py-3 rounded-full bg-gradient-to-r from-rose-600 via-rose-500 to-pink-500 text-white font-semibold shadow-lg hover:shadow-rose-400/40 hover:from-rose-700 hover:to-pink-600 transition-all duration-300 transform hover:-translate-y-1 hover:scale-105 border border-white/10 backdrop-blur-sm group"
               >
@@ -551,6 +551,16 @@ const LandingPage = () => {
                   Submission Guidelines
                 </span>
                 <ArrowRight className="w-4 h-4 transition-transform duration-300 group-hover:translate-x-1" />
+              </Link> */}
+
+              <Link
+                to="/contact-us"
+                className="inline-flex items-center justify-center gap-2 px-8 py-3 rounded-full bg-gradient-to-r from-rose-600 via-rose-500 to-pink-500 text-white font-semibold shadow-lg hover:shadow-rose-400/40 hover:from-rose-700 hover:to-pink-600 transition-all duration-300 transform hover:-translate-y-1 hover:scale-105 border border-white/10 backdrop-blur-sm group"
+              >
+                <span className="group-hover:underline decoration-white decoration-2 underline-offset-4">
+                  Submit your articles at iisppresearch@gmail.com
+                </span>
+                {/* <ArrowRight className="w-4 h-4 transition-transform duration-300 group-hover:translate-x-1" /> */}
               </Link>
             </div>
           </div>
@@ -584,7 +594,7 @@ const LandingPage = () => {
           </div>
 
           {/* Quick Links */}
-          <div>
+          {/* <div>
             <h4 className="font-serif font-semibold text-bg-light mb-4 text-lg underline decoration-accent decoration-2 underline-offset-4">
               Quick Links
             </h4>
@@ -606,7 +616,7 @@ const LandingPage = () => {
                 </Link>
               ))}
             </div>
-          </div>
+          </div> */}
         </div>
 
         {/* Footer Bottom Text */}

@@ -56,6 +56,20 @@ const EditorialBoard = () => {
       postaladdress:
         'Department of finance,IIM SIRMAUR, DHAULA KUAN, SIRMAUR, PAONTA SAHIB, HIMACHAL PRADESH-173025',
     },
+    {
+      name: 'Dr. Waris Ali Khan',
+      desc: 'Universiti Malaysia Sabah',
+      email: 'Warisalikhan@ums.edu.my',
+      postaladdress:
+      '4th Floor, Block A, Faculty of Business Economics and Accountancy, University Malaysia Sabah, Kota Kinabalu, 88400, Sabah, Malaysia',
+    },
+    {
+      name: 'Fatima Zahra BENBRAHIM ',
+      desc: 'Ibn Tofaïl University, Morocco ',
+      email: 'benbrahim.fatimazahra@uit.ac.ma',
+      postaladdress:
+      'BP 11223 AGDAL FES MOROCCO',
+    },
   ];
 
   return (
