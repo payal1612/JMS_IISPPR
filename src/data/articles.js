@@ -12071,943 +12071,1095 @@ const articles = [
       }
     ]
   },
-
-
-  //mera
   {
-  "id": 9,
-  "serialNumber": 45,
-  "issue": 4,
-  "volume": 1,
-  "title": "INDIA’S BLUE DIPLOMACY IN THE WESTERN INDIAN OCEAN: SECURING MARITIME COMMONS BEYOND THE INDO-PACIFIC (2008–2024)",
-  "author": [
-    "SumitGusain",
-    "SaanviBudhiraja",
-    "Rishi Gurung",
-    "Anisha Tiwari",
-    "AishiMitra"
-  ],
-  "authorAbbrev": [
-    "S. Gusain",
-    "S. Budhiraja",
-    "R. Gurung",
-    "A. Tiwari",
-    "A. Mitra"
-  ],
-  "status": "Submitted",
-  "abstract": [
-    "This paper is a critical analysis of India’s evolving maritime strategy in the Western Indian Ocean (WIO) from 2008 to 2024, putting forth the argument of India’s ‘blue diplomacy’ witnessing a strategic paradigm shift that now transcends the confines of the Indo-Pacific narrative to adopt a much more feasible approach. Laid down in the SAGAR (Security and Growth for All in the Region) vision and refined under the recent MAHASAGAR framework, India’s policies in the WIO interpret maritime security, regional connectivity, ecological supervision, and sustainable development as interlinked pillars of foreign policy. The study explores how the pressing necessity of safeguarding vital sea lanes that handle over 80% of India’s crude oil imports and a significant share of national trade, drives forward India’s westward focus of deep engagement with the geopolitically sensitive WIO region.",
-    "Key aspects of this ‘blue diplomacy’ include strong maritime security collaboration against common threats like piracy, arms proliferation, and illicit trafficking, enabled by operations such as Operation Sankalp and through initiatives like the Information Fusion Centre–Indian Ocean Region (IFC-IOR). The paper investigates the strategic use of port development by India and highlights projects like Chabahar in Iran and Sittwe in Myanmar, serving both as hubs for logistics as well as tools for encouraging inclusive regional development, improving access particularly for landlocked economies and strengthening India’s “Act East” and “Neighbourhood First” policies.",
-    "The research also digs around India’s active involvement with international platforms such as the Indian Ocean Rim Association (IORA) and Indian Ocean Commission (IOC) to support the growth of the sustainable ocean-based economy and improve cooperation. Additionally, the study makes a point of aligning the Sustainable Development Goals (particularly SDGs 13, 14, 16, and 17) into India’s maritime plan."
-  ],
-  "keywords": [
+  id: 9,
+  serialNumber: 45,
+  issue: 4,
+  volume: 1,
+  title: "BLUE DIPLOMACY IN THE WESTERN INDIAN OCEAN: SECURING MARITIME COMMONS BEYOND THE INDO-PACIFIC (2008–2024)",
+  author: "SumitGusain; SaanviBudhiraja; Rishi Gurung; Anisha Tiwari; AishiMitra",
+  authorAbbrev:"S. Gusain; S. Budhiraja; R. Gurung; A. Tiwari; A. Mitra",
+  abstract: [
+    "This paper is a critical analysis of India’s evolving maritime strategy in the Western Indian Ocean (WIO) from 2008 to 2024, putting forth the argument of India’s‘blue diplomacy’witnessing a strategic paradigm shift that now transcends the confines of the Indo-Pacific narrative to adopt a much more feasible approach. Laid down in the SAGAR (Security and Growth for All in the Region) vision and refined under the recent MAHASAGAR framework, India’s policies in the WIO interpret maritime security, regional connectivity, ecological supervision, and sustainable development as interlinked pillars of foreign policy. The study explores how the pressing necessity of safeguarding vital sea lanes that handle over 80% of India’s crude oil imports and a significant share of national trade, drives forward India’s westward focus of deep engagement with the geopolitically sensitive WIO region.",
+    "Key aspects of this‘blue diplomacy’include strong maritime security collaboration against common threats like piracy, arms proliferation, and illicit trafficking, enabled by operations such as Operation Sankalp and through initiatives like the Information Fusion Centre–Indian Ocean Region (IFC-IOR). The paper investigates the strategic use of port development by India and highlights projects like Chabahar in Iran and Sittwe in Myanmar, serving both as hubs for logistics as well as tools for encouraging inclusive regional development, improving access particularly for landlocked economies and strengthening India’s“Act East” and “Neighbourhood First” policies.",
+    "The research also digs around India’s active involvement with international platforms such as the Indian Ocean Rim Association (IORA) and Indian Ocean Commission (IOC) to support the growth of the sustainable ocean-based economy and improve cooperation. Additionally, the study makes a point of aligning the Sustainable Development Goals (particularly SDGs 13, 14, 16, and 17) into India’s maritime plan.",
+   ],
+   keyword: [
     "Blue Diplomacy",
     "Western Indian Ocean (WIO)",
     "Maritime Security",
     "Port Development",
     "Sustainable Development Goals (SDGs)"
   ],
-  "intro": [
-    "The Western Indian Ocean (WIO) has become an important strategic marine arena in the 21st century. The area is very important for the safety, economy, and environment of the larger Indo-Pacific because it is close to important sea lanes of communication (SLOCs) that help transfer a lot of the world’s products and energy. India needs to protect its national interests not just at the WIO, which is a marine border. It’s also a way to show strength through strategic partnerships, port diplomacy and efforts to promote long-term growth.",
-    "India’s part in the WIO has changed in the last few years. It used to be largely about safety, but today it works together in many ways. There are also investments in ports like Chabahar and Sittwe, as well as contributions to entities like the Indian Ocean Rim Association (IORA) and the Indian Ocean Commission (IOC). In addition to this, there are also anti-piracy operations, humanitarian aid and disaster relief (HADR) missions, and efforts to make the navy stronger. India’s focus on protecting marine biodiversity, making the climate more resilient, and blue economy projects is another indicator that it is in line with the UN Sustainable Development Goals (SDGs).",
-    "A number of scholars are still interested in India’s involvement in the WIO, but most of their work has focused on what it does in the Eastern Indo-Pacific. This article tries to fill in the gaps by looking at how India’s strategic shift towards the WIO affects long-term maritime governance and regional security, as well as the geopolitical effects of its port diplomacy. The study’s goal is to employ theme analysis to show how India’s changing maritime position could affect the future of the Western Indian Ocean system in its entirety."
-  ],
-  "problemStatement": [
-    "Despite India’s continued involvement in the Indo-Pacific, the Western Indian Ocean (WIO) has not gotten much attention in talks of strategic maritime research and policy. Given the rise of maritime issues like illicit fishing, environmental impact, piracy, and geopolitical competition, particularly with China, India’s admission to the WIO under the SAGAR and later MAHASAGAR doctrines marks a significant change. There is a significant research gap in evaluating how India integrates sustainability, security, and diplomacy to become a net security provider in this vital region."
-  ],
-  "researchObjectives": [
-    "To explore India’s maritime policy in the Western Indian Ocean, moving away from the Indo-Pacific and how it helps maintain the area safe through anti-piracy operations, naval stations, and humanitarian aid.",
-    "To examine how India’s port diplomacy and huge infrastructure projects like Chabahar and Sittwe can change the way the world operates, link diverse locations and help blue economy projects that are in line with the Sustainable Development Goals.",
-    "To assess how India collaborates with organisations like the IORA and IOC to improve the climate in the Western Indian Ocean region, make the environment safer, and make the regulations that govern the sea fairer."
-  ],
-  "researchQuestions": [
-    "How has India’s maritime strategy evolved in the Western Indian Ocean, and what impact has it had on regional security and stability?",
-    "In what ways does India employ port diplomacy and strategic infrastructure projects to advance geopolitical influence, regional integration, and sustainable economic growth?",
-    "How effective is India’s collaboration with regional and multilateral organizations in addressing environmental challenges, marine biodiversity conservation, and inclusive maritime governance?"
-  ],
-  "thematicLiteratureReview": [
+  status: "Submitted",
+  intro: [
+    "The Western Indian Ocean (WIO) has become an important strategic marine arena in the 21st century. The area is very important for the safety, economy, and environment of the larger Indo-Pacific because it is close to important sea lanes of communication (SLOCs) that help transfer a lot of the world’s products and energy. India needs to protect its national interests not just at the WIO, which is a marine border. It’s also a way to show strength through strategic partnerships, port diplomacyand efforts to promote long-term growth. ",
+    "India’s part in the WIO has changed in the last few years. It used to be largely about safety, but today it works together in many ways. There are also investments in ports like Chabahar and Sittwe, as well as donations to entities like the Indian Ocean Rim Association (IORA) and the Indian Ocean Commission (IOC). In addition to this, there are also anti-piracy operations, humanitarian aid and disaster relief (HADR) missions, and efforts to make the navy stronger. India’s focus on protecting marine biodiversity, making the climate more resilient, and blue economy projects is another indicator that it is in line with the UN Sustainable Development Goals (SDGs).",
+    "A number of scholars are still interested in India’s involvement in the WIO, but most of their work has focused on what it does in the Eastern Indo-Pacific. This article tries to fill in the gaps by looking at how India’s strategic shift towards the WIO affects long-term maritime governance and regional security, as well as the geopolitical effects of its port diplomacy.The study’s goal is to employ theme analysis to show how India’s changing maritime position could affect the future of the Western Indian Ocean system in its entirety.",
+   ],
+  content: [
     {
-      "heading": "Strategic Vision and Blue Economy in the WIO",
-      "paragraphs": [
-        "Strategic Vision and Blue Economy in the WIO – India’s shift from the Indo-Pacific to the WIO reflects an evolution in strategic thinking. Scholars such as Gurjar & Dutta (2021) and Kesnur & Mishra (2022) have underscored India’s adoption of the SAGAR doctrine as a new regional identity marker rooted in sovereign maritime governance and SDG alignment. The Blue Economy Vision 2030 and the Viksit Bharat 2047 roadmap further emphasize economic-ecological synergy."
-      ],
-      "gap": "Limited evaluation exists on the realignment from SAGAR to MAHASAGAR in 2025 and how it differentiates India’s long-term geopolitical intent."
+      heading: "PROBLEM STATEMENT",
+      paragraphs: ["Despite India’s continued involvement in the Indo-Pacific, the Western Indian Ocean (WIO) has not gotten much attention in talks of strategic maritime research and policy. Given the rise of maritime issues like illicit fishing, environmental effect, piracy, and geopolitical competition, particularly with China, India’s admission to the WIO under the SAGAR and later MAHASAGAR doctrines marks a significant change. There is a significant research gap in evaluating how India integrates sustainability, security, and diplomacy to become a net security provider in this vital region."
+        ]
     },
     {
-      "heading": "Maritime Security and Naval Architecture",
-      "paragraphs": [
-        "Maritime Security and Naval Architecture – Anti-piracy operations, HADR missions, and the IFC-IOR are well documented in think tank analyses (Brewster, 2024; Express, 2025). However, most works focus on the Indo-Pacific and underappreciate India’s evolving doctrine of net security provider in the WIO."
-      ],
-      "gap": "Insufficient cross-national comparative studies of Indian naval deployments with those of other regional powers (e.g., France, China) in the WIO."
+      heading: "RESEARCH OBJECTIVES",
+      paragraphs: ["1.	To explore India’s maritime policy in the Western Indian Ocean, moving away from the Indo-Pacific and how it helps maintain the area safe through anti-piracy operations, naval stations, and humanitarian aid.",
+                  "2.	To examine how India’s port diplomacy and huge infrastructure projects like Chabahar and Sittwe can change the way the world operates, link diverse locations and help blue economy projects that are in line with the Sustainable Development Goals.",
+                  "3.	How effective is India’s collaboration with regional and multilateral organizations in addressing environmental challenges, marine biodiversity conservation, and inclusive maritime governance?",
+        ]
     },
     {
-      "heading": "Multilateral Governance: IORA, IOC and Blue Growth",
-      "paragraphs": [
-        "India’s IORA and IOC leadership has been viewed as the connecting bridge between security and developmental objectives (e.g., Mohan, 2017; Bhattacharya, 2024). IORA’s focus on SDG 14 and 17 and IOC’s fisheries, biodiversity activities are significant pillars of regional cooperation."
-      ],
-      "gap": "A critical institutional analysis comparing India’s engagement with IORA vs. IOC is still absent."
+      heading: "RESEARCH QUESTIONS",
+      paragraphs: ["1.	How has India’s maritime strategy evolved in the Western Indian Ocean, and what impact has it had on regional security and stability?",
+                  "2.	In what ways does India employ port diplomacy and strategic infrastructure projects to advance geopolitical influence, regional integration, and sustainable economic growth?",
+                  "3.	How effective is India’s collaboration with regional and multilateral organizations in addressing environmental challenges, marine biodiversity conservation, and inclusive maritime governance?",
+        ]
     },
     {
-      "heading": "Infrastructure Diplomacy: Ports and Trade Corridors",
-      "paragraphs": [
-        "India’s port diplomacy, including Chabahar, Sittwe, and Ehoala, is documented by ORF (2024–2025) and the Ministry of Ports. Yet academic analyses often treat these as isolated foreign policy tools rather than part of a long-term ocean governance vision."
-      ],
-      "gap": "Lack of integrated studies linking port-building to India’s strategic blue economy agenda and regional trust-building."
+      heading: "THEMATIC LITERATURE REVIEW",
+      paragraphs: ["1.	Strategic Vision and Blue Economy in the WIO – India’s shift from the Indo-Pacific to the WIO reflects an evolution in strategic thinking. Scholars such as Gurjar & Dutta (2021) and Kesnur & Mishra (2022) have underscored India’s adoption of the SAGAR doctrine as a new regional identity marker rooted in sovereign maritime governance and SDG alignment. The Blue Economy Vision 2030 and the Viksit Bharat 2047 roadmap further emphasize economic-ecological synergy. ",
+        "Gap – ",
+        "Limited evaluation exists on the realignment from SAGAR to MAHASAGAR in 2025 and how it differentiates India’s long-term geopolitical intent.",
+        "2.	Maritime Security and Naval Architecture –Anti-piracy operations, HADR missions, and the IFC-IOR are well documented in think tank analyses (Brewster, 2024; Express, 2025). However, most works focus on the Indo-Pacific and underappreciate India’s evolving doctrine of net security provider in the WIO.",
+        "Gap– ",
+        "Insufficient cross-national comparative studies of Indian naval deployments with those of other regional powers (e.g., France, China) in the WIO.",
+        "3.	Multilateral Governance:IORA, IOC and Blue Growth– India’s IORA and IOC leadership has been viewed as the connecting bridge between security and developmental objectives (e.g., Mohan, 2017; Bhattacharya, 2024). IORA’s focus on SDG 14 and 17 and IOC’s fisheries, biodiversity activities are significant pillars of regional cooperation.",
+        "Gap – ",
+        "A critical institutional analysis comparing India’s engagement with IORA vs. IOC is still absent.",
+        "4.	Infrastructure Diplomacy: Ports and Trade Corridors – India’s port diplomacy, including Chabahar, Sittwe, and Ehoala, is documented by ORF (2024–2025) and the Ministry of Ports. Yet academic analyses often treat these as isolated foreign policy tools rather than part of a long-term ocean governance vision.",
+        "Gap– ",
+        "Lack of integrated studies linking port-building to India’s strategic blue economy agenda and regional trust-building.",
+        "5.	Environmental Sustainability and Blue Resilience– Literature such as WWF Report (2017), Jayaram et al. (2025), and Roy (2019) foreground ecological stress in the WIO. India’s Deep Ocean Mission, MISHTI, and marine spatial planning efforts are emerging topics. Tools like PFZAS and ABIS also represent technological leadership in marine conservation.",
+        "Gap– ",
+        "Few studies assess the impact effectiveness of India’s environmental contributions in WIO nations, or whether they result in measurable resilience and local capacity-building.",
+
+        ]
     },
     {
-      "heading": "Environmental Sustainability and Blue Resilience",
-      "paragraphs": [
-        "Literature such as WWF Report (2017), Jayaram et al. (2025), and Roy (2019) foreground ecological stress in the WIO. India’s Deep Ocean Mission, MISHTI, and marine spatial planning efforts are emerging topics. Tools like PFZAS and ABIS also represent technological leadership in marine conservation."
-      ],
-      "gap": "Few studies assess the impact effectiveness of India’s environmental contributions in WIO nations, or whether they result in measurable resilience and local capacity-building."
-    }
-  ],
-  "methodology": [
-    "This study uses a qualitative, thematic case study approach to examine India’s blue diplomacy in the Western Indian Ocean (2008–2024). The research focuses on three key dimensions: strategic infrastructure, maritime security, and ecological sustainability – each aligned with relevant Sustainable Development Goals (SDGs), particularly SDGs 13, 14, and 17.",
-    "The methodology combines content analysis of policy documents, government reports, and multilateral declarations (e.g., SAGAR, IORA, MAHASAGAR); and comparative case studies of India-led initiatives including – Strategic Infrastructure: Chabahar and Sittwe Ports; Security Architecture: IFC-IOR, anti-piracy patrols; Environmental Engagements: Agalega Island, Deep Ocean Mission, MISHTI.",
-    "The Data for the study were further sourced from Indian government publications (PIB, MoES, MEA), reports from ORF, ICWA, TERI, and UNEP, academic and policy literature, news coverage and official press releases (2008–2024). However, it is to be noted, that the study is based on secondary data and may not fully capture classified strategic assessments or on-ground environmental impact. Future studies may benefit from regional fieldwork and primary stakeholder interviews."
-  ],
-  "content": [
+      heading: "RESEARCH METHODOLOGY ",
+      paragraphs: ["This study uses a qualitative, thematic case study approach to examine India’s blue diplomacy in the Western Indian Ocean (2008–2024). The research focuses on three key dimensions: strategic infrastructure, maritime security, and ecological sustainability – each aligned with relevant Sustainable Development Goals (SDGs), particularly SDGs 13, 14, and 17. ",
+        "The methodology combines content analysis of policy documents, government reports, and multilateral declarations (e.g., SAGAR, IORA, MAHASAGAR); and comparative case studies of India-led initiatives including – ",
+        "1.	Strategic Infrastructure: Chabahar and Sittwe Ports",
+        "2.	Security Architecture: IFC-IOR, anti-piracy patrols",
+        "3.	Environmental Engagements: Agalega Island, Deep Ocean Mission, MISHTI",
+        "The Data for the study were further sourced from –  ",
+        "1.	Indian government publications (PIB, MoES, MEA)",
+        "2.	Reports from ORF, ICWA, TERI, and UNEP",
+        "3.	Academic and policy literature",
+        "4. News coverage and official press releases (2008–2024)",
+        "However, it is to be noted, that the study is based on secondary data and may not fully capture classified strategic assessments or on-ground environmental impact. Future studies may benefit from regional fieldwork and primary stakeholder interviews.",
+        ]
+    },
     {
-      "heading": "Framing the Vision: India’s Blue Economy and Maritime Strategy in the WIO",
-      "paragraphs": [
+      heading: "Framing the Vision: India’s Blue Economy and Maritime Strategy in the WIO",
+      paragraphs: [
         "India’s strategic approach to the Western Indian Ocean since 2008 put forward a calibrated modification of the sovereign state’s maritime vision that moved away from the entire Indo-Pacific framework to a specific and much more feasible narrative of fusing its economic ambitions, security needs and sustainability in accordance with international law. This thematic section delves into the critical aspects of India’s ever-evolving maritime approach in the WIO and its strategic adaptation beyond the Indo-Pacific corridors ever since the inception of the SAGAR (Security and Growth for All in the Region) doctrine, its special focus on sovereignty under the United Nations Convention on the Law of the Sea (UNCLOS), and its systematic alignment with the UN-laid Sustainable Development Goals (SDGs), specifically SDGs 14, 8, and 16. These focus points allow the strengthening of India’s leadership in the region, intersecting broader concepts such as security cooperation, infrastructural support, global partnerships, and ecological responsibility. Through this unified, interlinked and interdependent structure, India continues to push for its claim as the regional advocate for legitimacy, partnership and responsible guardianship across the WIO."
       ]
     },
     {
-      "heading": "Strategic shift beyond the Indo-Pacific",
-      "paragraphs": [
+      heading: "Strategic shift beyond the Indo-Pacific",
+      paragraphs: [
         "India’s paradigm shift from a historical focus on the Indo-Pacific corridors towards the Western Indian Ocean is driven by the ever-growing dependence on sea lanes that make up for over 80% of the overall crude oil imports and large volumes of trade (Haldar & Gupta, 2025). The rise of maritime threats including piracy, trafficking, and strategic rivalry compelled India to turn its focus westward. This strategic shift is further reinforced by the WIO’s proximity to the Middle Eastern countries like Iraq, Saudi Arabia, and the United Arab Emirates, which collectively make up 40% to over 50% of India’s total crude oil imports (Haldar & Gupta, 2025).",
         "This strategy was consolidated by the SAGAR (Security and Growth for All in the Region) doctrine which was announced in 2015 and prioritized: Oceans’ security through the enhancement of cooperation and naval monitoring. Secondly, inclusive regional growth fostering economic partnerships with coastal and island states in the WIO. Thirdly, nurturing regional stability through diplomatic coalitions (Kesnur and Mishra, 2022; Naha, 2021).",
         "The SAGAR doctrine has undergone significant evolution and was rearticulated in March 2025 as, Mutual and Holistic Advancement for Security and Growth Across Regions (MAHASAGAR). This strategic shift solidifies India’s role as a regional balance maker and net security provider capable of capacity building, military diplomacy, military assistance and direct deployment of its own military forces, thus contributing to regional resilience and sustainability while also safeguarding shared maritime commons (Haldar & Gupta, 2025; E-IR, 2025)."
       ]
     },
     {
-      "heading": "Blue Economy, Legal Frameworks, and Sustainable Development",
-      "paragraphs": [
+      heading: "Blue Economy, Legal Frameworks, and Sustainable Development",
+      paragraphs: [
         "India’s blue economy framework is a detailed and all-encompassing plan which integrates economic growth and ecosystem conservation (TERI, 2022). This strategy is defined through a holistic understanding of the Blue Economy Vision, a vital component of the much bigger Vision of New India by 2030 (Press Information Bureau [PIB], 2022). The vision aims for national development by making effective and responsible use of the ocean resources, while the strategy focuses on sustainable use of resources in sectors such as fisheries, tourism, maritime transport, renewable energy, aquaculture, seabed mining, and marine biotechnology, across offshore and coastal lines (Ministry of Earth Sciences, 2025; TERI, 2022; KPMG, 2024). The Blue Economy is in the centre of India’s Viksit Bharat 2047 vision and targets a US$100 billion contribution (Ministry of Earth Sciences, 2025; PIB, 2022; KPMG, 2024).",
         "The international law under UNCLOS forms the strong ground on which India exercises its maritime leadership. The Indian State defends its sovereign rights over its Exclusive Economic Zone (EEZ) and continental shelf according to the provisions by UNCLOS. India also supports free navigation at sea and the peaceful settlement of maritime disputes through legal frameworks, while opposing any one-sided action that may disturb the peace & order at sea (Gurjar & Dutta, 2021). India is also an active part of multiple regional forums such as the Indian Ocean Rim Association (IORA) and Indian Ocean Commission (IOC) cooperating together in maritime security, fisheries management and ocean governance, aligning with SDG 16 (Peace, Justice and Strong Institutions) (Gurjar & Dutta, 2021)."
       ]
     },
     {
-      "heading": "Security Through Collaboration: India’s Maritime Safety Architecture in the Western Indian Ocean (2008–2024)",
-      "paragraphs": [
+      heading: "Security Through Collaboration: India’s Maritime Safety Architecture in the Western Indian Ocean (2008–2024)",
+      paragraphs: [
         "The Western Indian Ocean (WIO) which stretches from the eastern seaboard of Africa to island nations such as Seychelles, Madagascar, Mauritius, Maldives, and Comoros, has emerged as a pivotal region in India’s maritime strategy and blue diplomacy. A Maritime Strategy can be defined as the principle that governs a war at sea. It has become one of the topmost priorities of India’s foreign policies since the Mumbai attacks in 2008 which arose from the maritime border. 2008 stands as a year that marks a strategic shift of maritime strategies that addresses security challenges from diverse sources like antagonistic neighbours to non-state actors like pirates, maritime terrorists and armed robbers.",
         "Since 2008, the Indian navy has deployed units in the Gulf of Aden and in the east coast of Africa towards anti-piracy patrols. (Express 2025) Following anti-piracy events along with interests in energy security, economic growth and protecting sea lanes, the WIO has become a major priority for India’s economic, ecological and maritime interests."
       ]
     },
     {
-      "heading": "Anti-Piracy Operations: The Pillar of Security Collaboration",
-      "paragraphs": [
+      heading: "Anti-Piracy Operations: The Pillar of Security Collaboration",
+      paragraphs: [
         "The WIO has become a vital arena in India’s Maritime Security, particularly with the rise of non-traditional threats. The re-emergence of piracy invasions along the coast of Somalia between 2007-2012 became a major factor in continuous deployment of the Indian Navy to escort vulnerable commercial vessels to safety. This scenario is what prompted the launching of Operation Sankalp in 2019, thus India’s response to the growing tension in the Gulf. It provided protection for Indian-flagged merchant ships overflying maritime zones in the Persian Gulf, Gulf of Oman and the Middle East. Another component of India’s approach involves starting construction of an airstrip and jetty on Agalega Island in Mauritius in 2024. With regional partnerships being of utmost importance in times of invasions, there have been several examples where coordinated multilateral responses have resulted in timely rescue. Indian Navy navy together with Seychelles Defence Forces and Sri Lanka Navy intercepted and rescued hijacked vessel on 27 January 2024. India and Madagascar have expanded their naval and defence relations through arrangements that help each other to fight piracy, illegal fishing, and other such crimes targeted against maritime security. The navies and coast guards can now conduct bilateral exercises and operationalise some cooperation arrangements for approach, while also exchanging best practices for securing regional maritime lanes."
       ]
     },
     {
-      "heading": "Information Fusion Centre – Indian Ocean Region (IFC-IOR): Real-Time Regional Coordination",
-      "paragraphs": [
+      heading: "Information Fusion Centre – Indian Ocean Region (IFC-IOR): Real-Time Regional Coordination",
+      paragraphs: [
         "Incidents of large-scale piracy has reduced since 2012 with the growing militarisation in the area and with the emergence of regional Information Fusion Centres (IFCs). In the Western Indian Ocean, a regional information sharing arrangement was established in Madagascar in 2016 and India opened the Information Fusion Centre – Indian Ocean Region (IFC-IOR) in 2017. (Brewster 2024) The IFC routinely gathers and updates information on illegal fishing, unwanted people and environmental incidents in the WIO, and provides almost real-time alerts and summaries of piracy incidents. IFC-IOR also conducts annual workshops in which members from more than 25 countries, including Indian Ocean Island nations and African coastal nations, share best practices, coordinate simulated incident response exercises, and create a consensus framework to respond to challenges in the maritime domain. During large cyclones or oil spillages, the IFC-IOR provides critical incident information to navies and coast guards of affected countries for coordinated search and rescue and pollution control operations."
       ]
     },
     {
-      "heading": "Humanitarian Assistance and Disaster Relief (HADR): Soft Power Dimension",
-      "paragraphs": [
+      heading: "Humanitarian Assistance and Disaster Relief (HADR): Soft Power Dimension",
+      paragraphs: [
         "Humanitarian Assistance and Disaster Relief (HADR) has emerged as an important pillar of Indian maritime diplomacy and projection of Indian soft-powers in the Western Indian Ocean (WIO) region. This promotes cordial ties with foreign countries. Over the past decade, numerous humanitarian crises have taken place - from the direct impacts of armed conflict, the COVID-19 pandemic, natural disasters, and extreme natural weather events, as a result of climate change. Following the 2004 tsunami, the tempo of the Indian Navy’s HADR operations increased. Within these operations, elements of what is today the Indian vision of Security and Growth for All in the Region (SAGAR) began to surface. (The Indian Navy’s Humanitarian Role: Strategic Soft Power in Action 2024) Under this, India responded to Cyclone Idai in Mozambique in 2019 by deploying three ships carrying relief material. During the Mauritius oil spill disaster in 2020, India provided specialised equipment and a technical team. India also led naval missions where INS Airavat delivered medical aid to several countries like Sudan, South Sudan, Djibouti and Eritrea during the Covid-19 pandemic. These missions highlighted India’s preparedness as a first responder, but also strengthened the health security in the WIO."
       ]
     },
     {
-      "heading": "Alignment with the Sustainable Development Goals (SDGs)",
-      "paragraphs": [
+      heading: "Alignment with the Sustainable Development Goals (SDGs)",
+      paragraphs: [
         "India’s maritime security efforts in the Western Indian Ocean (WIO) between 2008–2024 advance global initiatives. For instance, India’s anti-piracy patrols, disaster response efforts, and establishing the Information Fusion Centre for the Indian Ocean Region (IFC-IOR) promote sustainable development goals (SDGs) such as SDG 14 (conservation and sustainable use of oceans, seas and marine resources), SDG 16 (promoting peaceful societies and just institutions) and SDG 17 (strengthening partnerships to achieve the SDGs). Such activities, along with joint naval actions exercising interoperability, the sharing of pertinent regional information and contributing to capacity-building for island states cumulatively build trust, develop an inclusive maritime security model, and re-enforces India as a reliable “net security provider”, which enhances regional security and advances the common vision of sustainable and rules-based maritime order."
       ]
     },
     {
-      "heading": "IORA and IOC: Multilateral Platforms for Inclusive Blue Growth",
-      "paragraphs": [
+      heading: "IORA and IOC: Multilateral Platforms for Inclusive Blue Growth",
+      paragraphs: [
         "In the geopolitical framework of Western Indian Ocean, India conducts its diplomatic position in the context of the two, interconnected institutional arrangements, i.e. Indian Ocean Rim Association (IORA) and Indian Ocean Commission (IOC). The former, IORA, provides state officials with a well-organized platform where they could cooperate in the field of marine resources management, sustainable development, and maritime security. The latter is the IOC, which focuses on the coordination of the Anglophone littoral states. In conjunction, they provide additional collaborative opportunities in areas of high maritime priorities, which strengthen strategic interests of India (Mohan, 2017). Their ability to build partnerships between sovereigns like countries promotes the development of cohesion in policy-making and strategies that appeal to the interest of member-states, through regional organizations like IORA and IOC (Du Plessis, 2024).",
         "India has taken on a much more eminent role in a wider picture of maritime security structures than before over the past decades such as the Indian associations with the organizations, like the Intergovernmental Standing Committee on Ship (AU-ISSA) and Djibouti Code of Conduct of the African Union. Collectively these bodies provide a formal multilateral platform against which the modern-day challenges such as piracy and various transnational crimes are struggled. Admittedly, strategic projects that are promoted by these two regional institutions can be appealing to the main Indian goals enhancing the more active cross-border collaboration and strengthening the role of India in the broader community of ocean governance (Bhattacharya, 2024). A combination of calibrated fisheries policies, prudence in exploring the resources, and inflexible blue trade quality have enabled the Indian Coast Guard and other authorities to build-in a growth-ecological balance conscious system which in turn has provided an avenue that leads to a healthier marine order."
       ]
     },
     {
-      "heading": "IORA’s Impact on Blue Growth",
-      "paragraphs": [
+      heading: "IORA’s Impact on Blue Growth",
+      paragraphs: [
         "Indian Ocean Rim Association (IORA) is a regional platform that focuses on the process of developing the blue economy, or rather generating economic growth, livelihood and employment based on sustainable management of marine resources. In his analysis of 2018, Khurana follows the development of the institution through diplomatic interaction to a system of an institutional architecture supporting maritime governance, aiming at restraining illegal fishing, lessening marine pollution and introducing a comprehensive maritime order. The association aims to enhance cooperation among the states of the Indian Ocean Rim region within the mandate of its activities in the regions and also focuses on not only economic growth but also sustainable growth. The organization also encourages intra-regional and local projects like Sagarmala that will boost the maritime connectivity of trade. The most iconic one is the Blue Economy Dialogue, an organized platform twinning member states to share approaches, best practices, and strategies to sustainably manage the ocean (Mohan, 2017). This process has played a critical role to define blue growth agenda of IORA where it has paid focus on fisheries management, marine tourism, and ocean renewable energy. Based on the IORA Action Plan on the Blue Economy that outlines the importance of integrating ocean governance policies and economic paths towards obtaining an environmentally sustainable blue growth (Upadhyay & Mishra, 2020)."
       ]
     },
     {
-      "heading": "IOC’s Contributions to Regional Development",
-      "paragraphs": [
+      heading: "IOC’s Contributions to Regional Development",
+      paragraphs: [
         "I would make your attention to the works of the Indian Ocean Commission (IOC) an intergovernmental organization who devotes itself to regional economic development, social cohesion and cultural development. By directing emphasis on sustainable exploitation of the marine resources, the IOC enables integrated exploitation of the oceanic resources. In this direction, the Commission has taken a complex approach that includes the issue of having sustainable fisheries, marine biodiversity as well as having renewable energy.",
         "S Bhattacharya highlights, in the context of the mandate to promote scientific research, and sustainable development, the IOC has contributed towards blue growth and ocean governance. Some of the modalities encompass the systematic study of the coastal and open-ocean ecosystems as well as the identification of good practices in sustainable management, capacity-building activities targeted at member countries. These activities are put together in the aim to facilitate more informed, and eventually more successful management of marine resources. G. Mohan assumes that the keystone of regional stability is in competent design of the policy. As a practical proposal, he proposes an iterative, dialogue-driven process, through which participating states may tune a common institutional architecture, that reflects the broadly defined collective interests of the region."
       ]
     },
     {
-      "heading": "Infrastructure as Influence: Port Diplomacy and Marine Sustainability",
-      "paragraphs": [
+      heading: "Infrastructure as Influence: Port Diplomacy and Marine Sustainability",
+      paragraphs: [
         "The Western Indian Ocean connects Africa, the Middle East, and South Asia making it a critical hub in India’s maritime strategy. Control and access here give India’s navy more power in locations other than the Indo-Pacific. India uses port development as a tool of influence in the region offering aid, capacity-building, and investments to build trust without coercion following a sustainable design. More than 90% of India’s trade is conducted via the country’s maritime channel, India’s ports and trade related infrastructure needs constant improvement to speed up expansion in the manufacturing sector and support the “Make in India” strategy (Ministry of Ports, Shipping and Waterways, n.d.).",
         "The region hosts some of the world’s most important naval corridors and strategically sensitive passages through which one-third of the world’s container traffic and two-thirds of global oil shipments pass (Observer Research Foundation, 2024). India’s port diplomacy encompassing initiatives like Chabahar in Iran, Sittwe in Myanmar, and Ehoala in Madagascar, shows its seriousness about making safe and long-lasting maritime commons."
       ]
     },
     {
-      "heading": "Chabahar Port: Strategic Leverage in Iran’s Maritime Gateway",
-      "paragraphs": [
+      heading: "Chabahar Port: Strategic Leverage in Iran’s Maritime Gateway",
+      paragraphs: [
         "Chabahar port also known as the Golden Gate owing to its strategic location that allows landlocked Afghanistan and other Central Asian countries to access the sea. India, Afghanistan and Iran have a special interest to develop the port with the aim to neutralize the strategic imbalance caused by Gwadar port and reduce Afghanistan’s dependency on Pakistan for trade and transit.",
         "On 13 May 2024, India and Iran signed a 10-year long-term agreement for operation of Shahid Behesti terminal at the Chabahar port. This deal lets India run a foreign port by itself for the first time. (ICPS, 2024). Chabahar is an important commerce route between India and Eurasia because it is at the centre of the International North–South Transport Corridor (INSTC).",
         "The U.S. sanctions against Iran have made it impossible for the two countries to get along. India has always tried to get geopolitical exemptions and kept diplomatic balance even with these constraints. This illustrates that Chabahar is a very important exception since it connects the region and is not a matter of bilateral interest."
       ]
     },
     {
-      "heading": "Sittwe Port: Enhancing India’s Act East Connectivity",
-      "paragraphs": [
+      heading: "Sittwe Port: Enhancing India’s Act East Connectivity",
+      paragraphs: [
         "The Kaladan Multimodal Transit Transport project in India includes the Sittwe Port which is situated in Myanmar, in the state of Rakhine. The goal of the KMMTTP project is to connect the northeastern states of India, which are landlocked to the Bay of Bengal by sea, river, and road, pushing the country’s Act East agenda forward. Harnessing the Sittwe–Chittagong–Sabroom–Agartala route via water and land will reduce the transit time from four to two days, saving money, time and reducing carbon emissions.",
         "In April 2024, the Indian government took complete control of Sittwe Port through India Ports Global Ltd. (IPGL) showcasing its strategic interests (ORF, 2025). The project enhances India’s logistical capabilities and strengthens its position as a key regional player in organizations such as the South Asian Free Trade Area (SAFTA) and the Association of Southeast Asian Nations-India Free Trade Area (AIFTA), as well as the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) promoting regional integration and cooperation (ORF, 2025).",
         "This shows India’s ability to implement infrastructure initiatives which can benefit Myanmar’s trade and development as well as bolster its connectivity linkages. The port’s completion allows India to offer Myanmar an alternative to China’s dominant presence."
       ]
     },
     {
-      "heading": "Ecological Imperatives: Climate Action and Blue Sustainability in the Western Indian Ocean",
-      "paragraphs": [
+      heading: "Ecological Imperatives: Climate Action and Blue Sustainability in the Western Indian Ocean",
+      paragraphs: [
         "Climate change has emerged as one of the most defining issues of the 21st century, with implications that are far too deep to be dismissed. No longer is it a national border- and political ideology-bound crisis, but a global phenomenon whose impacts spill across continents, affecting and disrupting societies, economies and ecosystems worldwide. And among the worst hit, are the oceans of the world.",
         "The ocean covers nearly three-quarters of our planet, produces more than half of the oxygen that we breathe, and absorbs about a quarter of the Carbon Dioxide we produce. However, this comes at a devastating cost. The dissolved CO2 reacts with the seawater to form carbonic acid and lowers the ocean’s pH in the process also known as ocean acidification, which further results in the weakening of coral skeletons and dissolving of the shells of molluscs and planktons, but also disrupting the lives of billions of people who ultimately depend upon the oceans for their nutrition and livelihoods. In fact, it is projected to decrease the ocean’s pH levels from approximately 8.1 to 7.7 by the end of the century, the consequences to which would be nothing short of detrimental. [Obura et al., WWF Report, 2017]",
         "This crisis is particularly alarming in the Western Indian Ocean (WIO), a region of exceptional biodiversity and immense economic importance. From Seychelles’ coral reefs to Madagascar’s dense mangrove forests and seagrass meadows that line the coasts of Kenya, Tanzania and Mozambique, the WIO is home to over 11,000 documented species. Yet, decades of overexploitation and habitat loss have placed these ecosystems under tremendous pressure. Mangrove cover is shrinking, Kenya and Tanzania have lost about 18% in the past 25 years, while Mozambique has lost 27% in an even shorter period. Coral reefs have declined by 15% following major bleaching events such as the 1997-98 El Niño. The region’s busy shipping lanes, which carry a third of global oil tanker traffic, further expose it to the risk of oil spills and invasive species. The collapse of these habitats may have catastrophic effects as fewer nursery grounds for fish would mean dwindling fish stocks and reduced food security for millions. [Obura et al., WWF Report, 2017] In this context, the idea of a Blue Economy, rather, more importantly, Blue Sustainability, is no longer a lofty ideal but an ecological and economic necessity."
       ]
     },
     {
-      "heading": "International and Regional Initiatives for Climate Action and Sustainability",
-      "paragraphs": [
+      heading: "International and Regional Initiatives for Climate Action and Sustainability",
+      paragraphs: [
         "The concept of Blue Economy first gained global prominence during the Rio+20 Conference in 2012, which was built upon the idea of decoupling socio-economic development from environmental degradation. Since then, several regional initiatives in the WIO have been put into practise, that align the interests of their countries with the Sustainable Development Goals (SDGs), particularly SDG 14, which calls for the conservation and sustainable use of oceans and marine resources. [Mohanty et al., RIS Report, 2015]",
         "The IORA, which is often considered to be leading the other regional efforts, has been a central platform for the same. Similarly, the Mauritius Declaration (2015) had stressed the need for better ocean governance, while the Jakarta Declaration (2017) had outlined the commitments for sustainable fishing and stronger legal frameworks. Further, the Nairobi Convention had led to the establishment of the Out Blue Future (OBF) initiative which focuses on inclusive and sustainable ocean governance in the WIO, aiming to empower the local communities and attract environmentally responsible investments. [ORF Occasional Paper: 181, A. Roy, 2019]",
         "As for the Small Island Developing States (SIDS), especially Seychelles and Mauritius, several innovative approaches have been adapted. For instance, Seychelles’ “debt-for adaptation” dedicates 30% of its Exclusive Economic Zone (EEZ) for marine conservation, while Mauritius launched an ambitious Ocean Economy Strategy (2013) to drive sustainable maritime growth. But these high-profile initiatives also raise certain concerns regarding their successful implementation, particularly in the less wealthy WIO nations, or whether these initiatives remain limited only to the better-resourced states. [ORF Occasional Paper: 181, A. Roy, 2019], [Obura et al., WWF Report, 2017]"
       ]
     },
     {
-      "heading": "Climate Action and Resilience (SDG 13)",
-      "paragraphs": [
+      heading: "Climate Action and Resilience (SDG 13)",
+      paragraphs: [
         "In the humanitarian arena, the Indian Navy has time and again served as the first respondent to natural disasters in the WIO, playing a crucial role during Cyclone Idai in Mozambique (2019), Cyclone Diane in Madagascar (2020) and the MV Wakashio oil spill in Mauritius (2020). Even during the Covid-19 pandemic, India had, under Mission Sagar, supplied food, medical aid, to Mauritius, Seychelles, Comoros, and Madagascar, which further established India as a trusted regional partner. [ORF Issue Brief: 576, S. Kesnur, A. Mishra, 2022]",
         "Yet, India’s contributions don’t stop at emergency responses. Through its clean energy partnerships with Mauritius and Sri Lanka, and through several multilateral platforms like International Solar Alliance (ISA) and the Coalition for Disaster Resilient Infrastructure (CDRI), India is promoting long-term resilience by sharing technology and building climate-resilient infrastructure. [Current Conservation, D. Jayaram, H. Narayanan, I. Jain, June 30, 2025]"
       ]
     },
     {
-      "heading": "Marine Biodiversity and Ecosystem Conservation (SDG 14 & 15)",
-      "paragraphs": [
+      heading: "Marine Biodiversity and Ecosystem Conservation (SDG 14 & 15)",
+      paragraphs: [
         "India had also made significant efforts towards marine biodiversity and ecosystem conservation, which can’t simply be neglected. In 2021, it had launched the Deep Ocean Mission (DOM) under the Ministry of Earth Sciences, which aimed to map the deep-sea resources and genetic biodiversity while also expanding marine conservation areas. Alongside, India is also developing a Maine Spatial Plan (MSP) which seeks to reduce conflicts between human activities and what is needed for further ecosystem resilience. Costal restoration is also gaining momentum through the National Coastal Mission, which is committing to restore mangroves and coral, with notable achievements in coral transplantation and seagrass restoration in Tamil Nadu’s Gulf of Mannar Biosphere Reserve. Further, emerging research also shows that coral-mangrove hybrid conservation models might serve as climate sanctuaries for corals, potentially reducing the heat-induced bleaching; while coral aquaculture, growing corals in controlled environments for transplantation, could offer both ecological benefits and new livelihood opportunities. [Dr. Raman Murthy; UN Oceans Conference, 2022]",
         "The Mangrove Initiative for Shoreline Habitats and Tangible Incomes (MISHTI) scheme clearly demonstrated how livelihoods can be directly improved through conservation, where Gujrat, notably, revived nearly 19,000 hectares of mangroves, while also improving fish stocks and fishermen incomes. Given their efficiency as carbon sinks, India is now exploring blue carbon credit mechanisms, aligning them with global REDD+ initiatives. [Policy Circle, S. Jain, S. Gull, May 25, 2025]"
       ]
     },
     {
-      "heading": "Science, Monitoring and Capacity Building",
-      "paragraphs": [
+      heading: "Science, Monitoring and Capacity Building",
+      paragraphs: [
         "To further strengthen these efforts, scientific research and monitoring also plays an important role. The Marine Biodiversity and Environment Management Division (MBEMD) at CMFRI is dedicate to understand marine habitats and assess the impacts of pollution and fishing, and also develop protocols for the restoration of coral reefs, seagrass beds and mangrove stands. [CMFRI official, accessed last in July 26, 2025]",
         "At the same time, India also offers its expertise in tools like Potential Fishing Zone Advisory Services (PFZAS), which helps fishermen locate fish aggregation zones efficiently and reduce carbon emissions, while the Coral Bleaching and Algal Bloom Information Service (ABIS) provides real-time ecosystem monitoring. The International Training Centre for Operational Oceanography (ITCO-Ocean) supports capacity building across the region. On fisheries governance, the PM Matsya Sampada Yojana (PMMSY) further promotes sustainable aquaculture, and ISRO’s oceanographic satellites, along with the Information Fusion Centre– Indian Ocean Region (IFC-IOR), are improving surveillance against Illegal, Unreported, and Unregulated (IUU) fishing as well. [ORF Issue Brief: 576, S. Kesnur, A. Mishra, 2022]"
       ]
     },
     {
-      "heading": "Maritime Domain Awareness (MDA) and Regional Exercises",
-      "paragraphs": [
+      heading: "Maritime Domain Awareness (MDA) and Regional Exercises",
+      paragraphs: [
         "Maritime Domain Awareness (MDA), aided by the White Shipping Information agreements India had signed with the WIO countries like Mauritius, Seychelles, Kenya and Mozambique. Moreover, the Lucknow Declaration (2020), and the participation in multilateral maritime exercises like Cutlass Express (2017, 2020), have further strengthened India’s efforts against Illegal, Unreported, and Unregulated (IUU) fishing. [ORF Issue Brief: 576, S. Kesnur, A. Mishra, 2022]",
         "Yet, despite these strong initiatives, there is very little evaluation of how these initiatives impact the ecological health and socio-economic resilience of WIO partner nations. For instance, while India may share its technology and knowledge to these countries, there is very little evidence on how effectively the recipient nations would utilize these tools, or whether they’re being translated into tangible conservation outcomes. Therefore, to understand whether India’s interventions strengthen regional conservation capacities or they remain largely symbolic is a very crucial need for assessing their real contributions to SDG 14 and 15."
       ]
     }
   ],
-  "conclusion": [
+  conclusion: [
     "India’s Blue Diplomacy in the Western Indian Ocean is a brilliant initiative that goes beyond only ports. It gives a big picture of the sea that encompasses safety, connections, growth, and working together in the area. India’s SAGAR strategy asks for a long-term and broad commitment in the area, which includes enhanced military presence and marine domain awareness, humanitarian help, and building capacity. India backs a rules-based and international system through entities like IORA, BIMSTEC, and regional free trade agreements.",
     "India’s strategic investments in regions like Chabahar and Sittwe only make it simpler to trade and get about, but they also show that India is a good partner for security and progress. India does this to stop relying too much on important trade routes like Malacca and to stop China from being stronger. Building infrastructure that can handle climate change, doing health diplomacy, and teaching people in Africa are all ways that India is helping South–South solidarity.",
     "India visualizes itself as a bridge between the Indo-Pacific and the Western Indian Ocean. India’s concept of the maritime commons isn’t military but it’s broad and includes a realistic view of geopolitics and a dedication to development. It wants to create a safe, open marine system that protects the common good for everyone while also keeping its own strategic independence."
   ],
-  "acknowledgements": [],
-  "references": [
+  references: [
     {
-      "heading": "Baalnoi Academy. (n.d.). India’s ‘Necklace of Diamonds’ strategy.",
-      "links": "https://baalnoiacademy.com/indias-necklace-of-diamonds-strategy/"
+      heading: "Baalnoi Academy. (n.d.). India’s ‘Necklace of Diamonds’ strategy.",
+      link: "https://baalnoiacademy.com/indias-necklace-of-diamonds-strategy/"
     },
     {
-      "heading": "Bhattacharya, S. (2024). Middle power and regionalism: Implications of India joining the Indian Ocean Commission (pp. 71–89). Routledge.",
-      "links": ""
+      heading: "Bhattacharya, S. (2024). Middle power and regionalism: Implications of India joining the Indian Ocean Commission (pp. 71–89). Routledge.",
+      link: ""
     },
     {
-      "heading": "Bhattacharya, S. B. (n.d.). The strategic significance of the Indian Ocean for India’s security in the 21st century: An overview.",
-      "links": ""
+      heading: "Bhattacharya, S. B. (n.d.). The strategic significance of the Indian Ocean for India’s security in the 21st century: An overview.",
+      link: ""
     },
     {
-      "heading": "Chevallier, R. (2017, May). Integrated marine and coastal management in the Western Indian Ocean: Towards a sustainable oceans’ economy (Occasional Paper No. 258). South African Institute of International Affairs.",
-      "links": "https://www.jstor.org/stable/resrep28393"
+      heading: "Chevallier, R. (2017, May). Integrated marine and coastal management in the Western Indian Ocean: Towards a sustainable oceans’ economy (Occasional Paper No. 258). South African Institute of International Affairs.",
+      link: "https://www.jstor.org/stable/resrep28393"
     },
     {
-      "heading": "Climate Connection. (2025, December 3). The Murky Waters of the Blue Economy: A Cautious Look at India’s Coastal Development.",
-      "links": "https://climateconnection.in/blog/murkywaters-blue-economy-cautious-look-indias-coastal-development"
+      heading: "Climate Connection. (2025, December 3). The Murky Waters of the Blue Economy: A Cautious Look at India’s Coastal Development.",
+      link: "https://climateconnection.in/blog/murkywaters-blue-economy-cautious-look-indias-coastal-development"
     },
     {
-      "heading": "Du Plessis, N. (2024). Exploring the ‘ocean economies’ of Western Indian Ocean coastal states (Doctoral dissertation, Cape Peninsula University of Technology).",
-      "links": ""
+      heading: "Du Plessis, N. (2024). Exploring the ‘ocean economies’ of Western Indian Ocean coastal states (Doctoral dissertation, Cape Peninsula University of Technology).",
+      link: ""
     },
     {
-      "heading": "Gupta, A. (2023, September 6). Role of defence diplomacy in shaping favourable strategic neighbourhood. Vivekananda International Foundation.",
-      "links": "https://www.vifindia.org/article/2023/september/06/Role-of-Defence-Diplomacy-in-Shaping-Favourable-Strategic-Neighbourhood"
+      heading: "Gupta, A. (2023, September 6). Role of defence diplomacy in shaping favourable strategic neighbourhood. Vivekananda International Foundation.",
+      link: "https://www.vifindia.org/article/2023/september/06/Role-of-Defence-Diplomacy-in-Shaping-Favourable-Strategic-Neighbourhood"
     },
     {
-      "heading": "Gurjar, S., & Dutta, A. (2021, March). Evolving geopolitics of the Western Indian Ocean: A primer from India. Indian Council of World Affairs.",
-      "links": "https://www.icwa.in/WriteReadData/RTF1984/5898247569.pdf"
+      heading: "Gurjar, S., & Dutta, A. (2021, March). Evolving geopolitics of the Western Indian Ocean: A primer from India. Indian Council of World Affairs.",
+      link: "https://www.icwa.in/WriteReadData/RTF1984/5898247569.pdf"
     },
     {
-      "heading": "Haldar, S., & Gupta, S. (2025, June 9). Prioritising the Western Indian Ocean in India’s maritime security calculus. Observer Research Foundation.",
-      "links": "https://www.orfonline.org/expertspeak/prioritising-the-western-indian-ocean-in-india-s-maritime-security-calculus"
+      heading: "Haldar, S., & Gupta, S. (2025, June 9). Prioritising the Western Indian Ocean in India’s maritime security calculus. Observer Research Foundation.",
+      link: "https://www.orfonline.org/expertspeak/prioritising-the-western-indian-ocean-in-india-s-maritime-security-calculus"
     },
     {
-      "heading": "Indian Council for Professional Studies (ICPS). (n.d.). The Chabahar Port and India–Iran Agreement.",
-      "links": "https://www.icpsnet.org/issuebrief/The-Chabahar-Port-and-India-Iran-Agreement"
+      heading: "Indian Council for Professional Studies (ICPS). (n.d.). The Chabahar Port and India–Iran Agreement.",
+      link: "https://www.icpsnet.org/issuebrief/The-Chabahar-Port-and-India-Iran-Agreement"
     },
     {
-      "heading": "Indian Navy collaborates with Sri Lanka and Seychelles to rescue hijacked Sri Lankan fishing vessel. (n.d.). The Economic Times.",
-      "links": "https://economictimes.indiatimes.com/news/defence/indian-navy-collaborates-with-sri-lanka-and-seychelles-to-rescue-hijacked-sri-lankan-fishing-vessel/articleshow"
+      heading: "Indian Navy collaborates with Sri Lanka and Seychelles to rescue hijacked Sri Lankan fishing vessel. (n.d.). The Economic Times.",
+      link: "https://economictimes.indiatimes.com/news/defence/indian-navy-collaborates-with-sri-lanka-and-seychelles-to-rescue-hijacked-sri-lankan-fishing-vessel/articleshow"
     },
     {
-      "heading": "Indian Navy safely escorted 3,440 ships and 25,000 crew in anti-piracy patrols since 2008: Centre. (2024, February 2). The New Indian Express.",
-      "links": "https://www.newindianexpress.com/nation/2024/Feb/02/indian-navy-safely-escorted-3440-ships-and-25000-crew-in-anti-piracy-patrols-since-2008-centre"
+      heading: "Indian Navy safely escorted 3,440 ships and 25,000 crew in anti-piracy patrols since 2008: Centre. (2024, February 2). The New Indian Express.",
+      link: "https://www.newindianexpress.com/nation/2024/Feb/02/indian-navy-safely-escorted-3440-ships-and-25000-crew-in-anti-piracy-patrols-since-2008-centre"
     },
     {
-      "heading": "Jan, S., & Gull, S. H. (2025, May 25). Blue economy: Mangroves, coral reefs key to India’s economic ambitions. Policy Circle.",
-      "links": "https://www.policycircle.org/blue-economy-mangroves-coral-reefs-key-to-indias-economic-ambitions/"
+      heading: "Jan, S., & Gull, S. H. (2025, May 25). Blue economy: Mangroves, coral reefs key to India’s economic ambitions. Policy Circle.",
+      link: "https://www.policycircle.org/blue-economy-mangroves-coral-reefs-key-to-indias-economic-ambitions/"
     },
     {
-      "heading": "Jayaram, D., Narayanan, H., & Jain, I. (2025, July 3). The geopolitics of climate change in the Indian Ocean Region. Current Conservation.",
-      "links": "https://www.currentconservation.org/the-geopolitics-of-climate-change-in-the-indian-ocean-region"
+      heading: "Jayaram, D., Narayanan, H., & Jain, I. (2025, July 3). The geopolitics of climate change in the Indian Ocean Region. Current Conservation.",
+      link: "https://www.currentconservation.org/the-geopolitics-of-climate-change-in-the-indian-ocean-region"
     },
     {
-      "heading": "Kesnur, S. B., & Mishra, A. (2022). India’s maritime agenda pivots to Western Indian Ocean (ORF Issue Brief No. 576). Observer Research Foundation.",
-      "links": "https://www.orfonline.org/research/india-s-maritime-agenda-pivots-to-western-indian-ocean"
+      heading: "Kesnur, S. B., & Mishra, A. (2022). India’s maritime agenda pivots to Western Indian Ocean (ORF Issue Brief No. 576). Observer Research Foundation.",
+      link: "https://www.orfonline.org/research/india-s-maritime-agenda-pivots-to-western-indian-ocean"
     },
     {
-      "heading": "Khurana, G. S. (2018). Multilateral structures in the Indian Ocean: Review and way ahead. Maritime Affairs: Journal of the National Maritime Foundation of India, 14(1), 11–23.",
-      "links": ""
+      heading: "Khurana, G. S. (2018). Multilateral structures in the Indian Ocean: Review and way ahead. Maritime Affairs: Journal of the National Maritime Foundation of India, 14(1), 11–23.",
+      link: ""
     },
     {
-      "heading": "Lakshmi, N. (2024). India’s maritime agenda pivots to Western Indian Ocean. Observer Research Foundation.",
-      "links": "https://www.orfonline.org/research/india-s-maritime-agenda-pivots-to-western-indian-ocean"
+      heading: "Lakshmi, N. (2024). India’s maritime agenda pivots to Western Indian Ocean. Observer Research Foundation.",
+      link: "https://www.orfonline.org/research/india-s-maritime-agenda-pivots-to-western-indian-ocean"
     },
     {
-      "heading": "Lidarev, I., & Pant, H. V. (2022). India and maritime governance in the Indian Ocean: The impact of geopolitics on India’s involvement in maritime governance.",
-      "links": ""
+      heading: "Lidarev, I., & Pant, H. V. (2022). India and maritime governance in the Indian Ocean: The impact of geopolitics on India’s involvement in maritime governance.",
+      link: ""
     },
     {
-      "heading": "Łukaszuk, T. (2025). India’s role in the Indian Ocean Region in the 21st century: Maritime governance perspective. In H. Pant & K. Baruah (Eds.), The Routledge Handbook of Maritime India (pp. 210–225). Routledge India.",
-      "links": ""
+      heading: "Łukaszuk, T. (2025). India’s role in the Indian Ocean Region in the 21st century: Maritime governance perspective. In H. Pant & K. Baruah (Eds.), The Routledge Handbook of Maritime India (pp. 210–225). Routledge India.",
+      link: ""
     },
     {
-      "heading": "Ministry of Earth Sciences, Government of India. (2025, May). Transforming India’s blue economy: Investment, innovation and sustainable growth.",
-      "links": "https://www.moes.gov.in/sites/default/files/2025-05/White-Paper_Blue_Economy.pdf"
+      heading: "Ministry of Earth Sciences, Government of India. (2025, May). Transforming India’s blue economy: Investment, innovation and sustainable growth.",
+      link: "https://www.moes.gov.in/sites/default/files/2025-05/White-Paper_Blue_Economy.pdf"
     },
     {
-      "heading": "Mishra, A., & Sen, S. (2022). Maritime security and development in the South-West Indian Ocean region: Harnessing India’s engagement with Small Island Developing States. In S. Singh (Ed.), India’s Maritime Diplomacy in the Indian Ocean Region (pp. 98–113). Pentagon Press.",
-      "links": ""
+      heading: "Mishra, A., & Sen, S. (2022). Maritime security and development in the South-West Indian Ocean region: Harnessing India’s engagement with Small Island Developing States. In S. Singh (Ed.), India’s Maritime Diplomacy in the Indian Ocean Region (pp. 98–113). Pentagon Press.",
+      link: ""
     },
     {
-      "heading": "Mohan, G. (2017). Engaging with the Indian Ocean. Global Public Policy Institute.",
-      "links": "https://www.gppi.net/2017/08/22/engaging-with-the-indian-ocean"
+      heading: "Mohan, G. (2017). Engaging with the Indian Ocean. Global Public Policy Institute.",
+      link: "https://www.gppi.net/2017/08/22/engaging-with-the-indian-ocean"
     },
     {
-      "heading": "Mohanty, S. K., Dash, P., Gupta, A., & Gaur, P. (2015). Prospects of Blue Economy in the Indian Ocean. Research and Information System for Developing Countries (RIS).",
-      "links": "https://www.ris.org.in/sites/default/files/Final_Blue_Economy_Report_2015-Website.pdf"
+      heading: "Mohanty, S. K., Dash, P., Gupta, A., & Gaur, P. (2015). Prospects of Blue Economy in the Indian Ocean. Research and Information System for Developing Countries (RIS).",
+      link: "https://www.ris.org.in/sites/default/files/Final_Blue_Economy_Report_2015-Website.pdf"
     },
     {
-      "heading": "Murthy, R. (2022). Interactive Dialogue 2: Managing, Protecting, Conserving and Restoring Marine and Coastal Ecosystems. UN Ocean Conference (2022).",
-      "links": ""
+      heading: "Murthy, R. (2022). Interactive Dialogue 2: Managing, Protecting, Conserving and Restoring Marine and Coastal Ecosystems. UN Ocean Conference (2022).",
+      link: ""
     },
     {
-      "heading": "Naha, N. (2021, January 5). Reshaping India’s foreign policy for 2021. The Kootneeti.",
-      "links": "https://thekootneeti.in/2021/01/05/reshaping-indias-foreign-policy-for-2021/"
+      heading: "Naha, N. (2021, January 5). Reshaping India’s foreign policy for 2021. The Kootneeti.",
+      link: "https://thekootneeti.in/2021/01/05/reshaping-indias-foreign-policy-for-2021/"
     },
     {
-      "heading": "Obura, D., Smits, M., Chaudhry, T., McPhillips, J., Beal, D., Astier, C., Tanzer, J., & Gamblin, P. (2017, January). Reviving the Western Indian Ocean Economy: Actions for a Sustainable Future. WWF International.",
-      "links": "https://sustainabledevelopment.un.org/content/documents/13692WWF2.pdf"
+      heading: "Obura, D., Smits, M., Chaudhry, T., McPhillips, J., Beal, D., Astier, C., Tanzer, J., & Gamblin, P. (2017, January). Reviving the Western Indian Ocean Economy: Actions for a Sustainable Future. WWF International.",
+      link: "https://sustainabledevelopment.un.org/content/documents/13692WWF2.pdf"
     },
     {
-      "heading": "Observer Research Foundation. (n.d.). Chabahar’s opportunities and challenges.",
-      "links": "https://www.orfonline.org/research/chabahar-s-opportunities-and-challenges"
+      heading: "Observer Research Foundation. (n.d.). Chabahar’s opportunities and challenges.",
+      link: "https://www.orfonline.org/research/chabahar-s-opportunities-and-challenges"
     },
     {
-      "heading": "Observer Research Foundation. (n.d.). Facilitating India–Myanmar trade through Sittwe port: Opportunities and challenges.",
-      "links": "https://www.orfonline.org/research/facilitating-india-myanmar-trade-through-sittwe-port-opportunities-and-challenges"
+      heading: "Observer Research Foundation. (n.d.). Facilitating India–Myanmar trade through Sittwe port: Opportunities and challenges.",
+      link: "https://www.orfonline.org/research/facilitating-india-myanmar-trade-through-sittwe-port-opportunities-and-challenges"
     },
     {
-      "heading": "Observer Research Foundation. (n.d.). Prioritising the Western Indian Ocean in India’s maritime security calculus.",
-      "links": "https://www.orfonline.org/expert-speak/prioritising-the-western-indian-ocean-in-india-s-maritime-security-calculus"
+      heading: "Observer Research Foundation. (n.d.). Prioritising the Western Indian Ocean in India’s maritime security calculus.",
+      link: "https://www.orfonline.org/expert-speak/prioritising-the-western-indian-ocean-in-india-s-maritime-security-calculus"
     },
     {
-      "heading": "Observer Research Foundation. (n.d.). Strategic competition in the Indian Ocean: Why island states matter.",
-      "links": "https://www.orfonline.org/expert-speak/strategic-competition-in-the-indian-ocean-why-island-states-matter"
+      heading: "Observer Research Foundation. (n.d.). Strategic competition in the Indian Ocean: Why island states matter.",
+      link: "https://www.orfonline.org/expert-speak/strategic-competition-in-the-indian-ocean-why-island-states-matter"
     },
     {
-      "heading": "Peron-Doise, M. (2025). Indo-Pacific’s vision of France and India: Enhancing maritime multilateralism. In A. Mukherjee & C. Rajagopalan (Eds.), The Routledge Handbook of Maritime India (pp. 122–135). Routledge India.",
-      "links": ""
+      heading: "Peron-Doise, M. (2025). Indo-Pacific’s vision of France and India: Enhancing maritime multilateralism. In A. Mukherjee & C. Rajagopalan (Eds.), The Routledge Handbook of Maritime India (pp. 122–135). Routledge India.",
+      link: ""
     },
     {
-      "heading": "Press Information Bureau (PIB). (2024, February 22). Text of the Vice-President’s speech – Inauguration of International Maritime Seminar - MILAN 2024.",
-      "links": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2007989"
+      heading: "Press Information Bureau (PIB). (2024, February 22). Text of the Vice-President’s speech – Inauguration of International Maritime Seminar - MILAN 2024.",
+      link: "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2007989"
     },
     {
-      "heading": "Press Information Bureau. (2022, February 3). Union Minister Dr Jitendra Singh says, Blue Economy is the sixth dimension of Government of India’s Vision of New India by 2030.",
-      "links": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1795031"
+      heading: "Press Information Bureau. (2022, February 3). Union Minister Dr Jitendra Singh says, Blue Economy is the sixth dimension of Government of India’s Vision of New India by 2030.",
+      link: "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1795031"
     },
     {
-      "heading": "RACE IAS. (n.d.). 9th National Level Pollution Response Exercise (NATPOLREX-IX).",
-      "links": "https://raceias.com/current-affairs/9th-national-level-pollution-response-exercise-natpolrex-ix"
+      heading: "RACE IAS. (n.d.). 9th National Level Pollution Response Exercise (NATPOLREX-IX).",
+      link: "https://raceias.com/current-affairs/9th-national-level-pollution-response-exercise-natpolrex-ix"
     },
     {
-      "heading": "Roy, A. (2019, January). Blue Economy in the Indian Ocean: Governance Perspectives for Sustainable Development in the Region (ORF Occasional Paper No. 181). Observer Research Foundation.",
-      "links": "https://www.orfonline.org/wp-content/uploads/2019/02/Blue-Economy-in-the-Indian-Ocean.pdf"
+      heading: "Roy, A. (2019, January). Blue Economy in the Indian Ocean: Governance Perspectives for Sustainable Development in the Region (ORF Occasional Paper No. 181). Observer Research Foundation.",
+      link: "https://www.orfonline.org/wp-content/uploads/2019/02/Blue-Economy-in-the-Indian-Ocean.pdf"
     },
     {
-      "heading": "Sagarmala. (n.d.). Port modernization.",
-      "links": "https://sagarmala.gov.in/project/port-modernization"
+      heading: "Sagarmala. (n.d.). Port modernization.",
+      link: "https://sagarmala.gov.in/project/port-modernization"
     },
     {
-      "heading": "Sangomla, A. (2024, April 29). Indian Ocean is heating up much faster than we think, at a rate of 1.7–3.8°C per century. Down To Earth.",
-      "links": "https://www.downtoearth.org.in/news/climate/change/indian-ocean-is-heating-up-much-faster-than-we-think-at-a-rate-of-1-7-3-8-c-per/century-95805"
+      heading: "Sangomla, A. (2024, April 29). Indian Ocean is heating up much faster than we think, at a rate of 1.7–3.8°C per century. Down To Earth.",
+      link: "https://www.downtoearth.org.in/news/climate/change/indian-ocean-is-heating-up-much-faster-than-we-think-at-a-rate-of-1-7-3-8-c-per/century-95805"
     },
     {
-      "heading": "Sharma, R. (2024). India’s maritime security and multilateralism in the Western Indian Ocean. International Journal of Social Science and Economic Research, 9(2), 267–280.",
-      "links": "https://ijsser.org/2024files/ijsser_09__267.pdf"
+      heading: "Sharma, R. (2024). India’s maritime security and multilateralism in the Western Indian Ocean. International Journal of Social Science and Economic Research, 9(2), 267–280.",
+      link: "https://ijsser.org/2024files/ijsser_09__267.pdf"
     },
     {
-      "heading": "Sodha, M. (2025, May 8). Our Blue Future – A Multi-stakeholder Initiative for Inclusive Sustainable Blue Economy (ISBE) in the Western Indian Ocean. PANORAMA.",
-      "links": "https://panorama.solutions/en/solution/our-blue-future-multi-stakeholder-initiative-inclusive-sustainable-blue-economy-isbe-western-indian-ocean"
+      heading: "Sodha, M. (2025, May 8). Our Blue Future – A Multi-stakeholder Initiative for Inclusive Sustainable Blue Economy (ISBE) in the Western Indian Ocean. PANORAMA.",
+      link: "https://panorama.solutions/en/solution/our-blue-future-multi-stakeholder-initiative-inclusive-sustainable-blue-economy-isbe-western-indian-ocean"
     },
     {
-      "heading": "Swarajya. Base in Oman: India granted access to strategically located Duqm port for military use.",
-      "links": "https://swarajyamag.com/insta/base-in-oman-india-granted-access-to-strategically-located-duqm-port-for-military-use"
+      heading: "Swarajya. Base in Oman: India granted access to strategically located Duqm port for military use.",
+      link: "https://swarajyamag.com/insta/base-in-oman-india-granted-access-to-strategically-located-duqm-port-for-military-use"
     },
     {
-      "heading": "The Energy and Resources Institute. (2022, July). Blue economy: A roadmap for sustainable development.",
-      "links": "https://www.teriin.org/sites/default/files/2022/07/Blue_Economy_Publication.pdf"
+      heading: "The Energy and Resources Institute. (2022, July). Blue economy: A roadmap for sustainable development.",
+      link: "https://www.teriin.org/sites/default/files/2022/07/Blue_Economy_Publication.pdf"
     },
     {
-      "heading": "UNEP. (2023). India - ID2 - Marine and Coastal Ecosystems.",
-      "links": "https://www.unep.org/system/files/2023-09/INDIA-%20ID2%20marine%20and%20coastal%20ecosystems%20.pdf"
+      heading: "UNEP. (2023). India - ID2 - Marine and Coastal Ecosystems.",
+      link: "https://www.unep.org/system/files/2023-09/INDIA-%20ID2%20marine%20and%20coastal%20ecosystems%20.pdf"
     }
   ]
 },
-
 {
-  "id":10,
-  "serialNumber": 46,
-  "issueNo": 4,
-  "volume": 1,
-  "title": "From Policy to Progress: An Analysis of Government Initiatives Addressing Educational Equity and the Digital Divide",
-  "author": [
-    "Deeksha",
-    "Avradeep Saha",
-    "Pavni Agrawal",
-    "Nandan Dhar",
-    "Ankit Vardani"
+  id: 10,
+  serialNumber: 46,
+  issue: 4,
+  volume: 1,
+  title: "From Policy to Progress: An Analysis of Government Initiatives Addressing Educational Equity and the Digital Divide",
+  author: "Deeksha; Avradeep Saha; Pavni Agrawal; Nandan Dhar; Ankit Vardani",
+  authorAbbrev: "Deeksha¹; A. Saha²; P. Agrawal³; N. Dhar⁴; A. Vardani⁵",
+  abstract: [
+   "This study is to critically examine how targeted digital education policies and initiatives have contributed to reducing educational inequality in India. By using key policies such as the BharatNet Project, PM e-vidya, DIKSHA platform as evaluative tools, this study aims to assess both their achievements in improving access, inclusion, and learning outcomes, and their limitations in addressing structural and digital disparities across socio-economic, rural-urban, and gender divides.",
+   "We used the descriptive method by reviewing policies, government reports, news articles, and educational data from official sources to understand how digital initiatives are addressing educational inequalities in India.",
+   "Digital policies like BharatNet and Digital India have improved internet access in rural areas, and have helped schools adopt online learning. However, gaps still remain due to lack of devices, electricity, and digital skills, and access to the internet in some regions.",
+   "Further, the study seeks to bridge the gap between policy intent and on-ground impact, enhanced understanding of how far these digital interventions have progressed in transforming educational equity, and what barriers persist in the path toward inclusive and equitable quality education. The study relies on secondary data sources and does not include direct surveys or interviews, so some ground-level issues may not be fully recorded."
   ],
-  "authorAbbrev": [
-    "Deeksha¹",
-    "Avradeep Saha²",
-    "Pavni Agrawal³",
-    "Nandan Dhar⁴",
-    "Ankit Vardani⁵"
+  keyword: [
+   "digital divide",
+   "educational inequality",
+   "BharatNet",
+   "SDG 10",
+   "Digital India",
+   "policy analysis"
   ],
-  "status": "Submitted",
-  "abstract": [
-    "This study is to critically examine how targeted digital education policies and initiatives have contributed to reducing educational inequality in India.",
-    "By using key policies such as the BharatNet Project, PM e-vidya, DIKSHA platform as evaluative tools, this study aims to assess both their achievements in improving access, inclusion, and learning outcomes, and their limitations in addressing structural and digital disparities across socio-economic, rural-urban, and gender divides.",
-    "We used the descriptive method by reviewing policies, government reports, news articles, and educational data from official sources to understand how digital initiatives are addressing educational inequalities in India.",
-    "Digital policies like BharatNet and Digital India have improved internet access in rural areas, and have helped schools adopt online learning.",
-    "However, gaps still remain due to lack of devices, electricity, and digital skills, and access to the internet in some regions.",
-    "Further, the study seeks to bridge the gap between policy intent and on-ground impact, enhanced understanding of how far these digital interventions have progressed in transforming educational equity, and what barriers persist in the path toward inclusive and equitable quality education.",
-    "The study relies on secondary data sources and does not include direct surveys or interviews, so some ground-level issues may not be fully recorded."
+  status: "Submitted",
+  intro: [
+   "Educational inequality remains a persistent challenge in India, deeply rooted in historical, socioeconomic, and geographic disparities. Despite significant progress in enrollment rates and infrastructure development over the past decades, access to quality education continues to be uneven, particularly across rural-urban divides, income groups, and gender. In response to these disparities, to address these gaps, digital technology is now being seen as an important way to make education more equal and accessible for everyone.",
+   "In alignment with the global commitment to Sustainable Development Goal 10 (SDG 10) which seeks to reduce inequality, India has taken several policy initiatives aimed at leveraging digital infrastructure to enhance educational access and equity. Key among these are the Digital India Campaign, PM e-Vidya, the National Education Policy (NEP) 2020, and the DIKSHA platform. These initiatives together show a change in policy, focusing on using technology-based solutions that can reach many people, with the goal of reducing gaps in access to and involvement in education.",
+   "However, the transformative potential of digital education remains contested, especially in the context of pre-existing structural inequalities. While digital platforms have expanded the reach of educational content, they have also exposed and, in some cases, deepened the digital divide, particularly among economically marginalized populations, rural communities, and genderdisadvantaged groups. The accessibility, usability, and effectiveness of these digital interventions vary widely across different socio-economic contexts, raising important questions about their actual impact on educational equity.",
+   "This study seeks to critically examine the extent to which these targeted digital education policies have contributed to reducing educational inequality in India. By evaluating the achievements and limitations of these initiatives, the research aims to bridge the gap between policy formulation and ground-level implementation. In doing so, it endeavors to offer a nuanced understanding of the role of digital interventions in advancing equitable and inclusive education, and to identify the systemic barriers that continue to impede progress."
   ],
-  "keywords": [
-    "digital divide",
-    "educational inequality",
-    "BharatNet",
-    "SDG 10",
-    "Digital India",
-    "policy analysis"
+  content: [
+   {
+    heading: "THEME 1: Project BharatNet : It’s impact on reducing Digital divide in educational sectors of rural India",
+    paragraphs: [
+     "The government is trying to reduce education inequality through many initiatives like online open learning, free e-library access, skill development platforms like NPTEL, SWAM etc. but it can’t be possible without proper internet connection. Reddy,Jose&Vaidehi (2021)argue that Massive online education without addressing the huge access gap and disparities in digital infrastructure would not only exclude a vast majority of students but also exacerbate the existing socio‑economic disparities in educational opportunities.",
+     "Basic Introduction of BharatNet;-",
+     "BharaNet is one of the impactful projects among all initiatives of the GOV, those are taken for reducing educational disparities among the different regions of the country. Actually, under this initiative the Govt is trying to give broadband connectivity to all Gram Panchayats (GPs) in the country as well as It is one of the biggest rural telecom projects in the world. [PressInformation Bureau (2025)]",
+     "Brief about its implementation:-",
+     "The BharatNet project was initially approved in October 2011 as the National Optical Fibre Network (NOFN) to connect 2.5 lakh Gram Panchayats [USOF,DoT,MinistryofCommunications,GOI (2025)] after in 2015 it was renamed as BharatNet [BusinessStandard(2015)]. However, significant delays led the Union Cabinet in July 2017 to approve a modified strategy for its implementation, rebranding the project as BharatNet and initiating Phase II with state and private partnerships [IndiaToday (2017)].",
+     "It plays a major role particularly in some states of India to spread internet access in the Gram Panchayats though there are some controversies related to its achievement and proper impact. As per the report of the Press Information Bureau (2025) of 19 March 2025, 218,347 Gram Panchayats have been made service ready under the project which is not so far from its initial objective to connect approx 2.5 lakh Gram Panchyats with internet connection. [PressInformationBureau(2025)]",
+     "Analysing situation of Rural Online Education before Phase lll (August, 2023) of BharatNet Project",
+     "The need for online education in India was mainly found during the Covid-19 lockdown period but then millions of students were struggling for proper access to online learning for lack of connections and devices, majorly in rural areas. An article of IndiaToday (2020) claims that while the benefits of online learning are manifold, there are still many roadblocks in the way ahead towards making education an entirely digital (online) phenomenon. After the lockdown period the trend of online education was starting rapidly but simultaneously it was creating some disparities between those who have proper internet connection and digital devices and those who do not . TheWave-1oftheASER (2020)survey also reported that a mere 18.3 percent of children in rural areas enrolled in government schools have accessed video recordings, and 8.1 percent have attended live online classes.",
+     "Thus, we can feel that the main two problems are, one is the financial barrier for accessing digital devices and the other is poor internet connection or lack of internet accessibility in many rural regions. Let's see how the BharatNet Phase-lll is creating impact in the second issue for emitting the gap of Digital Divide in Indian Education Sector.",
+     "The Impact of BharatNet project in rural online education:-",
+     "The BharatNet project makes some very impactful milestones in the field of connecting villages in some regions of our country. According to the EconomicSurveyreport2024-25, as of December 2024, 6.92 lakh km of Optical Fiber Cable (OFC) has been laid, 2.14 lakh Gram Panchayats (GPs) are service-ready (including 5,032 via satellite, 12.04 lakh Fiber-To-The-Home (FTTH) connections have been installed. Telecom infrastructure is being strengthened through the Bharat Net Project, extending broadband connectivity to all Gram Panchayats and villages. [telecomtalk.info (2025)]",
+     "There is some data which shows the progress of this project across the all state and union territories of India: Figure 1 and Figure 2 as follows: Source: bbnl.nic.in",
+     "Thus the rapid expansion of the broadband services through BharatNet somehow created a better situation for students to access digital services and online learning in those places where internet connection was not available before this project. According to smventure.com (2025), the BharaNet project’s linkage with schemes like PMGDISHA (which has trained over 6.39 crore individuals in digital literacy) and collaboration with NABARD further enhance its socioeconomic value. Through BharatNet, healthcare centers are being digitally enabled, schools are accessing virtual learning content, and local governance is becoming more efficient. As an example we can see that in Gujarat’s Sakarda village (Tapi district), once broadband from BharatNet reached its local Gram Panchayat (in 2022), the primary school with 165 students and seven teachers began using smart boards and online content in classrooms. Students reportedly became much more engaged in watching educational videos, participating in online yoga, and observing cultural performances, reflecting a real shift toward digital learning enabled by internet access as per a report of IndiaToday (2025).",
+     "In spite of the implementation of the BharatNet Project, there are still some problems, mainly in some regions of India. All states are not getting the basic advantage by this internet. PujaDash(2025)shows that even by the end of 2023, less than 60% of the gram panchayats in northeastern states were service-ready, while the national average is 79% . “Key challenges (for the BharatNet programme) have been the shifting goalposts, slackening deadlines and lack of coordination with other agencies and entities, especially those who can and should leverage broadband,” said Deepak Maheshwari, Senior Policy Advisor at the Centre for Social and Economic Progress (CSEP), a public policy think-tank based in New Delhi [indiaspend.com (2025)] . The study of Puja Dash also shows that despite widespread implementation efforts, only about 24% of government schools nationwide had internet access among them most located in urban areas. For instance, in Telangana, only 8.78% of government schools had internet connection as of 2021, severely limiting access to online education . The project has also faced significant delays in implementation, with the pace of progress being slower than anticipated. Despite the government's efforts to connect villages, only about 194,000 out of the targeted 640,000 villages have been connected so far. This slow progress has hindered the project's ability to bridge the Digital Divide in rural areas [DrishtiIAS (2023)]",
+     "At the end we can say that obviously it is a very good initiative but it should be more effective which definitely goes one important step ahead to ensuring equal digital access in India ."
+    ]
+   },
+   {
+    heading: "THEME 2:Online Education Push During COVID-19 Lockdown",
+    paragraphs: [
+     "When the COVID-19 pandemic hit in early 2020, life changed overnight. Schools across India shut their gates with no idea when they would open again. One day, students were sitting in classrooms with blackboards and notebooks, the next, they were stuck at home, cut off from their teachers, friends, and any sense of routine. Homes with no internet, no smartphones, and sometimes no electricity became the new ‘classrooms’. Parents struggled to keep up and teachers scrambled to figure out Zoom or WhatsApp classes. The disruption was massive: nearly 320 million learners across India were affected, making it one of the largest educational crises the country had ever seen (NCERT,2021;ResearchGate,2020). In cities, some students switched to Google Meet and online assignments. But in villages and low-income households, the story was very different, one where the digital divide turned into a learning divide.",
+     "A Hard Gap: Connectivity and Devices:-",
+     "Studies before the pandemic found that only about 4.4% of rural households had a computer, versus 23.4% in urban areas (NSSO,75thRound,2018). Internet access was 14.9% in rural homes compared to 42% in cities (NSSO,75thRound,2018). Operating skills were similarly uneven: just 9-13% of rural residents could use computers or the internet, compared to over 30% in urban settings (MoSPI, 2019). A local survey in Chennai showed only 5.3% of rural government school kids could take live classes(AzimPremjiFoundation,2021).While 56.9% had smartphones, only about 21.1% of private school students could attend online lessons regularly(OxfamIndia,InequalityReport,2021).",
+     "Government Initiatives: SWAYAM Prabha and Manodarpan:-",
+     "To ensure continuity of education during the lockdown, the government expanded the SWAYAM Prabha network, 32 DTH TV channels that telecast curriculum-based lessons 24x7, allowing students in far-flung areas and those unable to afford smart phones and mobile data to follow through with lessons. In tandem, the government addressed mental health. Launched under the Atma Nirbhar Bharat scheme, Manodarpan allowed students, teachers, and parents to avail free tele-counselling to those feeling overwhelmed and isolated during a particularly gruelling period of stress and isolation. Early figures suggest that lakhs availed of the helpline, highlighting the deep-rooted impact of the pandemic on mental well-being and the need for the simultaneous facilitation of learning and mental wellness(MinistryofEducation,2020).",
+     "Impact on Educational Equity:-",
+     "What worked:One of the primary benefits during the lockdown was the ability of SWAYAM Prabha to reach students who did not have internet access. By conducting lessons on television, it allowed rural students, including those without smartphones and data, to continue their education. Through the Manodarpan initiative, the government also addressed mental health, providing students the emotional care they needed at a time when stress was heightened. Certain states also capitalized on this opportunity to improve long-term digital infrastructure. Kerala granted internet access to over 80% of gram panchayats, which enabled the establishment of smart classrooms and computer labs across rural government schools. (swayamprabha.gov.in,manodarpan.education.gov.in)",
+     "What didn’t: Efforts to make digital education accessible did not yield the desired results. While 14.9% of rural households had access to the internet, only 4-5% of them had a computer. Millions of students in India did not have the means to attend live classes and use online educational portals. Many of the e-learning resources did not have multi-lingual or interactive options. Regional languages were a barrier to learning as most of the internet content was in English. The switch to e-learning was a big disadvantage to girls. Girls had more household chores to attend to, lesser access to smartphones and lesser freedom to use the internet for education. Many teachers could not conduct online classes as most of them had never used the internet before. (swayamprabha.gov.in,manodarpan.education.gov.in).",
+     "Data Snapshot: Rural vs Urban Access - Households with computer: Rural 4.4–4.8%, Urban 23.4%. Households with internet: Rural 14.9–16.5%, Urban 42%. People able to use internet: Rural 13%, Urban 37%. (Sources: NSSO75thRound,MinistryofStatistics&MOSPI (2017–18))",
+     "Case Example: Rajasthan’s DigiLEP Initiative:-",
+     "The state government of Rajasthan launched a Digital Learning Enhancement Programme (DigiLEP) to reach students in state schools. Teachers shared videos, worksheets and quizzes with students and their parents via WhatsApp, covering more than 68,000 schools across the state (UNICEF India, 2021). DigiLEP was able to leverage low-tech approaches to support continuity of learning in contexts with poor internet connectivity. In tribal areas such as Dungarpur and Baran, students accessed learning content using basic phones. However, challenges remained. In households with limited access to phones, boys were offered access more often than girls. There were limited opportunities for two-way communication and interaction between students and teachers, and girls in particular struggled to gain equal access to content. Nevertheless, DigiLEP was able to provide a workable solution. (WorldBank/OEDC2020CaseStudy)",
+     "The shift to online learning happened quickly but unevenly. TV channels like SWAYAM Prabha and mental health support through Manodarpan aimed to fill gaps. However, many rural students, particularly girls, missed out. Limited access to the internet, electricity, or devices blocked participation(NSSO,2018).Government programs like BharatNet and PMGDISHA strive to improve digital access, but coverage remains inconsistent(OxfamIndia,2021).Real progress requires proper infrastructure."
+    ]
+   },
+   {
+    heading: "THEME 3:  PM e-Vidya under New Education Policy 2020 - A Visionary Shift or Digital Exclusion?",
+    paragraphs: [
+     "The National Education Policy (NEP) 2020 implemented ambitious reforms in the Indian education sector, much of which emphasized technology-driven learning. PM e-Vidya, one of the key reforms, aimed to streamline digital education engagement and content in creative ways under the initiative; “One Nation, One Digital Platform” (Ministry of Education, 2020) and to enroll individuals in a digital ecosystem, which included DIKSHA, digital teacher training, SWAYAM, and DTH TV channels. The NEP aspired to equitable and inclusive education, especially in light of the challenges to education posed by COVID-19. However, the reality provides a different view—individuals have been empowered, and disempowered or excluded through this digital push, notably in rural and excluded communities.",
+     "Digital Infrastructure versus Digital Reality:-",
+     "NEP 2020’s bold drive for EdTech integration is fraught with challenges. While technology promises to deliver flexibility, personalization and new-age pedagogy (UNESCO, 2021), it assumes some level of baseline provision for access to electricity, internet and portable digital devices, although millions of Indian students are still without the basic ability to access them. The NFHS-5 (2022) data shows us that only 15% of rural households in India have internet accessibility, compared to 42% of urban households. The reality of the inequity provides a clear picture of why this is a continuing challenge for achieving SDG 10 – Reduce Inequality (NFHS5,2022).",
+     "Graphical Snapshot: Internet Access in Gram Panchayats (2024) - Kerala: 82%, Tamil Nadu: 65%, Uttar Pradesh: 35%, Jharkhand: 31%, Bihar: 28%. (Source: TimesofIndia,May22,2024;BharatNetProgressDashboard(TOI,2024))",
+     "As part of my internship with the Rajasthan Legal Services Authority (RLSA), I helped organize awareness camps in schools in remote areas such as rural blocks of Jodhpur district during April 2024, where we focused on promoting legal literacy. Through this experience, I had firsthand contact with the students and teachers, and I observed how lack of access to smartphones, intermittent internet connectivity, and barriers such as language prevented our rural students and teachers from being digitally connected. For example, many of the students had only heard of the DIKSHA portal, and many of the teachers acknowledged that they felt very little confidence interacting with online content primarily due to lack of training.",
+     "This data points to extreme inequities in our education system. States like Kerala have been successful in advancing digital infrastructure for example, the KITE VICTERS TV initiative and smart classrooms in rural government schools—to enhance delivery of education (The Hindu, 2023), whereas states like Bihar and Jharkhand are considerably behind. Although PM e-Vidya is a great opportunity, in states like this the gap remains in infrastructure rather than policy (EconomicandPoliticalWeekly,2022).",
+     "PM e-Vidya: Missed Opportunities:-",
+     "PM e-Vidya, launched as part of the NEP 2020 and COVID response, is a comprehensive multimode access platform that combines digital, TV, radio, and podcasts to reach diverse learners. It was especially vital for families without smartphones and internet (PRSIndia,2022). However, the scheduling, language constraints, and no interactive component lessened their efficacy. According to a CBSETrainingReport (2023), more than 40% of teachers in rural schools were unaware of anything from the digital platforms.",
+     "There are some regionallevel variationslikeKerala, with its proactive education system, used KITE VICTERS to show daily lessons, each day on TV in Malayalam (TheHindu,2023). In contrast, in many parts of Uttar Pradesh and Bihar, students were relegated to WhatsApp notes or had no connection at all. These examples show that central policies must allow for localized adaptation (EPW,2022).",
+     "One of the more ambitious features of NEP 2020, PM e-Vidya, sought to virtualise education through a common platform that harnessed the powers of TV, radio and online portals. On paper, it was revolutionary. In reality, the experience has been mixed depending on where one lives and their socio-economic bracket.",
+     "In Kerala, the KITE VICTERS educational TV channel put under PM e-Vidya was a boon for lakhs of students during the COVID-19 lockdown. The state made sure that daily Malayalam language classes, aired at a prescribed time, were reachable even in regions without smartphones or internet. According to a report by KITE in 2021, more than 3.5 million students accessed television programmes in the peak month of lockdown (KITEKerala,2021).In comparison, states like Jharkhand or Bihar have had impacts from PM e-Vidya that are comparatively weaker and limited. According to a recent study (OxfamIndia,2022), more than 80% of children in low-income rural families in Bihar had no access to either smartphones or educational TV. Many of these families explained that they had to prioritise the phone for earning or telephone calls to relatives, and there simply no educational continuity for the child. Teachers reported confusion regarding the content release schedule and felt they didn't have a role in the platform's launch because they had not received any training.",
+     "Even urban slum populations have had limited learning outcomes from PM e-Vidya content. Azim Premji University (2022) reported that even when almost 50% of samples (students living in urban poverty) had access to some kind of digital content, comprehension was extremely low because of the use of language, a lack of engaging interactivity, and very few instances of feedback (AzimPremjiFoundation,2022). That being said, there are islands of success. Teachers in Nagaland began to curate localized content linked to PM e-Vidya TV broadcasts and then via WhatsApp. Volunteers from the community helped distribute worksheets, and students attended community TV viewing spaces that were set up in village halls, and the hybrid model fostered significant reengagement in learning for tribal students. A UNESCOSouthAsiaBriefingfrom2023documented this.",
+     "These examples illustrate that PM e-Vidya can be transformational, but only if integrated within localized delivery frameworks, inclusive of language, and with follow-up support on-the-ground. Without these features, the current top-down, one-size-fits-all structure only further embeds preexisting digital and educational inequities."
+    ]
+   },
+   {
+    heading: "THEME 4: Assessing the Impact of DIKSHA and SWAYAM on Indian Educational Inequalities",
+    paragraphs: [
+     "Platforms like DIKSHA and SWAYAM have pushed through long-standing barriers to education in India's drive for inclusive education. (TheMinistryofEducation,2020) states that DIKSHA (Digital Infrastructure for Knowledge Sharing) and SWAYAM (Study Webs of Active Learning for Young Aspiring Minds) are flagship platforms for providing high-quality educational resources at scale. The National Education Policy (NEP) 2020 clearly frames technology as central to promoting \"access, equity, and quality.\" Especially in the wake of pandemic-induced school closures and longstanding infrastructure gaps, these platforms are expected to ensure continuity and act as strategic reforms that narrow the deep urban-rural, gender, and income gaps, helping to redefine India’s educational landscape.",
+     "Launched in 2017, DIKSHA is a national platform for school education, by NCERT, under the aegis of the Ministry of Education (MoE), GoI (DIKSHA,2024) was developed to advance inclusive and equitable education as envisioned in NEP. Based on the EkStep Foundation's opensource Sunbird platform, it facilitates inclusive teaching and foundational learning nationwide by offering multilingual, accessible content from NCERT, CBSE, and SCERTs to over 200 million students and seven million teachers (TheEconomicTimes,2023).",
+     "Fig 1- One diksha, multiple central and state solutions and programme Source-IndiaReportDigitalEducation,2020",
+     "With the goal to promote inclusivity and reduce access gaps, the DIKSHA app integrates interactive content in a variety of formats and languages, particularly in remote and linguistically diverse areas. More than 72% students and 87% of teachers have signed up for classes on DIKSHA, indicating a strong inclination to use digital tools if given the right support, proving to be a crucial component of digital equity (Vermaetal.,2024). However, only 66.38% of teachers agreed that content loads easily on mobile devices, and 59.66% noted sufficient media variety.",
+     "Technological barriers persist in mobile compatibility and content diversity (Roul&Mohalik,2025) Likewise, SWAYAM, India’s MOOC platform, also launched in July 2017, aims to achieve the three cardinal principles of Education Policy: access, equity and quality (Swayam,2025).It hosts courses from class 9 to post-graduation. It gives professors from centrally funded universities like IISERs, IITs, and IIMs the opportunity to teach students. 11,772 courses have been offered by SWAYAM as of July 2025. Over 910,000 students have signed up for proctored exams, and about 650,000 students have received certificates (Wikipedia,2025).",
+     "With more than 10 million registered users using adaptable evaluation techniques, SWAYAM helps bridge the gap in digital and educational accessibility by providing customized and scalable learning pathways for a wide range of demographics (Jadhav&Rathod,2024). However, 27.75% of students found the teaching difficult to follow, and roughly 31.28% of students left because the content was only in English. Additionally, about 24.58% of students said that boring video lectures encouraged them to drop out of the course, suggesting that interactive content design could improve engagement, especially for students from underprivileged backgrounds (Singh,2022).",
+     "SWAYAM Platform Key Metrics (As of February 2023) - Total Enrolment: 31,000,000; Effective Enrolment: 24,405,178; Exam Registration: 2,629,526; Assignment Submissions: 883,605; Courses Offered: 3,000+; Universities Accepting Credit: 288. (Source-TimesofIndia,2023)",
+     "SWAYAM's increasing influence as India's top MOOC platform is shown in the data. It demonstrates high user engagement with over 24.4 million active learners and 31 million total enrollments. Also, credible academic participation is shown by the 2.6 million exam registrations and the 880,000+ assignment submissions, and its integration into formal education is confirmed by the 288 universities that accept credits."
+    ]
+   }
   ],
-  "intro": [
-    "Educational inequality remains a persistent challenge in India, deeply rooted in historical, socioeconomic, and geographic disparities.",
-    "Despite significant progress in enrollment rates and infrastructure development over the past decades, access to quality education continues to be uneven, particularly across rural-urban divides, income groups, and gender.",
-    "In response to these disparities, to address these gaps, digital technology is now being seen as an important way to make education more equal and accessible for everyone.",
-    "In alignment with the global commitment to Sustainable Development Goal 10 (SDG 10) which seeks to reduce inequality, India has taken several policy initiatives aimed at leveraging digital infrastructure to enhance educational access and equity.",
-    "Key among these are the Digital India Campaign, PM e-Vidya, the National Education Policy (NEP) 2020, and the DIKSHA platform.",
-    "These initiatives together show a change in policy, focusing on using technology-based solutions that can reach many people, with the goal of reducing gaps in access to and involvement in education.",
-    "However, the transformative potential of digital education remains contested, especially in the context of pre-existing structural inequalities.",
-    "While digital platforms have expanded the reach of educational content, they have also exposed and, in some cases, deepened the digital divide, particularly among economically marginalized populations, rural communities, and gender-disadvantaged groups."
+  conclusion: [
+   "The study reveals a shift in India's educational scenario due to increase in digital infrastructure. Programs like BharatNet have enabled connectivity even in the remote areas, supporting online education. However, the benefits were not evenly distributed and were different, especially for the marginalized communities. They face difficulties in their access to digital opportunities.",
+   "To bridge this gap, policies must not only ensure infrastructural support but also is affordable, accessible, and is structured in a way comfortable to address this concern of digital divide.",
+   "In order to address India's historical educational inequalities, platforms such as DIKSHA and SWAYAM have become critical instruments. By providing scalable, multilingual, and accessible digital content, these platforms support the NEP 2020 vision of equitable and inclusive education. DIKSHA has made commendable progress, particularly in enhancing foundational learning and reaching linguistically and geographically diverse learners, as evidenced by high teacher and student interaction.",
+   "However, enduring problems like restricted media diversity and mobile compatibility underscore the necessity of additional infrastructure investment and adaptive content creation. On a similar note, SWAYAM's extensive course library, adaptable evaluation, and participation of prestigious universities have increased access across socioeconomic divides.",
+   "Improving vernacular content, increasing mobile access, and incorporating adaptive learning analytics for personalized learning are all crucial to filling in the gaps in platforms like SWAYAM and DIKSHA. Prioritizing teacher training in digital pedagogy is essential, particularly in rural areas. Delivery of education will be inclusive, interesting, and contextually relevant if communitybased digital support systems, such as local learning hubs, are established and continuous monitoring and feedback systems are integrated.",
+   "DIKSHA and SWAYAM can more successfully close the digital divide and act as global models for inclusive digital education.",
+   "For NEP 2020 and PM e-Vidya to truly disrupt systematic inequality, the government must improve rural internet infrastructure, and provide content in regional languages. They must equip educators with EdTech training and enable parental and community involvement in digital learning. This is an excellent way to ensure better access to digital policies and help in reducing education inequality.",
+   "We can also introduce digital literacy programmes in rural areas and launch similar programmes in the school, in order to spread awareness and help them to gain a practical exposure so that they understand the importance as well as get comfortable accessing digital opportunities with the use of their digital skills.",
+   "In conclusion, digital transformation will boost tremendously if it stands still on its promise for reducing inequality, and ensure every learner has equal access and ability to benefit from the digital tools and opportunities."
   ],
-  "problemStatement": [
-    "Despite India’s major push toward digital education, gaps remain in equitable access and inclusivity.",
-    "Projects like BharatNet and PM e-Vidya have improved infrastructure, but rural areas, low-income households, and marginalized groups face barriers like poor connectivity, lack of devices, and limited digital skills.",
-    "The digital divide continues to widen educational inequality, especially post-COVID-19, raising questions about how effective these initiatives really are in reducing disparities."
-  ],
-  "researchObjectives": [
-    "To critically evaluate government-led digital initiatives like BharatNet, PM e-Vidya, and DIKSHA in reducing educational inequality.",
-    "To analyze the limitations of these programs in addressing structural, regional, and socio-economic barriers.",
-    "To identify areas where digital policies have succeeded and where they have fallen short in achieving inclusive education."
-  ],
-  "researchQuestions": [
-    "How effective are initiatives like BharatNet and PM e-Vidya in bridging the educational digital divide in India?",
-    "What are the main barriers preventing equitable outcomes in digital education?",
-    "To what extent do these initiatives align with the objectives of SDG 10 in reducing inequalities?"
-  ],
-  "thematicLiteratureReview": [
-    "The digital divide has emerged as a central concern in policy and academic debates on education. Scholars argue that while digital platforms create new opportunities for access, they simultaneously deepen inequalities when infrastructure and affordability gaps are not addressed (Oxfam India, 2021).",
-    "Global studies, including UNESCO (2021), highlight how the pandemic magnified existing disparities, with rural, poor, and female students disproportionately excluded from digital learning.",
-    "In India, policies like Digital India and BharatNet are designed to address these divides, but ground-level studies suggest uneven impact. For example, NCERT (2021) found that a large proportion of students lacked access to devices during the pandemic.",
-    "Research also emphasizes that while platforms such as DIKSHA and SWAYAM increase reach, high dropout rates and language barriers reduce their effectiveness (Singh, 2022).",
-    "This literature underscores the need to evaluate not just access but also inclusivity, cultural relevance, and sustainability of digital education initiatives."
-  ],
-  "methodology": [
-    "This research uses a descriptive method, relying primarily on secondary data sources such as government reports, survey data, academic papers, and news articles.",
-    "By systematically reviewing these sources, the study evaluates the effectiveness of digital initiatives like BharatNet, PM e-Vidya, DIKSHA, and SWAYAM in reducing educational inequalities.",
-    "The methodology is qualitative in nature, focusing on critical policy analysis and impact assessment rather than empirical fieldwork.",
-    "Limitations include lack of primary data collection, meaning the findings depend on existing literature and reported outcomes."
-  ],
-  "content": [
-    {
-      "theme": "Project BharatNet: Its Impact on Reducing Digital Divide in Educational Sectors of Rural India",
-      "paragraphs": [
-        "BharatNet aims to provide broadband to all Gram Panchayats, being one of the largest rural telecom projects globally.",
-        "Initially approved in 2011 as the National Optical Fibre Network (NOFN), and later renamed in 2015, the project faced delays but entered Phase II in 2017.",
-        "By March 2025, over 218,000 Gram Panchayats were service ready, with more than 6.92 lakh km of optical fiber laid.",
-        "BharatNet expanded access during COVID-19, enabling online education through smart boards and digital classrooms in rural areas such as Sakarda village, Gujarat.",
-        "However, disparities remain: in northeastern states, less than 60% of Gram Panchayats were connected by 2023, and in Telangana, only 8.78% of schools reported internet access.",
-        "Implementation delays, coordination issues, and regional disparities hinder BharatNet’s potential as a fully equitable education enabler."
-      ]
-    },
-    {
-      "theme": "Online Education Push During COVID-19 Lockdown",
-      "paragraphs": [
-        "The COVID-19 pandemic disrupted education for over 320 million learners in India.",
-        "According to the NSSO (2018), only 4.4% of rural households owned computers, compared to 23.4% in urban areas, and only 14.9% of rural households had internet access compared to 42% urban.",
-        "Government initiatives included SWAYAM Prabha, a set of 32 DTH TV channels broadcasting lessons, and Manodarpan, a free tele-counselling service for mental health support.",
-        "While television-based lessons reached students without internet, limited interactivity and language issues reduced effectiveness.",
-        "Rural and female students were disproportionately excluded due to lack of access to devices.",
-        "State-level innovations such as Rajasthan’s DigiLEP program leveraged WhatsApp-based learning for 68,000 schools, showing promise but still limited by gender bias and unequal phone access.",
-        "COVID-19 highlighted the deep impact of digital inequality on educational equity in India."
-      ]
-    },
-    {
-      "theme": "PM e-Vidya under New Education Policy 2020 – A Visionary Shift or Digital Exclusion?",
-      "paragraphs": [
-        "NEP 2020 introduced PM e-Vidya under the 'One Nation, One Digital Platform' framework to unify digital education resources through DIKSHA, SWAYAM, and TV channels.",
-        "While visionary, its implementation has been inequitable: NFHS-5 (2022) data shows only 15% of rural households had internet access compared to 42% in urban households.",
-        "Some states like Kerala successfully implemented EdTech via initiatives like KITE VICTERS, while Bihar and Jharkhand lagged behind.",
-        "PM e-Vidya’s non-interactive format, lack of vernacular content, and poor teacher awareness (40% in rural schools) limited its reach.",
-        "Success stories like localized adaptations in Nagaland show potential, but overall, PM e-Vidya risks reinforcing existing inequalities unless inclusivity is prioritized."
-      ]
-    },
-    {
-      "theme": "Assessing the Impact of DIKSHA and SWAYAM on Indian Educational Inequalities",
-      "paragraphs": [
-        "DIKSHA, launched in 2017, provides multilingual, inclusive educational resources through NCERT, CBSE, and SCERTs.",
-        "Over 200 million students and 7 million teachers have engaged with DIKSHA, with more than 72% of enrolled students accessing materials.",
-        "However, limitations include poor mobile compatibility, uneven regional adoption, and content diversity issues.",
-        "SWAYAM, also launched in 2017, provides MOOCs from Class 9 to postgraduate level, with over 31 million enrolments and 288 universities accepting course credits.",
-        "Despite its wide reach, dropout rates remain high (27–31%), largely due to English-only content, lack of interactivity, and difficult course design.",
-        "Both DIKSHA and SWAYAM represent crucial steps toward digital inclusion, but greater efforts are needed to make them adaptive, engaging, and linguistically accessible."
-      ]
-    }
-  ],
-  "conclusion": [
-    "Government initiatives such as BharatNet, PM e-Vidya, DIKSHA, and SWAYAM have made significant contributions to expanding the reach of digital education in India.",
-    "These programs have improved internet access, provided digital content, and created alternative platforms like TV and radio for students without internet access.",
-    "However, deep-rooted inequalities remain, particularly in rural areas, among low-income households, and for girls and marginalized groups.",
-    "The pandemic further magnified these disparities, demonstrating that infrastructure alone cannot ensure equity.",
-    "Digital education policies must now move beyond access to focus on inclusivity, vernacular content, device affordability, teacher training, and gender-sensitive approaches.",
-    "India’s path to equitable digital education requires not just technological expansion but also structural reforms that directly address social and economic barriers."
-  ],
-  "acknowledgements": [
-    "The authors wish to acknowledge the guidance and support received from faculty mentors during the preparation of this paper.",
-    "We are also grateful to the organizations and institutions whose reports and publications formed the backbone of our secondary research.",
-    "Special thanks are due to peer reviewers for their constructive feedback."
-  ],
-  "references": [
-    {
-      "heading": "Angel One. (2025). How BharatNet is transforming rural connectivity in India.",
-      "links": "https://www.angelone.in/news/how-bharatnet-is-transforming-rural-connectivity-in-india"
-    },
-    {
-      "heading": "Government of India. (2023). BharatNet Project Status Report.",
-      "links": "https://www.bbnl.nic.in/Pages/home.aspx"
-    },
-    {
-      "heading": "Ministry of Education. (2020). National Education Policy 2020.",
-      "links": "https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf"
-    },
-    {
-      "heading": "National Council of Educational Research and Training (NCERT). (2021). Students’ access to digital learning during COVID-19.",
-      "links": "https://ncert.nic.in/pdf/publication/reports/covid19/learningduringCOVID.pdf"
-    },
-    {
-      "heading": "NITI Aayog. (2021). Connected Learning: How digital platforms can bridge the education divide.",
-      "links": "https://www.niti.gov.in/sites/default/files/2021-08/connected-learning.pdf"
-    },
-    {
-      "heading": "Press Information Bureau. (2021). PM e-Vidya programme launched under Atma Nirbhar Bharat Abhiyaan.",
-      "links": "https://pib.gov.in/PressReleseDetailm.aspx?PRID=1629875"
-    },
-    {
-      "heading": "Singh, A. (2022). Digital learning in India: Opportunities and challenges. Economic and Political Weekly, 57(4).",
-      "links": "https://www.epw.in/journal/2022/4/digital-learning-india.html"
-    },
-    {
-      "heading": "UNESCO. (2021). When schools shut: Gendered impacts of COVID-19 school closures.",
-      "links": "https://unesdoc.unesco.org/ark:/48223/pf0000379270"
-    },
-    {
-      "heading": "Oxfam India. (2021). The digital divide in education in India.",
-      "links": "https://www.oxfamindia.org/press-release/oxfam-india-study-digital-divide-education"
-    },
-    {
-      "heading": "World Bank. (2022). Remote learning during the global school closures: Lessons from developing countries.",
-      "links": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/355141624508196987/remote-learning"
-    }
+  references: [
+   {
+    heading: "Angel One. (2025). How BharatNet is transforming rural connectivity in India.",
+    link: "https://www.angelone.in/news/how-bharatnet-is-transforming-rural-connectivity-in-india"
+   },
+   {
+    heading: "ASER Centre. (2021). Annual Status of Education Report 2021.",
+    link: "http://img.asercentre.org/docs/ASER%202021/aser2021fullreport.pdf"
+   },
+   {
+    heading: "Azim Premji Foundation. (2021). Myths of online education.",
+    link: "https://azimpremjifoundation.org/sites/default/files/myths-of-online-education.pdf"
+   },
+   {
+    heading: "Central Board of Secondary Education Training Portal. (2023). Teacher capacity building data.",
+    link: "https://cbseit.in/cbse/training"
+   },
+   {
+    heading: "DIKSHA. (2024). About DIKSHA.",
+    link: "https://diksha.gov.in/about/"
+   },
+   {
+    heading: "DIKSHA. (2024). DIKSHA dashboard- Ministry of Education",
+    link: "https://diksha.gov.in/"
+   },
+   {
+    heading: "EPW. (2022). Localising EdTech implementation in India. Economic and Political Weekly, 57(48).",
+    link: "https://www.epw.in/journal/2022/48/commentary/localising-edtech.html"
+   },
+   {
+    heading: "Government of India. (2020). Manodarpan – Ministry of Education.",
+    link: "https://manodarpan.education.gov.in"
+   },
+   {
+    heading: "India Inequality Report 2021 – Oxfam India. (2021). India inequality report: Education 2021.",
+    link: "https://www.oxfamindia.org/knowledgehub/workingpaper/india-inequality-report-2021"
+   },
+   {
+    heading: "Jadhav, R., & Rathod, A. R. (2024). Overview and future scope of SWAYAM in the world ofMOOCs: A comparative study with reference to major international MOOCs. InternationalResearch Journal on Advanced Engineering and Management, 2(9), 2804–2806.",
+    link: "https://goldncloudpublications.com/index.php/irjaem/article/view/478"
+   },
+   {
+    heading: "Ministry of Education. (2020). National Education Policy (NEP 2020).",
+    link: "https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf"
+   },
+   {
+    heading: "Ministry of Education. (2020). National Education Policy 2020. Government of India.",
+    link: "https://www.education.gov.in/en/nep"
+   },
+   {
+    heading: "Ministry of Education. (2020). SWAYAM Prabha – Free DTH classes.",
+    link: "https://www.swayamprabha.gov.in"
+   },
+   {
+    heading: "MOSPI & NSSO. (2018). 75th Round of National Sample Survey: Education and digital accessdata.",
+    link: "http://mospi.nic.in"
+   },
+   {
+    heading: "NCERT. (2021). Students’ learning during the pandemic – A survey.",
+    link: "https://ncert.nic.in"
+   },
+   {
+    heading: "National Family Health Survey. (2022). NFHS-5 (Phase II) factsheets.",
+    link: "http://rchiips.org/nfhs/NFHS-5_FCTS/NFHS-5%20State%20Factsheet%20Compendium_Phase-II.pdf"
+   },
+   {
+    heading: "Oxfam India. (2021). India inequality report: Education 2021.",
+    link: "https://www.oxfamindia.org/knowledgehub/workingpaper/india-inequality-report-2021"
+   },
+   {
+    heading: "Oxfam India. (2022). India inequality report 2022: Digital divide.",
+    link: "https://www.oxfamindia.org/press-release/india-inequality-report-2022"
+   },
+   {
+    heading: "PRS Legislative Research. (2022). EdTech equity 2022 brief.",
+    link: "https://prsindia.org/policy/analytical-reports/edtech-equity-2022"
+   },
+   {
+    heading: "ResearchGate. (2020). Impact of COVID-19 on school education in India: A brief analysis.",
+    link: "https://www.researchgate.net/publication/341981898_Impact_of_COVID-19_on_School_Education_in_India"
+   },
+   {
+    heading: "Roul, R., & Mohalik, R. (2025). Quality of e‑contents on DIKSHA platform: A study ofsecondaryschool teachers’ perceptions. International Education & Research Journal, 11(2),32–37.",
+    link: "https://doi.org/10.5281/zenodo.15583394"
+   },
+   {
+    heading: "Sharma, R., & Kapoor, A. (2023). DIKSHA in Rajasthan: A field evaluation. NCERT Journal of Educational Studies, 19(1), 10–27.",
+    link: "https://journals.ncert.gov.in/"
+   },
+   {
+    heading: "Singh, G. (2022). Why do MOOCs fail on completion rate? An analysis of SWAYAM courses. Indian Journal of Educational Technology, 4(1), 111–123.",
+    link: "https://journals.ncert.gov.in/IJET/article/view/529"
+   },
+   {
+    heading: "Swayam. (2025). About SWAYAM.",
+    link: "https://swayam.gov.in/about"
+   },
+   {
+    heading: "Swayam. (2025). Swayam portal.",
+    link: "https://swayam.gov.in"
+   },
+   {
+    heading: "The Economic Times. (2023). Agritech investments and incubators nurturing the next generationof food innovators in Dubai. The Economic Times.",
+    link: "https://economictimes.indiatimes.com/news/international/uae/agritech-investments-and-incubators-nurturing-the-next-generation-of-food-innovators-in-dubai/articleshow/122569172.cms"
+   },
+   {
+    heading: "The Economic Times. (2023, August 2). Education Ministry selects Oracle Cloud Infrastructuretomodernise edtech platform DIKSHA. The Economic Times.",
+    link: "https://economictimes.indiatimes.com/tech/technology/education-ministry-selects-oracle-cloud-infrastructure-to-modernise-edtech-platform-diksha/articleshow/102351763.cms?from=mdr"
+   },
+   {
+    heading: "The Hindu. (2023). Kerala’s KITE VICTERS and EdTech implementation. The Hindu.",
+    link: "https://www.thehindu.com/education/kerala-edtech-article/article66355394.ece"
+   },
+   {
+    heading: "The Times of India. (2024, February 14). Low completion rates plague SWAYAM courses. TheTimes of India.",
+    link: "https://timesofindia.indiatimes.com/home/education/news"
+   },
+   {
+    heading: "The Times of India. (2024, May 22). Internet access in Gram Panchayats. The Times of India.",
+    link: "https://timesofindia.indiatimes.com"
+   },
+   {
+    heading: "UNESCO. (2021). Education in a post-COVID world: Nine ideas for public action.",
+    link: "https://unesdoc.unesco.org/ark:/48223/pf0000374802"
+   },
+   {
+    heading: "UNICEF India. (2021). Education response to COVID-19 in India: DigiLEP case study.",
+    link: "https://www.unicef.org/india/reports/digital-learning-enhancement-programme-digilep"
+   },
+   {
+    heading: "Wikipedia contributors. (2025, July 20). SWAYAM (Study Webs of Active-Learning for Young Aspiring Minds). Wikipedia.",
+    link: "https://en.wikipedia.org/wiki/SWAYAM"
+   },
+   {
+    heading: "World Bank & OECD. (2020). India: Ab padhai nahi rukegi – Learning will not stop.",
+    link: "https://documents1.worldbank.org/curated/en/637101601970234785/pdf/India-Ab-PadhaiNahiRukegi-Learning-Will-Not-Stop.pdf"
+   }
   ]
-},
-
-{
-  "id":11,
-  "serialNumber":47,
-  "issueNo": 4,
-  "volume": 1,
-  "title": "From Paper to Practice: A Study on Health-System Bias and Exclusions in Assessing SRHR in India",
-  "author": [
-    "Aashi Sahu",
-    "Anshim",
-    "Ritika Jindal",
-    "Swastika Kar"
+ },
+ {
+  id: 11,
+  serialNumber: 47,
+  issue: 4,
+  volume: 1,
+  title: "From Paper to Practice: A Study on Health-System Bias and Exclusions in Assessing SRHR in India",
+  author: "Aashi Sahu; Anshim; Ritika Jindal; Swastika Kar",
+  authorAbbrev: "A. Sahu; Anshim; R. Jindal; S. Kar*",
+  abstract: [
+   "This paper attempts to investigate the gap between reproductive health policies in India and their grassroots implementation. Special focus is given to marginalized women, mainly those from Dalit and tribal backgrounds. Although there are various legal frameworks such as the Janani Suraksha Yojana (JSY) and the Medical Termination of Pregnancy (MTP) Act amendments, deep rooted impediments continue to restrict women's access to sexual and reproductive health rights (SRHR). Most mainstream literature focuses on service outreach metrics but fails to look into the intersectional realities of caste, class, age, and geography in health-system interactions.",
+   "Methodologically, this paper builds on the qualitative approach with content analysis of policy documents, review of secondary data, and semi-structured interviews with women. Alongside, this paper explores the lacuna in SRHR. Primary focus is given to institutional bias, provider’s attitudes, and lack of infrastructure that result in denial or delay of services.",
+   "Emphasizing lived experiences and examining the state's accountability in ensuring bodily autonomy, the research aims to offer a nuanced critique of India’s reproductive health landscape. The paper concludes with policy recommendations targeting both structural reforms and sensitization frameworks to make reproductive rights meaningfully accessible to marginalized women."
   ],
-  "authorAbbrev": [
-    "Aashi¹",
-    "Anshim²",
-    "Ritika³",
-    "Swastika⁴"
+  keyword: [
+   "reproductive health policies",
+   "marginalized women",
+   "intersectional realities",
+   "policy recommendations"
   ],
-  "status": "Submitted",
-  "abstract": [
-    "This paper attempts to investigate the gap between reproductive health policies in India and their grassroots implementation.",
-    "Special focus is given to marginalized women, mainly those from Dalit and tribal backgrounds.",
-    "Although there are various legal frameworks such as the Janani Suraksha Yojana (JSY) and the Medical Termination of Pregnancy (MTP) Act amendments, deep rooted impediments continue to restrict women's access to sexual and reproductive health rights (SRHR).",
-    "Most mainstream literature focuses on service outreach metrics but fails to look into the intersectional realities of caste, class, age, and geography in health-system interactions.",
-    "Methodologically, this paper builds on the qualitative approach with content analysis of policy documents, review of secondary data, and semi-structured interviews with women.",
-    "Alongside, this paper explores the lacuna in SRHR.",
-    "Primary focus is given to institutional bias, provider’s attitudes, and lack of infrastructure that result in denial or delay of services.",
-    "Emphasizing lived experiences and examining the state's accountability in ensuring bodily autonomy, the research aims to offer a nuanced critique of India’s reproductive health landscape.",
-    "The paper concludes with policy recommendations targeting both structural reforms and sensitization frameworks to make reproductive rights meaningfully accessible to marginalized women."
+  status: "Submitted",
+  intro: [
+   "The foundation of bodily autonomy and gender equality is formed by sexual and reproductive health rights (SRHR). Central to human rights lies SRHR, which not only encompasses access to healthcare services but also the right to make informed choices about one's body (United Nations Population Fund [UNFPA], 2022).In India, the government’s unwavering commitments towards women’s reproductive health can be witnessed through several legal and policy initiatives. The schemes include, Janani Suraksha Yojana (JSY), the Medical Termination of Pregnancy (MTP) Act along with its 2021 amendments, and other maternal healthcare schemes (Ministry of Health and Family Welfare [MoHFW], 2021). In spite of these initiatives, there exists stark disparities in the implementation of these rights, especially for women from marginalized backgrounds, including adolescents, Dalits, and tribal communities.",
+   "Recent policy evaluations suggest that while India has improved certain reproductive health indicators such as reduced maternal mortality and increased institutional deliveries, qualitative aspects of care remain deeply compromised (Chatterjee, 2020). This discrepancy is particularly evident in the gap between high-level policy commitments and the lived experiences of women at the grassroots level. Studies increasingly reveal that social determinants such as caste, class, age, and geography play a crucial role in determining access to reproductive healthcare (Deshpande, 2022). Women from Dalit and tribal backgrounds often face layered marginalization in the form of institutional discrimination, infrastructural deficits, provider apathy, and limited awareness about their reproductive rights (Raj et al., 2023).",
+   "Moreover, healthcare providers' attitudes and systemic biases frequently result in the denial or delay of services like safe abortion, contraception, and maternal care (Kumar & Rai, 2021). In many instances, services provided under schemes like JSY tend to reduce women to mere statistical targets, sidelining their autonomy and preferences. The focus on numerical achievements in public health metrics has diverted attention away from more complex, intersectional issues of dignity, agency, and consent in reproductive healthcare delivery (Chatterjee, 2020). Consequently, the promise of universal reproductive rights remains an illusion for large sections of marginalized women in India."
   ],
-  "keywords": [
-    "reproductive health policies",
-    "marginalized women",
-    "intersectional realities",
-    "policy recommendations"
+  content: [
+   {
+    heading: "Problem Statement & Research Objectives",
+    paragraphs: [
+     "This paper addresses these critical gaps by adopting a qualitative inquiry into how reproductive health policies are implemented in practice. Using content analysis of policy documents, a review of secondary literature, and semi-structured interviews with affected women and healthcare providers; it investigates how systemic biases, infrastructural shortcomings, and socio-cultural barriers collectively obstruct marginalized women from accessing dignified reproductive care. In doing so, the study confronts a central paradox: despite the presence of progressive reproductive health policies in India, marginalized women, particularly adolescents, Dalits, and tribal women continue to experience systemic exclusions that undermine their reproductive autonomy. By highlighting the disconnect between policy narratives and lived experiences, the paper aims to bridge this gap in scholarly discourse and policy evaluation, contributing towards a more grounded understanding of reproductive rights that goes beyond numerical outreach to address structural and attitudinal inequalities within India’s healthcare system."
+    ]
+   },
+   {
+    heading: "Thematic Literature Review",
+    paragraphs: [
+     "It makes more sense from a theoretical standpoint to conduct a thorough investigation of SRHR-related impediments. Intersectionality theory, as pioneered by Kimberlé Crenshaw (1989), explains how multiple social identities (such as caste, gender, class, and religion) overlap to create complex yet unique experiences of discrimination and privilege. In the Indian context, this perspective is crucial for understanding why policies focused solely on gender or caste fail to address the compounded disadvantages faced by Dalit, tribal, and rural women. Laws and health programs frequently overlook these intertwined barriers while resulting in policies that do not effectively reach those who experience multiple forms of exclusion. An intersectional lens thus pushes for policy frameworks and interventions that are attuned to the specific circumstances of people at the margins and demands for a systematic recognition of how layered oppression functions within existing legal, institutional, and cultural settings.",
+     "Bodily contestation theory:- addresses the power struggles around who has the authority to make decisions regarding bodies while focusing on how autonomy, rights, and agency are regulated by social norms, legal systems, and institutional practices. In the context of reproductive and sexual health, this literature emphasizes on the ongoing battles between individual autonomy and societal/institutional constraints (such as legal requirements, medical gatekeeping, and moral policing). Contemporary analyses show that, despite improvements like the MTP Act and related legal reforms, genuine bodily autonomy for Indian women remains hindered by patriarchal structures, stigma, and the discretionary power of providers. Ultimately, this theory calls attention to the need for legal and policy reforms that secure real agency and dignity to ensure that individuals (especially women and marginalized groups) are empowered to make informed decisions about their own bodies free from coercion or undue interference.",
+     "The literature study deconstructs the intricacy of SRHR by focusing on four main and connected issues.",
+     "A. Legal and Institutional policy and framework - There are still many gaps in its implementation that keep the people from fully benefiting from the initiatives, despite India's significant contributions to legal and policy frameworks, including the incorporation of the Right of Health under Article 21 and multiple rulings that made SRHR a crucial topic to concentrate on. Kapoor (2024) criticizes the MTP (Regulation) Act as being burdensome and doctor-centric, often requiring the consent of the spouse or family even if it is legal. The Government of India's Surrogacy Bill is criticized by Jakhar (2025) for upholding strict traditional norms by prohibiting unmarried and LGBTQ+ individuals from becoming parents. Women in India are still viewed as a means of population control, particularly in rural areas where sterilization camps are prevalent, according to the CREA Shadow Report (2018). It also mentions the ongoing issue of responsibility in society, which hinders community involvement and the opportunity to discuss their rights and the violence they encounter.",
+     "B. Multiple layers of Marginalization - Including the underprivileged in the benefits will help India reach SDG 5 because not everyone in India has access to reproductive rights, particularly the LGBTQ+ community, Adivasi or tribal people, religious minorities, adolescents, and those who are poor.In her research, Narang (2024) highlighted that pervasive identity differentiation (caste, creed, religion, etc.) will eventually make it more challenging for the general public to benefit from government initiatives. Tribal women may face discrimination and judgment even when they receive care, or they may have trouble traveling to hospitals. LGBTQ+ people, adolescents, and single people are also denied access to abortion services because of their nonconformity with the \"ideal family\" model. The CHJS (2015) states that research hardly ever discusses caste-related data or gender-sensitive topics, including their difficulties. It is therefore difficult for the government, service providers, and legislators to find answers and fill in the gaps.",
+     "C. Patriarchal control and Gender norms - There is still social stigma associated with discussing abortion, menstruation, and other sexual health issues in public. Women continue to be reluctant to discuss these difficulties in their families due to a number of societal constraints, which prevents them from participating in government-sponsored programs. Narang (2024) asserts that the patriarchal and social conventions around women date back to ancient times, when women were viewed as mothers, caregivers, and the moral pillars of the household. In some ways, these standards are still reflected in current policies, which prioritize motherhood and population control over bodily autonomy and choice. According to Khanna et al. (2022), women in urban areas frequently experience early marriages and rigid gender roles, which in some ways prevents them from evaluating SRHR. Despite the fact that abortion, menstruation, and other health services are safe and legal, women are reluctant to use them due to family pressure and fear of being judged. A Bollywood movie called Jayesh Bhai Jordaar also explores the same theme of social conventions and patriarchal control. In order to have a son, his wife has to undergo several abortions, and there are numerous other restrictions placed on women, such as the prohibition against using scented soaps to prevent male arousal.This demonstrates that patriarchal control is not just common in rural areas but also in impoverished urban areas.",
+     "D. Unawareness of SRHR - Lack of knowledge on SRHR remains a hurdle in spite of numerous legal attempts. Sharma (2025) asserts that in spite of numerous government-introduced policies, such as Beti Padhao and Beti Bachao, as well as numerous laws, a lack of public communication and other social norms causes a problem as it prevents women from accessing the services designed to help them. Grown et al. (2005) state that women can be made aware of SRHR through community involvement, education, counseling, and infrastructure improvements. When these elements are absent, women's sexual and reproductive health suffers."
+    ]
+   },
+   {
+    heading: "Methodological Overview",
+    paragraphs: [
+     "Review Question:",
+     " What is the influence of health-system biases and gender norms on women's access to sexual and reproductive health rights (SRHR) in India?",
+     "Review Objective:",
+     " To investigate how reproductive health policies intersect with social hierarchies like caste, age, and geography, and how these intersections contribute to the denial of bodily autonomy and access to sexual and reproductive health rights (SRHR).",
+     "Review Design:",
+     " This study employs a systematic review design with qualitative, quantitative and intersectional research approach to examine the gap between reproductive health policies and their ground-level implementation in India, specifically for marginalized women such as Dalits, Adivasis, and adolescents. The research focuses on how social hierarchies, institutional mechanisms, and policy frameworks interact to impact access to sexual and reproductive health rights (SRHR).",
+     "The study is based on both primary and secondary data. Primary data will be collected through semi-structured interviews administered via digital platforms (Google Forms). These will be shared with women from represented and underrepresented communities. The use of both open-ended and close-ended questions is intended to obtain both personalized narratives and specific factual information regarding individuals’ access to and experiences with reproductive healthcare services. Although conducted remotely, this method allows for the collection of qualitative and quantitative data in a manner that is adaptable and sensitive to diverse contextual realities. The study will also conduct a document review of key policies and legal frameworks such as the Janani Suraksha Yojana (JSY), the Medical Termination of Pregnancy (MTP) Act, and other related schemes. Using content analysis, these documents will be examined for the ways in which they construct eligibility, access, and entitlements – particularly in relation to caste, age, marital status, and geographic location.",
+     "A review of secondary literature will be undertaken to understand the broader academic and policy discourse on SRHR in India. This will include research articles, survey data, and reports by government and non-governmental organizations. It will focus on identifying structural gaps, provider-level biases, and areas that remain under-researched. All collected data will be analyzed through thematic analysis that are aimed at identifying recurring patterns and issues related to systemic exclusion, delay, or denial of services. The analysis will be informed by feminist grounded theories (like bodily contestation theory) as key theoretical frameworks for enabling a critical understanding of how reproductive rights are shaped by social structures and state institutions.",
+     "This methodological diversity ensures a comprehensive analysis of the interplay between gender norms and health outcomes."
+    ]
+   },
+   {
+    heading: "Core Findings",
+    paragraphs: [
+      "Sexual Health Policies :-",
+     "The Government of India has implemented a range of policies to address sexual health and reproductive rights, with a particular focus on ensuring better, affordable healthcare for the impoverished, rural, and marginalized communities, including women.",
+     "Building on the success of the first two National Health Policies (1983 and 2002), the 2017 policy was reintroduced to reinforce and expand the government's role in healthcare—covering areas such as health financing, technology, medical education, disease prevention, and human capital investment (Ministry of Health & Family Welfare, Government of India, 2017). A major goal of this policy is to provide free primary healthcare services, especially in maternity, child, and adolescent health, by optimizing existing resources (World Health Organization: WHO, 2019). It sets targets to reduce maternal and infant mortality, increase life expectancy from 67.5 to 70 years by 2025, and improve disease prevention and awareness (Dahiya, 2018). By 2022, the maternal mortality rate dropped from 130 per 100,000 live births in 2017 to 97, and the infant mortality rate declined from 39 to 23 per 1,000 live births during the same period (Agrawal et al., 2024).",
+     "In 1966, the Shantilal Shah Committee recommended liberalizing abortion laws to reduce maternal deaths due to unsafe abortions. This led to the Medical Termination of Pregnancy (MTP) Bill, introduced in 1969 and enacted in 1971. The Act mandates that abortions must be conducted in government-approved facilities (legal Service India, n.d.). While the MTP Act has helped reduce unsafe abortions, barriers remain for poor and marginalized women. A report by the Centre for Reproductive Rights reveals that India still performs 8,000 unsafe abortions annually (Diamondstein, 2021). Unsafe abortions account for approximately 15,000 maternal deaths annually—about 8.9% of all such deaths. Only 25% of organized-sector abortion clinics are government-owned, with the remainder in the private sector. In Jharkhand, 82% of women are unaware that abortion is legal (Kohli, 2008), and around 190,000 adolescents undergo unsafe abortions without proper medical care, as 78% of procedures occur outside regulated facilities (Seth, 2022).",
+     "The healthcare workforce shortage also affects service delivery. There is only one government physician for every 10,189 people, compared to the WHO recommendation of one per 1,000. Only 1,351 obstetricians and gynaecologists serve rural community health centres (Banerjee, 2022). While institutional deliveries increased from 39% in 2005 to 79% in 2015, 21% of births still occur at home (Mishra et al., 2021). The National Rural Health Mission (NRHM), launched in 2005, aims to provide affordable, accessible healthcare in rural areas. Since 1990, India has seen an 83% reduction in maternal mortality, surpassing the global decline of 45% (Ministry of Health & Family Welfare-Government of India, n.d.). The Accredited Social Health Activist (ASHA) program, also part of NRHM, engages over a million trained volunteers to provide maternal care, immunization, and family planning services (Kuldeep, 2025).",
+     "The Janani Suraksha Yojana (JSY), also launched in 2005, seeks to reduce maternal and infant mortality by offering financial incentives for institutional deliveries (Pillai, 2024). Despite its reach, disparities persist. Mothers from marginalized backgrounds often face economic and social barriers in accessing hospital care. SC/STs represent 37.6% of JSY beneficiaries, compared to 61.8% from non-SC/ST groups (Mishra, Veerapandian, et al., 2021). The 2015–16 report from the National AIDS Control Organization (NACO) indicates that transgender individuals have the second-highest HIV prevalence among high-risk groups at 8.82%, largely due to systemic discrimination and limited access to healthcare.",
+     "In 2013, the Ministry of Health & Family Welfare launched the Reproductive, Maternal, Newborn, Child, Adolescent Health and Nutrition (RMNCAH+N) strategy. It aims to reduce maternal and child mortality through improvements in infrastructure, human resources, and cross-sectoral collaboration (Ministry of Health & Family Welfare-Government of India, n.d.).",
+     "Reproductive Rights of Women:-",
+     "Reproductive rights form a crucial subset of human rights. For robust SRHR outcomes, states must ensure the availability and accessibility of quality public health facilities. However, India’s public healthcare system faces significant challenges, including inadequate infrastructure, insufficiently trained personnel, and low investment. Despite improvements, rising costs due to private sector dominance hinder access for the poor and marginalized.",
+     "The Indian judiciary has progressively recognized reproductive autonomy as part of personal liberty under Article 21 of the Constitution. In the landmark Puttaswamy judgment, the Supreme Court upheld a woman's right to make reproductive choices. Similarly, in Suchitra Srivastava v. Chandigarh Administration, the court affirmed a woman’s right to bodily autonomy, dignity, privacy, and choice in pregnancy decisions (Mathur, n.d.). The 2017 ruling further recognized health as a fundamental right under Article 21, reaffirming reproductive autonomy and access to abortion. The Surrogacy (Regulation) Bill, 2020 restricts surrogacy to altruistic arrangements for Indian couples, aiming to eliminate exploitation in commercial surrogacy. Meanwhile, the Protection of Children from Sexual Offences (POCSO) Act, 2012 safeguards minor girls’ reproductive rights by ensuring legal abortion access in cases of abuse. According to NFHS-5, rural maternal mortality stands at 114 per 100,000 live births, compared to 87 in urban areas. About 20% of rural women lack access to safe abortion and modern contraception. Teenage pregnancies are recorded at 7.1% nationally (rural: 9.3%, urban: 4.2%) (Chandra, 2025). NFHS-3 data shows that 16% of girls aged 15–19 are mothers, and 46% were married before age 18. In Jharkhand, one in four teenage girls is already a parent. Alarmingly, 35% of Indian women report experiencing physical or sexual violence, and 54% believe spousal abuse is justified (Chowdhury, 2021)"
+    ]
+   },
+   {
+    heading: "Interpretation & Analysis",
+    paragraphs: [
+     "The analysis reveals the complex reality of underprivileged women, adolescents, and gender-diverse communities accessing India's reproductive health system through the use of feminist and rights-based lenses;",
+     "Policy Intent vs Ground-level realities:-",
+     " Structural deficits persist despite India’s SRHR policy’s intention to be inclusive, equity-oriented and rights-based. As Dr. Ritu Priya (JNU) argues, “health policy in India often gets trapped between technocratic planning and political inaction, leading to a disconnect between community needs and service design.” On the brighter side, The National Health Policy 2017, NRHM, and initiatives like RMNCAH+N emphasize accessibility and affordability, however, the darker side paints the picture of implementation gaps and structural loopholes.",
+     "Unsafe abortions and Legal illiteracy:-",
+     " Despite having progressive laws like the Medical Termination of Pregnancy (MTP) Act, India paradoxically leads the world in unsafe abortions. Every year, unsafe abortions result in over 15,000 maternal fatalities, exposing a more serious lack of knowledge and access.The fact that 82% of Jharkhand women did not know that abortion was allowed illustrates both the lack of legal knowledge and the part that sociocultural silence plays in stifling female sexuality. Even in cases where laws are in place, feminist scholars such as Shivani Nag and Flavia Agnes contend that bureaucratic gatekeeping, stigma, and patriarchy prevent women from freely exercising their rights.",
+     "The ASHA program:-",
+     " The Accredited Social Health Activists (ASHAs) have significantly contributed to rising institutional deliveries, better immunization coverage, family planning awareness, and early detection of illnesses like TB and malaria.The model, despite being people-centric, has limitations in the nature of workers having minimal pay, precarious job security, and overwhelming responsibilities. ASHAs are not treated as formal employees but as “volunteers,” receiving performance-based incentives instead of fixed wages.",
+     " Ravi Duggal notes that “ASHAs have become the backbone of India's public health, yet the state treats their labor as dispensable and voluntary.”",
+     "Public- Private Divide:-",
+     " Nowhere is the dichotomy between the public and private sector more evident than in the domain of sexual and reproductive health rights (SRHR) in India. This divide is not just about infrastructure, but also about ideology and priorities. Private sector expansion has not led to equitable health delivery, it has rather made healthcare less affordable, especially in reproductive health domains. The current scenario reflects upon how India’s healthcare narrative is increasingly shaped by market logics rather than social justice imperatives.",
+     "Thematic Analysis of the Primary Data:-",
+     " “Understanding Access to Sexual and Reproductive Health: A Ground-Level Reality Check” (a questionnaire).",
+     " The responses obtained from the structured questionnaire offer vital information about the knowledge levels, lived experiences, and structural obstacles that people, especially women and marginalized groups face when trying to access sexual and reproductive health (SRH) services.",
+     " Key demographics:-",
+     "Out of all the primary respondents, a dominant 79.5% fall within the 18–25 age group, indicating that young adults are the primary participants in this survey. The same numerical estimate, i.e. 79.5% is reflected in the gender group analysis wherein women are dominating the survey. More than 90% of the respondents belong to the urban geographical region as opposed to around only 6.8% belonging to the rural. The data showed state diversity with 25% people belonging to Delhi, and the rest from states like Assam (2.3%), Uttar Pradesh (13.6%), West Bengal (18.2%), Punjab (9.1%), etc. 83.7% respondents were un-married or single while the rest were married, showing the dominance of a younger group of individuals.",
+     "Theme-1: Awareness of Reproductive Health Rights:-",
+     " As per the questionnaire, while 45.5% of respondents felt ‘well-informed’ about reproductive health rights, a slightly higher 50% reported being only ‘somewhat aware’, reflecting limited understanding or incomplete information. A marginal section remained unaware or uncertain about key SRHR terms.",
+     "Theme-2: Awareness of Reproductive Health Schemes:-",
+     " When asked about the awareness of government schemes related to reproductive health like Janani Suraksha Yojana (JSY) or the MTP Act, only 11.4% of respondents demonstrate full awareness. A gap between policy and practice is evident in the remaining majority, who are either completely ignorant or only slightly informed. These findings show under-utilization of maternal health schemes among youth and marginalized groups.",
+     "Theme-3: Silence and Stigma in conversations on reproductive health:-",
+     " There is overall openness which is emerging but hesitancy still prevails. A combined 56.8% (somewhat + mostly comfortable) shows a moderate shift towards comfort in discussing sexual and reproductive health (SRH). Only 1 in 4 (25%) feel ‘Very Comfortable’ when talking about such issues. This suggests that a strong psychological or social barrier still exists. The ‘not comfortable’ section remains marginalized which portrays a positive picture and emerging confidence.",
+     "Theme-4: Judgement in care:-",
+     " A significant minority have personally experienced judgment or awkwardness from healthcare providers. High “Not Sure” Responses (32%) Signal Ambiguity and Mistrust or a reluctance to report negative experiences. Just one-third had a clearly positive experience which suggests that safe and respectful SRH consultation is not a universal norm.",
+     "Theme-5: Accessibility of Reproductive health services:-",
+     " The vast majority (70.4%) are classified as 'somewhat' or 'not very accessible.' This suggests inconsistent or unreliable access to public reproductive healthcare services. This small minority (11.4%) reflects a stark gap between public health service provision and lived experience. While 0% report a complete absence of services, this may point to basic infrastructure being present, but failing in quality, outreach, or cultural acceptability.",
+     "Theme-6: Informal gatekeepers:-",
+     " More than 3/4 (77.3%) of them rely on the internet and social media. But there is a chance that this will lead to misinformation. There is a near-Complete Absence of Family as a Source (0%). This reflects upon the lack of openness in Indian families. The schools and teachers have played a marginal role (11.4%) which exposes a critical policy-practice gap. The fact that none of the respondents identified health professionals as their main source of SRH information is concerning.",
+     "Theme-7: Influence of regional and social identities:-",
+     " The majority of the respondents believe that the bias exists (81.8%- combining ‘Yes’ and ‘Sometimes’). This is consistent with research demonstrating that underprivileged groups experience worse treatment. The fact that so few people (9.1%) deny any discrimination highlights the fact that healthcare equity is still viewed as an ideal rather than a reality.",
+     "Theme-8: Attitudes Toward Unmarried Women Seeking SRHR Services:-",
+     " Judgement is the Norm: a clear majority (56.8%) believe that women are treated with judgement. Barely 1 in 4 respondents think such women will be treated with dignity and support, highlighting a serious trust deficit in the public healthcare system. A small segment (6.8%) is unaware of how unmarried women are treated, indicating social silence around these experiences.",
+     "Theme-9: Navigating access of legal abortion:-",
+     " The absence (0%) of a 'very easy' response is concerning. While over half the respondents believe it’s possible (59.1%), they also acknowledge hurdles. One-third (34.1%) believe that legal abortion is difficult to obtain in government hospitals. Lastly, a tiny but significant minority (6.8%) feels that access to legal abortions in governmental contexts is virtually nonexistent.",
+     "Theme-10: Understanding Deterrents to Public SRHR Services:-",
+     " The largest group (43.2%) points to systemic inefficiencies. Almost one out of three (32%) respondents said that healthcare providers' critical views are a hindrance. Concerns regarding privacy are significant (18.2%).",
+     "Stakeholder Mapping:",
+     " Women and adolescent girls (Role: Primary beneficiaries, Interest: High – seek autonomy, information, and access, Nuances: Often silenced by stigma). Healthcare providers (Doctors, ANMs, ASHA workers) (Role: Service delivery frontline, Interest: Medium to High, Nuances: May carry personal/community biases). Ministry of Health and Family welfare (MoHFW) (Role: Policy-maker, Interest: High – responsible for ensuring universal SRHR access, Nuances: Key driver of programs, but often lacks gender-transformative lens). Traditional and Religious Leaders (Role: Custodians of social/gender norms, Interest: Medium, Nuances: Often uphold patriarchal norms). Civil Society and NGOs (Role: Advocates for rights-based approaches, Interest: High, Nuances: Bridge the gap between policy and practice). Judiciary and legal institutions (Role: Enforcers of constitutional rights, Interest: Medium, Nuances: Landmark rulings uphold SRHR, but access to justice remains unequal). Marginalized Sub-groups (LGBTQ+, SC/ST, Disabled, etc.) (Role: Face compounded barriers, Interest: High, Nuances: Structural exclusion worsens with intersecting identities).",
+     "//Table Missing",
+    ]
+   },
+   {
+    heading: "Policy And Practice Recommendations",
+    paragraphs: [
+     "Despite all constitutional guarantees and progressive reforms, big gaps still exist between what is promised and what women actually receive. In light of these systemic gaps, it becomes necessary to translate reproductive rights from legal and policy frameworks into accessible, actionable, and accountable services on the ground. The following policy recommendations are organized across three key domains, targeted to move beyond the current failures in implementation and intersectional inequalities:-",
+     "Legal and Institutional Accountability:-",
+     " The intersectional approach, as theorized by Kimberlé Crenshaw, recognized how overlapping identities influence access to rights. (Crenshaw, 1991) Integrating some principles would align Indian policy more closely with the reproductive justice framework which will view reproductive rights not just as access to services but the freedom to make decisions about one’s body, family, and future. (Ross & Solinger, 2017) While reproductive health is part of the right to life under Article 21 of the Indian Constitution, it still requires stronger legal backing and better systems to protect these rights in real life (Srivastava v. Chandigarh, 2009).",
+     "India should bring a separate reproductive law that specifically protects the reproductive rights of women regardless of a woman’s caste, marital status, or background. This law should give women the legal right to decide whether they want to have children, when to have them, and how to manage their fertility. (Nisha Ranjan, 2025) Access rules should be revised under the MTP Act. While the 2021 amendment extended abortion access for some women up to 24 weeks of pregnancy, decisions still heavily depend on doctors. (MTP Act, 2021) The law should trust women to make independent choices without needing multiple medical approvals (except in emergencies). Additionally, it should be made sure that all national laws and policies follow treaties like the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW) and the International Covenant on Economic, Social and Cultural Rights (ICESCR) alongwith setting up clear ways to check and fix any violations of maternal and reproductive rights. (UNHRC, 2024) To ensure this, independent monitoring and feedback systems should be set up with teams (including health experts, legal professionals, and members of civil society) at district or state levels that check whether hospitals and Primary Health Centres (PHCs) are following laws and policies related to sexual and reproductive health. The bodily contestation theory emphasizes how women's bodies are sites of social and political control. (Bordo, 1993) Accordingly, policies must shift from provider-centric models to ones that prioritise women’s bodily autonomy in order to ensure their right to make informed and independent decisions about contraception, abortion, and maternal care free from any coercion or paternalistic interference. Judicial activism should be encouraged to actively protect sexual and reproductive health (SRH) rights. Public interest litigations (PILs) and past cases can help ensure that marginalized women are not denied essential services. Each state should appoint a dedicated SRH ombudsperson to handle complaints (particularly from adolescents) who seek care without parental consent or face caste-based discrimination in healthcare.",
+     "Health System Strengthening and Service Delivery:-",
+     " According to NFHS-5 (2020–21), only about 56.5% of currently married women (15–49 years) use modern contraceptive methods and knowledge about emergency contraception remains alarmingly low. (IIPS & ICF, 2021) These gaps illustrate the systemic failure to guarantee reproductive agency, especially among young and rural women. To change this:",
+     "PHCs (Primary Health Centres) and smaller clinics should be equipped to offer not only pregnancy care, but provide full reproductive services i.e. safe abortion services, contraception, treatment of infections, and health education. (WHO, 2022) Medication abortion (using pills to terminate early pregnancies) should be made available at these centres as it doesn’t require advanced tools or hospitalization. For women who can't travel due to distance, cost, or restrictions, healthcare workers should deliver monthly door-to-door check-ups, especially in rural and tribal areas. Sexual and reproductive health (SRH) should be integrated into the Universal Health Coverage (UHC) agenda through a ‘progressive universalism’ approach that prioritizes those most at risk, such as young, poor, Dalit, and tribal women, rather than merely extending services uniformly to middle-class populations. (WHO, 2022) Many healthcare providers such as Auxiliary Nurse Midwives (ANMs) or Accredited Social Health Activists (ASHAs) need training to be more empathetic and informed to understand the unique needs of adolescents or Dalit and tribal women. It should include respect for consent, privacy, and non-judgmental care. There should be regular social audits and public meetings to check how well things are working. Civil society groups should be involved in reviewing gaps and making sure SPARSH (Sensitization, Prevention and Redressal of Sexual Harassment) rules are followed in healthcare. (MoHFW, 2021) Additionally, as seen during the COVID-19 pandemic, sexual and reproductive health services were often stopped. The government should stay prepared during emergencies and treat these as essential services even during crises to prevent more maternal deaths or unwanted pregnancies. (Ministry of Health, 2020) Most importantly, financial incentives should be directed with enough safeguards to ensure that care remains voluntary and of high quality. The government should allocate dedicated funds to set up adolescent-friendly SRH centers within Primary Health Centres (PHCs) that offer confidential services for menstruation, STIs, contraception, and mental health. To improve access to safe abortion, trained Registered Medical Practitioners (RMPs) at PHC level should be allowed to prescribe Medication Abortion (MA) drugs under the MTP Rules. This step would significantly reduce stigma and eliminate the need for women to travel long distances for basic reproductive care.",
+     "Community Engagement and Rights-Based Education:-",
+     " A key challenge is the normalisation of shame and silence around reproductive health in India particularly among unmarried women and gender minorities. Addressing this requires a cultural shift where bodily autonomy is not perceived as immoral but rather as essential to individual dignity and democracy.",
+     "Many women and adolescents do not know their reproductive rights or are afraid to ask for services because of social stigma. Rights-based education should be started by introducing Comprehensive Sexuality Education (CSE) in schools and community learning centres. This means teaching about puberty, consent, menstrual health, contraception, and gender equality in age-appropriate ways which should be available to both girls and boys. (UNESCO, 2024) Awareness campaigns should be introduced in regional languages by using radio, TV, social media, and local public meetings to tell women about their rights under laws like the MTP Act, while also clarifying that unmarried women and rape survivors can legally access abortions. (MoHFW, 2021) Safe spaces should be created to report abuse or denial wherein healthcare centres should put up clear information about complaint systems in local languages. If a woman is denied care or treated badly, she should know whom to contact and how to get help.",
+     "Rather than being utopian visions, these policies are doable within the infrastructure already available. For instance, expanding medication abortion pills is low-cost and can be done at the PHC level. District health offices already run monitoring visits which can be improved to focus on rights and treatment quality. Training and awareness programs already exist and they only need to include topics like consent, discrimination and inequality. (WHO, 2022) By focusing on real-life challenges, these suggestions help bridge the gap between paper policies and women's actual experiences. Most importantly, they make bodily autonomy and dignity a real part of India’s public health system and not just legal promises."
+    ]
+   },
+   {
+    heading: "Limitation and Implementation Challenges",
+    paragraphs: [
+     "While the proposed reforms are based on systems that already exist, putting them into action will need strong political support, enough funding, and better training, especially in rural areas where the health system is already stretched. Additionally, any changes in the law must take into account the possibility of social and cultural resistance. This is the reason it is equally important to invest in spreading awareness, educating people about their rights and involving communities in the process."
+    ]
+   }
   ],
-  "intro": [
-    "The foundation of bodily autonomy and gender equality is formed by sexual and reproductive health rights (SRHR).",
-    "Central to human rights lies SRHR, which not only encompasses access to healthcare services but also the right to make informed choices about one's body (United Nations Population Fund [UNFPA], 2022).",
-    "In India, the government’s unwavering commitments towards women’s reproductive health can be witnessed through several legal and policy initiatives.",
-    "The schemes include, Janani Suraksha Yojana (JSY), the Medical Termination of Pregnancy (MTP) Act along with its 2021 amendments, and other maternal healthcare schemes (Ministry of Health and Family Welfare [MoHFW], 2021).",
-    "In spite of these initiatives, there exists stark disparities in the implementation of these rights, especially for women from marginalized backgrounds, including adolescents, Dalits, and tribal communities.",
-    "Recent policy evaluations suggest that while India has improved certain reproductive health indicators such as reduced maternal mortality and increased institutional deliveries, qualitative aspects of care remain deeply compromised (Chatterjee, 2020).",
-    "This discrepancy is particularly evident in the gap between high-level policy commitments and the lived experiences of women at the grassroots level.",
-    "Studies increasingly reveal that social determinants such as caste, class, age, and geography play a crucial role in determining access to reproductive healthcare (Deshpande, 2022).",
-    "Women from Dalit and tribal backgrounds often face layered marginalization in the form of institutional discrimination, infrastructural deficits, provider apathy, and limited awareness about their reproductive rights (Raj et al., 2023).",
-    "Moreover, healthcare providers' attitudes and systemic biases frequently result in the denial or delay of services like safe abortion, contraception, and maternal care (Kumar & Rai, 2021).",
-    "In many instances, services provided under schemes like JSY tend to reduce women to mere statistical targets, sidelining their autonomy and preferences.",
-    "The focus on numerical achievements in public health metrics has diverted attention away from more complex, intersectional issues of dignity, agency, and consent in reproductive healthcare delivery (Chatterjee, 2020).",
-    "Consequently, the promise of universal reproductive rights remains an illusion for large sections of marginalized women in India."
+  conclusion: [
+   "This paper investigates critically the ongoing discrepancy in the execution of India's reproductive health policies at the local level. Systemic barriers based on caste, class, gender, and geography still affect marginalized groups, especially Dalit, tribal women, and adolescents, even in the face of progressive legal frameworks like the Medical Termination of Pregnancy (MTP) Act and programs like Janani Suraksha Yojana (JSY). In India, health policy frequently \"gets trapped between technocratic planning and political inaction,\" as Dr. Ritu Priya points out, leading to inefficient service delivery. The authors point out that unsafe abortions continue to be a serious problem, contributing to over 15,000 maternal fatalities every year, primarily as a result of stigma and legal illiteracy (Shivani Nag & Flavia Agnes).",
+   "The study highlights the disparity between public and private sectors in reproductive healthcare, where social justice is subordinated to market-driven goals, resulting in unequal access. The results of primary surveys show a general lack of knowledge of schemes, prejudice against unmarried women, and obstacles such provider bias and privacy concerns.",
+   "To close the gap between policy and practice, it is suggested that rights-based education, institutional reforms, and enhanced legal responsibility be taken up. A case for a change toward empowering women's bodily autonomy, comprehensive sexuality education, and sensitive healthcare delivery, citing Kimberlé Crenshaw's intersectionality paradigm, is made. In order to ensure that everyone has meaningful access to sexual and reproductive health rights, the paper advocates for a comprehensive, inclusive strategy."
   ],
-  "problemStatement": [
-    "This paper addresses these critical gaps by adopting a qualitative inquiry into how reproductive health policies are implemented in practice.",
-    "Using content analysis of policy documents, a review of secondary literature, and semi-structured interviews with affected women and healthcare providers; it investigates how systemic biases, infrastructural shortcomings, and socio-cultural barriers collectively obstruct marginalized women from accessing dignified reproductive care.",
-    "In doing so, the study confronts a central paradox: despite the presence of progressive reproductive health policies in India, marginalized women, particularly adolescents, Dalits, and tribal women continue to experience systemic exclusions that undermine their reproductive autonomy.",
-    "By highlighting the disconnect between policy narratives and lived experiences, the paper aims to bridge this gap in scholarly discourse and policy evaluation, contributing towards a more grounded understanding of reproductive rights that goes beyond numerical outreach to address structural and attitudinal inequalities within India’s healthcare system."
-  ],
-  "researchObjectives": [
-    "To examine how reproductive health policies in India are implemented at the grassroots level.",
-    "To analyze systemic biases, infrastructural shortcomings, and socio-cultural barriers affecting marginalized women’s access to reproductive healthcare.",
-    "To explore the intersectional realities of caste, class, age, and geography in shaping reproductive healthcare access.",
-    "To provide policy recommendations aimed at ensuring inclusive and equitable reproductive health rights."
-  ],
-  "researchQuestions": [
-    "How do systemic biases and infrastructural shortcomings obstruct marginalized women’s access to reproductive health rights in India?",
-    "What role do caste, class, age, and geography play in influencing healthcare access?",
-    "How do healthcare provider attitudes and institutional practices affect women’s reproductive autonomy?",
-    "What reforms are necessary to align reproductive health policies with lived experiences at the grassroots level?"
-  ],
-  "thematicLiteratureReview": [
-    "A large body of literature points to the gap between policy intent and outcomes in India’s reproductive healthcare.",
-    "Studies by Chatterjee (2020) and Deshpande (2022) indicate that although legal reforms such as the MTP Amendment 2021 expanded abortion access, on-ground enforcement is weak, especially in rural and marginalized communities.",
-    "Kumar & Rai (2021) show how provider biases and lack of sensitization obstruct adolescent girls and Dalit women from accessing safe abortion services despite legal entitlement.",
-    "Global comparative studies also highlight similar trends in low- and middle-income countries where numerical targets dominate policy evaluation at the cost of lived experiences (World Health Organization, 2021).",
-    "This thematic review highlights three consistent findings: first, policy frameworks remain disconnected from intersectional realities; second, reproductive health schemes tend to over-prioritize institutional delivery without addressing autonomy; and third, marginalized women continue to experience exclusion due to institutional apathy, infrastructural scarcity, and socio-cultural prejudice.",
-    "Together, these studies reinforce the importance of moving beyond quantitative assessments to qualitative, dignity-centered evaluations of reproductive healthcare delivery in India."
-  ],
-  "methodology": [
-    "This study employs a qualitative research design combining content analysis, secondary literature review, and semi-structured interviews.",
-    "Content analysis of key policy documents such as JSY guidelines, MTP Act amendments, and maternal healthcare frameworks was undertaken to identify policy priorities and gaps.",
-    "Secondary sources, including academic articles, government reports, and NGO publications, were reviewed to contextualize the policy landscape and existing critiques.",
-    "Semi-structured interviews were conducted with a small sample of women from Dalit and tribal communities and with healthcare providers to capture lived experiences and institutional perspectives.",
-    "The analysis follows a thematic approach, coding data around recurring issues of institutional bias, infrastructural inadequacies, and socio-cultural exclusion.",
-    "Ethical considerations were followed by ensuring anonymity of participants and informed consent.",
-    "Limitations of this methodology include the small sample size and reliance on reported experiences, which may not fully represent the diversity of India’s reproductive healthcare challenges."
-  ],
-  "content": [
-    {
-      "theme": "Institutional Bias in Healthcare Delivery",
-      "paragraphs": [
-        "Despite progressive policies, institutional bias remains a key obstacle in accessing reproductive health services.",
-        "Dalit and tribal women often reported discriminatory treatment in government hospitals where their concerns were deprioritized compared to upper caste patients.",
-        "Provider attitudes, shaped by caste prejudice and gender stereotypes, frequently resulted in denial of abortion services to adolescent girls under the guise of moral judgment.",
-        "This systemic bias not only violates women’s reproductive rights but also discourages them from seeking institutional healthcare, pushing them toward unsafe alternatives."
-      ]
-    },
-    {
-      "theme": "Infrastructure Deficits and Accessibility",
-      "paragraphs": [
-        "Physical access to reproductive health services remains limited in rural and tribal areas due to inadequate healthcare infrastructure.",
-        "Primary Health Centres (PHCs) and Community Health Centres (CHCs) often lack trained gynecologists, safe abortion equipment, and essential medicines.",
-        "Even where services are available, irregular electricity, lack of transport, and insufficient privacy deter women from availing themselves of reproductive healthcare.",
-        "This infrastructural deficit disproportionately affects marginalized communities who lack the resources to access private healthcare facilities."
-      ]
-    },
-    {
-      "theme": "Socio-Cultural Barriers and Awareness",
-      "paragraphs": [
-        "Beyond systemic bias and infrastructural inadequacies, socio-cultural norms continue to restrict women’s reproductive autonomy.",
-        "Patriarchal family structures, lack of spousal support, and fear of social stigma discourage women from seeking services such as contraception and abortion.",
-        "Adolescent girls face heightened vulnerability due to lack of awareness, limited mobility, and fear of disclosure, which often leads to unsafe practices.",
-        "These socio-cultural barriers intersect with caste and class hierarchies, further marginalizing women who are already disadvantaged within the healthcare system."
-      ]
-    },
-    {
-      "theme": "Policy Implementation Gaps",
-      "paragraphs": [
-        "Schemes like Janani Suraksha Yojana (JSY) emphasize institutional delivery as a metric of success but fail to account for the quality of maternal care provided.",
-        "Women reported that the monetary incentives under JSY often led to coercive practices where their consent and preferences were overlooked.",
-        "The Medical Termination of Pregnancy (MTP) Act amendments, while legally progressive, are unevenly implemented due to lack of awareness among providers and fear of legal repercussions.",
-        "Such gaps highlight the persistent disconnect between legal frameworks and their grassroots realization."
-      ]
-    }
-  ],
-  "conclusion": [
-    "This study reveals that while India has progressive reproductive health policies on paper, systemic barriers continue to undermine their implementation.",
-    "Institutional bias, infrastructural inadequacies, and socio-cultural constraints intersect to deny marginalized women meaningful access to sexual and reproductive health rights (SRHR).",
-    "Legal reforms such as the MTP Amendment and schemes like JSY and PMMVY have expanded formal entitlements but fall short of addressing the lived realities of Dalit, tribal, and adolescent women.",
-    "The findings suggest that policy success should not only be measured in terms of numerical indicators like institutional delivery rates but also in terms of autonomy, dignity, and inclusivity.",
-    "To move from paper to practice, reproductive health policies must be supplemented with structural reforms aimed at equitable resource distribution, sensitization training for providers, and mechanisms of accountability to prevent discrimination.",
-    "Strengthening grassroots infrastructure, promoting awareness, and integrating intersectional perspectives into healthcare planning are crucial to bridging the gap between reproductive health entitlements and real-world access."
-  ],
-  "acknowledgements": [
-    "The authors are grateful to the women who shared their lived experiences, making this study possible.",
-    "We acknowledge the guidance of mentors and faculty who provided constructive feedback during the research process.",
-    "We also thank organizations and institutions whose reports and data provided valuable insights for this study."
-  ],
-  "references": [
-    {
-      "heading": "Chatterjee, P. (2020). Reproductive health inequalities in India: An intersectional analysis.",
-      "links": "https://example.com/chatterjee2020"
-    },
-    {
-      "heading": "Deshpande, A. (2022). Gender, caste, and access to healthcare in India.",
-      "links": "https://example.com/deshpande2022"
-    },
-    {
-      "heading": "Kumar, S., & Rai, R. (2021). Provider attitudes and barriers to safe abortion access in India.",
-      "links": "https://example.com/kumarrai2021"
-    },
-    {
-      "heading": "Ministry of Health and Family Welfare. (2021). Janani Suraksha Yojana and maternal healthcare schemes.",
-      "links": "https://example.com/mohfw2021"
-    },
-    {
-      "heading": "Raj, A., et al. (2023). Intersectionality and reproductive healthcare: Insights from India.",
-      "links": "https://example.com/raj2023"
-    },
-    {
-      "heading": "United Nations Population Fund (UNFPA). (2022). Sexual and reproductive health and rights: Global perspective.",
-      "links": "https://example.com/unfpa2022"
-    },
-    {
-      "heading": "World Health Organization. (2021). Quality of care in sexual and reproductive health services.",
-      "links": "https://example.com/who2021"
-    }
+  references: [
+   {
+    heading: "Ajaz, M., & Dar, M. A. (2024). Reproductive rights in India: A comprehensive analysis of laws and policies. International Journal of Legal Science and Innovation, 6(3), 379–396.",
+    link: "https://ijlsi.com/wp-content/uploads/Reproductive-Rights-in-India-A-Comprehensive-Analysis-of-Laws-and-Policies.pdf"
+   },
+   {
+    heading: "Ghose, A., Inamdar, P., & Bagchi, P. (2022). Reproductive health of women in India: A sociological and legal overview. International Journal of Health Sciences, 6(S4), 11917–11927.",
+    link: "https://sciencescholar.us/journal/index.php/ijhs/article/download/11422/8689/8804"
+   },
+   {
+    heading: "Sharma, S. (2015). Reproductive rights and women’s health in India: A new prospective. Indian Socio-Legal Journal.",
+    link: ""
+   },
+   {
+    heading: "Sen, G., & Govender, V. (2015). Sexual and reproductive health and rights in changing health systems. Global Public Health, 10(2), 228–242.",
+    link: "https://idl-bnc-idrc.dspacedirect.org/server/api/core/bitstreams/9305fcd0-d04a-4fd4-9643-8360487cc134/content"
+   },
+   {
+    heading: "Das, S. (2025). Reproductive health rights of women in India. Journal of Emerging Technologies and Innovative Research (JETIR), 12(3), 495–500.",
+    link: "https://www.jetir.org/papers/556835.pdf"
+   },
+   {
+    heading: "World Health Organization. (2023). Achieving gender equality and sexual and reproductive health and rights (SRHR). In HRP annual report 2022. World Health Organization.",
+    link: "https://www.jstor.org/stable/resrep56762.13"
+   },
+   {
+    heading: "Ministry of Health and Family Welfare (MoHFW), Government of India. (2017). National Health Policy 2017.",
+    link: "https://main.mohfw.gov.in"
+   },
+   {
+    heading: "Banerjee, A. (2022). All India Rural Health Statistics 2021–22.",
+    link: "Ministry of Health and Family Welfare"
+   },
+   {
+    heading: "Duggal, R. (2014). \"The Political Economy of Health Care in India: Toward a Rights-Based Approach\". Social Scientist, 42(11–12), 17–25.",
+    link: ""
+   },
+   {
+    heading: "Seth, A. (April 28, 2022). Sexual and Reproductive Health Rights (SRHR) in India. The Times of India.",
+    link: "https://timesofindia.indiatimes.com/blogs/nonpartisan-perspectives/sexual-and-reproductive-health-rights-srhr-in-india-part-1/"
+   },
+   {
+    heading: "UNFPA India. (10 July 2025). An Analysis of Sexual and Reproductive Health Inequities in India: Big Push to Leave No One Behind.",
+    link: "https://india.unfpa.org/en/publications/analysis-sexual-and-reproductive-health-inequities-india-big-push-leave-no-one-behind"
+   },
+   {
+    heading: "Banerjee, S. (2022, November 9). Battleground Body: Sexism and the right to safe abortions in India.",
+    link: "https://science.thewire.in/health/safe-abortion-access-sexism/"
+   },
+   {
+    heading: "Chowdhury, Dr. (2021). REPRODUCTIVE RIGHTS OF THE INDIAN WOMEN: AN ANALYSIS. In Women’s Rights are Human Rights: Role of Non-State Actors. Patna Women’s College Publications.",
+    link: ""
+   },
+   {
+    heading: "Dahiya, H. (2018). NATIONAL HEALTH POLICY OF INDIA. International Journal of Recent Scientific Research, 9(7(B)), 27842–27844.",
+    link: ""
+   },
+   {
+    heading: "Diamondstein, M. (2021, September 27). Abortion in India: Report reveals widespread legal barriers and recommends ways to improve access. Center for Reproductive Rights.",
+    link: "https://reproductiverights.org/report-barriers-india-abortion-access/#:~:text=A%20recent%20fact-finding%20report%20by%20the%20Center%20for,account%20for%208-10%25%20of%20maternal%20deaths%20in%20India"
+   },
+   {
+    heading: "Ghose, A., Inamdar, P., & Bagchi, P. (2022). Reproductive health of women in India. International Journal of Health Sciences, 11917–11927.",
+    link: ""
+   },
+   {
+    heading: "Kohli, N. (2008, August 9). Most unsafe abortions in India | Latest News India - Hindustan Times. Hindustan Times.",
+    link: "https://www.hindustantimes.com/india/most-unsafe-abortions-in-india/story-UhtYsSeiNpCwMaO4TO3pjI.html?"
+   },
+   {
+    heading: "Kuldeep. (2025, March 12). ASHA: Inspiring change in rural healthcare in India. Raj Medical.",
+    link: "https://rajmedical.co.in/accredited-social-health-activist-asha/"
+   },
+   {
+    heading: "Mishra, P. S., Kumar, P., & Srivastava, S. (2021). Regional inequality in the Janani Suraksha Yojana coverage in India: a geo-spatial analysis. International Journal for Equity in Health, 20(1).",
+    link: "https://doi.org/10.1186/s12939-020-01366-2"
+   },
+   {
+    heading: "Mishra, P. S., Veerapandian, K., & Choudhary, P. K. (2021). Impact of socio-economic inequity in access to maternal health benefits in India: Evidence from Janani Suraksha Yojana using NFHS data. PLoS ONE, 16(3), e0247935.",
+    link: "https://doi.org/10.1371/journal.pone.0247935"
+   },
+   {
+    heading: "Narang, M. (2024). Reclaiming Rights: Analysis of sexual and reproductive health rights from global and Indian perspectives. INTERNATIONAL JOURNAL OF HUMAN RIGHTS LAW REVIEW, 3(6), 53–59.",
+    link: ""
+   },
+   {
+    heading: "Pillai, N. (2024, July 1). Janani Suraksha Yojana Scheme – Eligibility, Benefits & More. Impact Guru.",
+    link: "https://www.impactguru.com/info/janani-suraksha-yojana-jsy/"
+   },
+   {
+    heading: "Release of SDG India Index 2023-24. (n.d.).",
+    link: "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2032857"
+   },
+   {
+    heading: "Seth, A. (2022a, April 28). Sexual and Reproductive Health Rights (SRHR) in India [Part 1]. Times of India Voices.",
+    link: "https://timesofindia.indiatimes.com/blogs/nonpartisan-perspectives/sexual-and-reproductive-health-rights-srhr-in-india-part-1/"
+   },
+   {
+    heading: "Chatterjee, S. (2020). Reproductive justice in India: A review of policies and practices. Indian Journal of Gender Studies, 27(2), 231–250.",
+    link: ""
+   },
+   {
+    heading: "Deshpande, M. (2022). Caste, class and reproductive health: Examining intersectional inequalities in India. Economic & Political Weekly, 57(12), 40–47.",
+    link: ""
+   },
+   {
+    heading: "Kumar, R., & Rai, P. (2021). Healthcare provider bias and its impact on reproductive health services in rural India. Social Science & Medicine, 289, 114373.",
+    link: ""
+   },
+   {
+    heading: "Ministry of Health and Family Welfare. (2021). The Medical Termination of Pregnancy (Amendment) Act, 2021. Government of India.",
+    link: ""
+   },
+   {
+    heading: "Raj, A., Dasgupta, A., Silverman, J. G., & Gupta, J. (2023). Addressing health-system barriers to reproductive autonomy for Dalit and tribal women in India. The Lancet Global Health, 11(5), e622–e630.",
+    link: ""
+   },
+   {
+    heading: "United Nations Population Fund. (2022). State of world population 2022: Seeing the unseen.",
+    link: ""
+   }
   ]
-},
-
-{
-  "id":12,
-  "serialNumber":48,
-  "issueNo": 4,
-  "volume": 1,
-  "title": "The Impact of Trump-Era U.S. Migration Policy on Humanitarian Protections, Global Inequalities, and International Legal Frameworks",
-  "author": [
-    "Christabel Okoroafor",
-    "Anushka Pandey",
-    "Natalie Joseph",
-    "Ceren Kale",
-    "Akshara Shukla",
-    "Chibudom Ironuru"
+ },
+ {
+  id: 12,
+  serialNumber: 48,
+  issue: 4,
+  volume: 1,
+  title: "The Impact of Trump-Era U.S. Migration Policy on Humanitarian Protections, Global Inequalities, and International Legal Frameworks",
+  author: "Christabel Okoroafor; Anushka Pandey; Natalie Joseph; Ceren Kale; Akshara Shukla; Chibudom Ironuru",
+  authorAbbrev: "Ch. Okoroafor; A. Pandey; N. Joseph; C. Kale; A. Shukla; Ch. Ironuru",
+  abstract: [
+   "Migration is a fundamental aspect of human history, driven by the search for survival, security, and opportunity. From the earliest movements out of East Africa to contemporary global flows, migration patterns have always reflected deeply embedded political, economic, and environmental dynamics. In the modern era, migration is shaped by “push” factors such as conflict, poverty, and climate change, and “pull” factors like economic opportunity and safety. However, these movements are not merely personal choices—they symbolize persistent global inequalities, particularly between the Global North and South. Statistics reveal that while 37% of migration occurs between Southern nations, corridors such as Mexico–U.S. and Africa–Europe underscore the influence of geopolitical alliances, policy disparities, and entrenched systemic inequalities.",
+   "The study of U.S. migration policy offers a powerful lens into these broader forces. Recent years have witnessed profound shifts, especially under the Trump administration, which implemented sweeping rollbacks on humanitarian protections. Policies like the “Zero-Tolerance” family separation initiative, the “Remain in Mexico” protocol, travel bans targeting Muslim-majority and African countries, and narrowing of asylum eligibility marked a stark departure from prior commitments to refugee and asylum rights. These measures resulted in widespread family separation, increased deportations, and fueled an atmosphere of fear and exclusion for migrants and asylum seekers.",
+   "Moreover, the Trump administration’s approach has had long-term reverberations—weakening institutional capacity, fueling backlogs, and politicizing immigration agencies. Even as the Biden administration has attempted to reverse some of these policies, structural barriers and the legacy of enforcement-first strategies persist, complicating efforts toward humane migration justice and reform. The implications extend beyond the U.S., altering global attitudes and contributing to a backlash against multilateral cooperation on migration issues. As migration remains a key site of contestation and negotiation, achieving genuine change will require not just policy reversal but structural transformation to address the deep-rooted inequalities, uphold human rights, and rebuild trust in migration governance."
   ],
-  "authorAbbrev": [
-    "Christabel¹",
-    "Anushka²",
-    "Natalie³",
-    "Ceren⁴",
-    "Akshara⁵",
-    "Chibudom⁶"
-  ],
-  "status": "Submitted",
-  "abstract": [
-    "Migration is a fundamental aspect of human history, driven by the search for survival, security, and opportunity.",
-    "From the earliest movements out of East Africa to contemporary global flows, migration patterns have always reflected deeply embedded political, economic, and environmental dynamics.",
-    "In the modern era, migration is shaped by push factors such as conflict, poverty, and climate change, and pull factors like economic opportunity and safety.",
-    "However, these movements are not merely personal choices—they symbolize persistent global inequalities, particularly between the Global North and South.",
-    "Statistics reveal that while 37% of migration occurs between Southern nations, corridors such as Mexico–U.S. and Africa–Europe underscore the influence of geopolitical alliances, policy disparities, and entrenched systemic inequalities.",
-    "The study of U.S. migration policy offers a powerful lens into these broader forces.",
-    "Recent years have witnessed profound shifts, especially under the Trump administration, which implemented sweeping rollbacks on humanitarian protections.",
-    "Policies like the Zero-Tolerance family separation initiative, the Remain in Mexico protocol, travel bans targeting Muslim-majority and African countries, and narrowing of asylum eligibility marked a stark departure from prior commitments to refugee and asylum rights.",
-    "These measures resulted in widespread family separation, increased deportations, and fueled an atmosphere of fear and exclusion for migrants and asylum seekers.",
-    "Moreover, the Trump administration’s approach has had long-term reverberations—weakening institutional capacity, fueling backlogs, and politicizing immigration agencies.",
-    "Even as the Biden administration has attempted to reverse some of these policies, structural barriers and the legacy of enforcement-first strategies persist, complicating efforts toward humane migration justice and reform.",
-    "The implications extend beyond the U.S., altering global attitudes and contributing to a backlash against multilateral cooperation on migration issues.",
-    "As migration remains a key site of contestation and negotiation, achieving genuine change will require not just policy reversal but structural transformation to address the deep-rooted inequalities, uphold human rights, and rebuild trust in migration governance."
-  ],
-  "keywords": [
+  keyword: [ 
     "Trump-era migration policy",
     "humanitarian protections",
     "asylum rollbacks",
     "global inequalities",
     "international legal frameworks"
+],
+  status: "Submitted",
+  intro: [],
+  content: [
+   {
+    heading: "Research objectives",
+    paragraphs: [
+     "1. How did Trump-era U.S. migration policies affect humanitarian protections, asylum processes, and migrant communities?",
+     "2. How do global inequalities between the Global South and North shape migration flows and policies, especially in key corridors like Mexico-U.S. and Africa-Europe?",
+     "3. What impact do U.S. migration policy changes have on international legal frameworks and global cooperation on migration?"
+    ]
+   },
+   {
+    heading: "Methodology",
+    paragraphs: [
+     "This research uses a mix of two approaches looking at numbers and facts (quantitative) and exploring stories and experiences (qualitative). We will study migration data, government policies, and also include interviews and document reviews. Combining these methods helps us understand both the big picture of migration trends and the personal experiences of migrants, giving us a clearer and fuller view of the situation."
+    ]
+   },
+   {
+    heading: "Thematic Literature Review",
+    paragraphs: [
+     "The provided research overviews the multifaceted and complex dynamics of global migration, focusing on the U.S. and its policy shifts. The introduction and core findings establish a theoretical foundation for understanding migration, highlighting it as a historical constant shaped by \"push\" and \"pull\" factors, but also as a reflection of deep-seated global inequalities. The literature, including works by Georgiana FlorentinaTataru and Jennifer Hyndman, positions migration within a geopolitical context, with disparities between the Global South and North driving significant flows. The mention of the Migration Policy Institute’s statistics on South-South versus South-North migration corridors reinforces this point, underscoring the influence of economic disparities and geopolitical alliances. The review of Trump-era policies, drawing on various sources like AP News and The Guardian, provides a detailed account of specific measures such as the \"Zero-Tolerance\" and \"Remain in Mexico\" policies. These sections emphasize the severe humanitarian consequences of these policies, including family separations and the erosion of asylum protections. The Long-Term Legacy and DEI implications sections extend this analysis, citing sources like the Brookings Institution and the National Immigration Law Center (NILC) to argue that these policies have had a lasting, detrimental impact on institutional capacity and the principles of Diversity, Equity, and Inclusion (DEI). The final section, International Legal Frameworks, broadens the scope to international relations, detailing how U.S. policies influenced other countries and weakened global cooperation on migration, with references from Amnesty International and the American Immigration Council. Overall, the literature collectively paints a picture of migration as a political and social phenomenon, deeply affected by policy choices that have far-reaching humanitarian and international consequences."
+    ]
+   },
+   {
+    heading: "CORE FINDINGS",
+    paragraphs: [
+     "The Politics of Migration:",
+     "Migration is as old as humanity itself, but it has always been rooted in survival, whether it is for food, security, or opportunity. From early human movement out of East Africa to the transatlantic slave trade, migration has long been shaped by political, economic, and environmental factors.",
+     "Today, migration refers to the movement of people within and across borders, driven by “push” factors (conflict, poverty, climate change) or “pull” factors (economic opportunity, safety). But migration is not merely individual, but it reflects deep structural inequalities between the Global South and Global North. World-systems theory explains how core countries prosper at the expense of peripheral ones, fueling South-North migration and inequalities. It is important that we have a clear understanding of global migration as not just the movement or mobility from Global South to the Global North but a more complex system shaped by history, geopolitics and economic disparities.",
+     "The Migration Policy Institute states that South-South migration accounts for 37% of global migration, followed by South-North (35%), North-North (19–23%), and North-South (6%). Migration corridors like Mexico to the U.S. or Africa to Europe, which has continuously highlighted the geopolitical alliances preferences and the various inequalities. The Henley Passport Index shows vast disparities in travel freedom across countries, detailing how one's predetermined origin determines their travel liberty, with many countries in the Global South remaining restricted from going to all destinations. Visas favour the wealthy and educated while criminalizing other migrants.",
+     "Migration policies also reveal a moral complexity in global immigration. Under the Trump administration, U.S. policies, for instance, have welcomed white immigrants (i.e. 59 white South Africans accepted in 2025) while criminalizing migrants from Latin America and Africa (PBS News, 2025; Al Jazeera, 2025; DW, 2025). Family reunification processes were disrupted, and travel bans were implemented for citizens of several Muslim-majority and African countries. These policies were subject to legal challenges and were briefly reversed and reinstated across the Trump and Biden administrations. The use of tactics by U.S. Immigration and Customs Enforcement (ICE), such as mass raids and detention without legal counsel, has been criticized by organizations like Human Rights Watch. Their findings suggest that enforcement has disproportionately targeted Black, Asian, and Hispanic individuals, raising questions about compliance with SDG 10, Target 10.7, which aims to facilitate safe and responsible migration. This raises a crucial question: where is the line between national security and the principles of justice and human rights?",
+     "Ultimately, migration is a geopolitical issue, where countries use immigration policies to shape alliances, economic strategies, and foreign policy. Borders and immigration policies are not neutral; they reflect a nation's stance on refugee acceptance, visa approval, and the travel freedom of migrants from the Global South. These borders are often racialized and militarized, reflecting deep-seated biases based on a migrant's wealth and country of origin. While SDG 10 seeks to reduce these gaps, current migration frameworks often reinforce them, leaving the \"American Dream\" more of a myth than a reality for many.",
+     "Asylum and Refugee Policy Rollbacks under Trump:",
+     " The Trump-era rollbacks on asylum and refugee protections marked a sharp departure from longstanding U.S. humanitarian commitments. A centerpiece of this shift was the “Zero-Tolerance” policy, which led to mass family separations at the southern border. Intended as a deterrence strategy, it resulted in thousands of children being forcibly separated from their families. Subsequent court findings and psychological research highlighted enduring mental health effects such as PTSD, anxiety, and disrupted attachment—often persisting long after reunification.",
+     "The “Remain in Mexico” policy (Migrant Protection Protocols) further intensified the crisis by requiring asylum seekers—including vulnerable families—to wait in dangerous, unsanitary camps along the U.S.–Mexico border while their claims were processed. Many were denied legal representation, severely undermining their right to due process. Simultaneously, policies denying claims based on gang or domestic violence and restricting access for migrants who traveled through third countries further narrowed asylum eligibility.",
+     "Additionally, the administration drastically slashed refugee admissions and enforced travel bans that targeted several Muslim-majority and African countries, even attempting to block refugees already cleared for resettlement. Many of these actions were blocked by courts, reaffirming the primacy of congressional mandates over executive overreach. Legal challenges also arose over expedited removals and mass arrests of asylum seekers.",
+     "These policies drew sharp criticism from human rights organizations, legal experts, and the public. Surveys now show that 79% of Americans support immigration and favor more humane reforms. Critics argue that the rollbacks were less about national security and more about advancing an ideologically driven, racialized immigration agenda.",
+     "Ultimately, these measures reshaped U.S. asylum and refugee policy, raising urgent questions about executive power, legal protections, and America’s global role in upholding human rights. The legal and moral battles sparked during this era continue to influence contemporary immigration reform discourse.",
+     "The U.S.–Mexico Border Crisis: ICE and Deportation:",
+     " The study of contemporary American politics and policy confirms that borders do indeed matter. In the immediate aftermath of the terrorist attacks of September 11, 2001, the United States closed its land borders and airspace, asserting control over US territory while concomitantly disrupting continental trade relations. This event highlighted the need to develop “smarter” border security policies that would allow goods to continue to flow freely. Given the recent prominence of US–Mexico border security in American electoral politics, and given that cognate issues such as immigration policy and defense spending have been researched extensively, it is surprising that public opinion research has paid little attention to America's borders. Even though scholars have noted that the map-image of the state and the lines that demarcate the limits of state territory are imprinted on public consciousness. The dynamics and scale of migration in and throughout the Americas have changed since the COVID-19 pandemic. Millions of migrants and displaced people are arriving every year to the U.S.-Mexico border, hailing not just from Mexico and northern Central America, but also from countries further south and from across the globe.Although the COVID-19 pandemic, which began in 2020, likely contributed to a significant drop in immigration that year, undocumented immigration at the US-Mexico border surged and broke records in subsequent years, with unauthorized border crossings reaching over two million in both 2022 and 2023. So far, in 2024, encounter numbers have decreased overall, but they remain high for certain countries. In the first five months of the year, CBP agents encountered more than nine hundred thousand migrants and asylum seekers at the U.S.-Mexico border. The majority hailed from just six countries: Mexico, Guatemala, Venezuela, Cuba, Ecuador, and Colombia, in descending order. A 2022 UN International Organization for Migration survey found that 90 percent of Mexican migrants left the country due to violence, extortion, or organized crime. The United States and Mexico have historically cooperated on countering organized crime, but during the six-year term of outgoing Mexican President Andrés Manuel LópezObrador, Mexico’s federal government often took a hands-off approach to cartels and gangs, allowing them to expand their territorial presence. Meanwhile, bilateral security cooperation has faltered.",
+     "Long-Term Legacy of Trump-Era Migration Policies: ",
+     "The Trump administration's immigrationpolicies left a lasting mark on the American system, systematically dismantling humanitarian protections and aggressively expanding enforcement. Measures like the \"zero tolerance\" policy, which led to family separations at the border, the \"Remain in Mexico\" program, and the broad application of the \"public charge\" rule, were designed to deter immigration and create a more precarious existence for undocumented individuals in the U.S. (Hacking Law Practice, n.d.). This period saw a dramatic increase in deportations and a deliberate erosion of due process for asylum seekers, fostering an atmosphere of fear and uncertainty within immigrant communities nationwide (NILC, 2025).",
+     "Upon assuming office, the Biden administration pledged to reverse these restrictive policies and move towards a more humane and orderly immigration system. Indeed, Biden halted border wall construction, rescinded the controversial travel ban targeting Muslim-majority countries, and affirmed protections for DACA recipients (American Journal of International Law, n.d.). However, a complete reversal has proven difficult. While some policies were swiftly overturned, others, like the institutional capacity for expedited deportations and deeply embedded enforcement mechanisms, have been harder to dismantle. The Biden administration has, at times, faced pressure to maintain aspects of the previous administration's stricter border control, as demonstrated by its recent executive order to shut down the border if crossings exceed a certain threshold (White House Briefing, 2024).",
+     "The enduring impact of the Trump era extends beyond individual policies to the institutional damage inflicted upon agencies such as U.S. Citizenship and Immigration Services (USCIS) and Immigration and Customs Enforcement (ICE). Staffing reductions, a focus on enforcement over service, and the politicization of immigration processes have resulted in backlogs and diminished the capacity for fair and efficient case adjudication (Brookings Institution, 2025). This institutional scarring presents a significant obstacle to the future of migration justice—a framework that champions the rights, dignity, and fair treatment of all individuals, regardless of their migratory status (Human Rights Law Centre, n.d.).",
+     "Moving forward, achieving genuine migration justice demands not only the reversal of harmful policies but also a fundamental rebuilding of trust and capacity within the immigration system. It necessitates addressing the root causes of migration, investing in humane reception and processing, and establishing accessible pathways to legal status. Without a concerted effort to repair the institutional damage and prioritize human rights, the shadow of Trump-era policies will continue to loom large, complicating efforts to build a truly just and equitable immigration system.",
+     "U.S. Immigration Policy Under Trump in 2025 and its Implications for DEI: President Trump’s 2025 administration marks a harsh shift toward restrictive and punitive measures on immigration policies. This narrative not only affects humanitarian protections but also the broader landscape of Diversity, Equity, and Inclusion (DEI) in American society.",
+     "Policy Landscape:",
+     " Policies like the end of safe passage, the mass deportations with reduced oversight by courts, have created humanitarian crises and exclusion of vulnerable groups seeking asylum or refuge. The elimination of categorical humanitarian protections such as Temporary Protected Status (TPS) and DACA leave populations with long-lasting community ties on the margins while ending direct support for victims of violence and persecution. The use of ideological vetting of visa applicants closes the door on those whose prospective entry is based on an assumption of their political stances and threatens civil liberties for those fleeing from authoritarian regimes or other forms of oppression.",
+     "DEI Implications:",
+     " These actions reflect a dismantling of DEI values that have shaped U.S. immigration over the last few decades. By limiting not only who can enter the U.S., but also who is provided any of the protections afforded by the U.S., the administration rolled back momentum toward the goal of increasing racial, ethnic, and ideological diversity. ",
+     "Diversity: Limitations on entry for certain nationals, and the elimination of diversity components, undermine efforts to grow, sustain, and maintain a diverse and multicultural society and decreases global representation within the U.S. population.",
+     " Equity: The opposite of equity, the reductions in humanitarian protections target low-income, marginalized, or high-risk communities and perpetuate cycles of disadvantage in reference to existing race, ethnicity, and national origins. ",
+     "Inclusion: The hostile environment for immigrants, enhanced interior enforcement, increased raids in sensitive places, and targeting of mixed-status families generates fear and exclusionary practices, and disrupts the social fabric in the community by reducing the opportunity for integration.",
+     "International Legal Frameworks and Institutional Backlash:",
+     " As a result of Trump’s harsh migration policies, a number of countries have put in place similar migration policies that also serve to discriminate against migrants and hamper their welfare. These countries’ policies sometimes differ in the sense that some of these policies are a result of direct compulsion by the US government, while some others are simply in existence due to the ideological similarities between Trump and the countries’ heads of state.",
+     "For example, the governments of Guatemala, El Salvador and Honduras in 2019, were pressured by the Trump administration to sign what were called “safe third country agreements” (Amnesty International, 2020). These agreements, one could say, formed part of these three countries’ migration policy as they were in essence, supposed to open their borders and let in thousands of deportees (who are citizens of the other countries) from the United States. Thankfully, the Covid-19 pandemic and lockdown, stopped the agreement from being implemented, although, that with Guatemala was put into effect for some months(American Immigration Council, 2021). On the other hand, countries with right-leaning governments such as Hungary, Italy, Germany, Austria have followed the lead of Trump and put in place similarly harsh migration policies or have engaged in Trump-like anti-immigration rhetoric.",
+     "Asides from influencing specific countries, Trump has also done damage to existing international norms and frameworks. From the 2017 decision to end US participation in the Global Compact on Migration (GCM) which dealt a big blow to global efforts towards multilateralism in global migration policy decisions, to views concerning undocumented migrants which serve to criminalize them and associate them with violence (Chavez, et al., 2023). This has made the efforts of well-meaning governments and institutions a lot less effective as many people in the global north are becoming anti-immigration."
+    ]
+   }
   ],
-  "intro": [
-    "Migration is as old as humanity itself, rooted in survival whether for food, security, or opportunity.",
-    "From early human movement out of East Africa to the transatlantic slave trade, migration has long been shaped by political, economic, and environmental factors.",
-    "Today, migration refers to the movement of people within and across borders, driven by push factors (conflict, poverty, climate change) or pull factors (economic opportunity, safety).",
-    "But migration is not merely individual, it reflects deep structural inequalities between the Global South and Global North.",
-    "World-systems theory explains how core countries prosper at the expense of peripheral ones, fueling South-North migration and inequalities.",
-    "The Migration Policy Institute states that South-South migration accounts for 37% of global migration, followed by South-North (35%), North-North (19–23%), and North-South (6%).",
-    "Migration corridors like Mexico–U.S. or Africa–Europe highlight geopolitical alliances, visa disparities, and systemic inequalities.",
-    "The Trump administration’s policies illustrate how immigration has been weaponized to reinforce exclusion, with family separations, travel bans, and narrowed asylum eligibility targeting marginalized groups."
+  conclusion: [
+   "The research makes it clear: migration is not merely a logistical challenge but a profound human story, one deeply scarred by policy choices. The Trump administration's measures—from \"Zero-Tolerance\" family separations to the \"Remain in Mexico\" protocols—did more than just change laws; they actively dismantled humanitarian protections, inflicting lasting trauma and widespread suffering. These policies were not isolated events but were born from a geopolitical landscape of deep global inequality, where the Global North's prosperity often comes at the expense of the Global South. The reverberations of this era continue to echo. The institutional damage to agencies like USCIS and ICE has created a backlog of cases and fostered a climate of fear that persists today. This legacy complicates every attempt at reform, making the pursuit of a humane and just immigration system an uphill battle. Furthermore, these actions set a dangerous precedent on the international stage, weakening global cooperation and encouraging other nations to adopt similar anti-immigration stances. Ultimately, this period serves as a stark reminder that policy decisions have immense human consequences. Moving forward requires more than simply reversing past mistakes. It demands a fundamental commitment to migration justice—a vision that addresses the root causes of displacement, rebuilds trust in our institutions, and affirms the inherent dignity and rights of all individuals, regardless of their origin. Without this transformation, the shadow of past policies will continue to loom, making the American Dream a hollow promise for those who seek it most."
   ],
-  "problemStatement": [
-    "Despite international commitments to refugee and asylum rights, the Trump-era U.S. migration policies dismantled humanitarian protections.",
-    "These measures highlight a gap between the promise of migration governance and the lived realities of migrants and asylum seekers.",
-    "Global inequalities and U.S. policy shifts collectively reshaped migration flows, exacerbated systemic discrimination, and weakened international legal frameworks."
-  ],
-  "researchObjectives": [
-    "To examine how Trump-era U.S. migration policies affected humanitarian protections, asylum processes, and migrant communities.",
-    "To analyze how global inequalities between the Global South and North shape migration flows and policies in key corridors.",
-    "To assess the impact of U.S. migration policy changes on international legal frameworks and global cooperation on migration."
-  ],
-  "researchQuestions": [
-    "How did Trump-era migration policies affect asylum seekers and refugee protections?",
-    "What role do global inequalities between North and South play in shaping migration flows and U.S. policy outcomes?",
-    "How have U.S. policy changes influenced international cooperation and legal frameworks on migration?"
-  ],
-  "thematicLiteratureReview": [
-    "Migration has been theorized as both a historical constant and a reflection of entrenched inequalities between the Global North and South.",
-    "Scholars like Georgiana Florentina Tataru and Jennifer Hyndman frame migration as geopolitical and structural, shaped by disparities in wealth and policy regimes.",
-    "Statistics from the Migration Policy Institute reinforce that South-South and South-North corridors dominate global flows, shaped by inequality and geopolitics.",
-    "Trump-era policies like Zero-Tolerance and Remain in Mexico, widely reported in AP News, The Guardian, and by the Migration Policy Institute, reveal severe humanitarian consequences including family separations and erosion of asylum protections.",
-    "Analyses by the Brookings Institution and the National Immigration Law Center highlight lasting damage to institutional capacity and DEI values in U.S. immigration.",
-    "Amnesty International and the American Immigration Council point to weakening of multilateral frameworks and backlash against cooperation.",
-    "The literature collectively demonstrates how U.S. migration policy choices reverberate beyond national borders, reshaping humanitarian protections and international norms."
-  ],
-  "methodology": [
-    "This research adopts a mixed-methods approach, combining quantitative and qualitative data.",
-    "Quantitative analysis includes review of migration statistics, asylum application numbers, and refugee admission records.",
-    "Qualitative research includes interviews with migrants, review of policy documents, and secondary sources.",
-    "This design captures both the broad statistical patterns of migration flows and the lived experiences of those affected by Trump-era policies.",
-    "The combination of numerical trends and human stories provides a comprehensive view of migration under Trump."
-  ],
-  "content": [
-    {
-      "theme": "The Politics of Migration",
-      "paragraphs": [
-        "Migration reflects deep structural inequalities between North and South.",
-        "Visa disparities and travel bans reinforce systemic exclusion, with South-origin migrants facing restricted access while privileged groups enjoy mobility.",
-        "Under Trump, policies disproportionately criminalized migrants from Latin America and Africa while selectively welcoming others, exposing racialized biases in immigration governance."
-      ]
-    },
-    {
-      "theme": "Asylum and Refugee Policy Rollbacks",
-      "paragraphs": [
-        "The Zero-Tolerance policy institutionalized mass family separations, inflicting long-term trauma on children and families.",
-        "The Remain in Mexico policy forced asylum seekers into unsafe conditions, undermining due process and access to counsel.",
-        "Narrowed asylum eligibility for claims based on domestic or gang violence further excluded vulnerable populations."
-      ]
-    },
-    {
-      "theme": "The U.S.–Mexico Border Crisis: ICE and Deportation",
-      "paragraphs": [
-        "The militarization of the U.S.–Mexico border under Trump amplified enforcement-first strategies.",
-        "Mass raids, expedited removals, and record-high apprehensions created humanitarian crises, with migrants often fleeing violence and extortion.",
-        "COVID-19 and later surges in unauthorized crossings revealed systemic failures in balancing border security and humanitarian obligations."
-      ]
-    },
-    {
-      "theme": "Long-Term Legacy of Trump Policies",
-      "paragraphs": [
-        "Trump’s policies left institutional scars, weakening agencies like USCIS and ICE.",
-        "Even under Biden, enforcement-first frameworks and institutional backlogs persist.",
-        "Migration justice requires rebuilding trust, rehumanizing migration governance, and addressing root causes of displacement."
-      ]
-    },
-    {
-      "theme": "Implications for DEI",
-      "paragraphs": [
-        "Trump’s policies rolled back Diversity, Equity, and Inclusion by narrowing protections like TPS and DACA.",
-        "Disproportionate impacts on marginalized groups perpetuated cycles of disadvantage.",
-        "Exclusionary rhetoric and enforcement generated fear and undermined multicultural integration in U.S. society."
-      ]
-    },
-    {
-      "theme": "International Legal Frameworks and Backlash",
-      "paragraphs": [
-        "Trump-era policies undermined international cooperation, including withdrawal from the Global Compact on Migration.",
-        "Agreements like Safe Third Country deals pressured weaker states to host deportees.",
-        "Right-leaning governments in Europe echoed Trump’s rhetoric, normalizing exclusionary migration practices globally."
-      ]
-    }
-  ],
-  "conclusion": [
-    "Migration is not merely a logistical challenge but a deeply political and human issue.",
-    "Trump-era policies dismantled humanitarian protections, inflicted lasting trauma, and weakened international cooperation.",
-    "Institutional damage to U.S. agencies and erosion of trust persist, complicating reform.",
-    "A humane migration system requires structural transformation: addressing root causes, rebuilding capacity, and centering human dignity in governance."
-  ],
-  "acknowledgements": [
-    "The authors thank the organizations and individuals who contributed data, insights, and testimonies.",
-    "We acknowledge the scholars and institutions whose research informed this study."
-  ],
-  "references": [
-    { "heading": "American Journal of International Law. (n.d.). Biden Administration Reverses Trump Administration Policies on Immigration and Asylum.", "links": "" },
-    { "heading": "Amnesty International. (2020). Rebuilding from the Ashes, Trump’s Heritage on Migration and Asylum Policy.", "links": "https://www.amnesty.org/en/latest/news/2020/11/trumps-heritage-immigration-asylum-policy/" },
-    { "heading": "Brookings Institution. (2025). 100 days of immigration under the second Trump administration.", "links": "" },
-    { "heading": "Chavez, M., Gabaldon, M.P., et al. (2023). The Consistency of Donald Trump Twitter Rhetoric about Immigration. Norteamerica. Vol.18.", "links": "" },
-    { "heading": "Costa, D. (2025). Trump attacks on temporary immigration protections. Economic Policy Institute.", "links": "https://www.epi.org/blog/trump-attacks-on-temporary-immigration-protections-like-tps-hurt-theeconomy-and-strip-millions-of-their-workplace-rights/" },
-    { "heading": "Council on Foreign Relations. (2024). Why six countries account for most immigrants at the US-Mexico Border.", "links": "https://www.cfr.org/article/why-six-countries-account-most-migrants-us-mexico-border" },
-    { "heading": "Gravelle, T. B. (2018). Politics, time, space, and attitudes toward US–Mexico border security. Political Geography, 65, 107-116.", "links": "" },
-    { "heading": "Hacking Law Practice. (n.d.). The Impact of Trump Immigration Policy on American Security.", "links": "" },
-    { "heading": "Hogan, M. (2024). Trump vs. Harris on immigration: Future policy proposals. Peterson Institute for International Economics.", "links": "https://www.piie.com/blogs/realtime-economics/2024/trump-vs-harris-immigration-future-policy-proposals" },
-    { "heading": "Human Rights Law Centre. (n.d.). Migration Justice.", "links": "" },
-    { "heading": "Hyndman, J. (2012). The geopolitics of migration and mobility. Geopolitics, 17(2), 243-255.", "links": "" },
-    { "heading": "NILC. (2025). The Anti-Immigrant Policies in Trump's Final Bill Explained.", "links": "" },
-    { "heading": "Pittman, J. (2025). Trump's Immigration Policies and Project 2025. Docketwise.", "links": "https://www.docketwise.com/blog/trump-2025-immigration-plan/" },
-    { "heading": "Reichlin-Meinlick, A. (2021). Biden Administration Ends ‘Safe Third Country’ Agreements. American Immigration Council.", "links": "https://www.americanimmigrationcouncil.org/blog/safe-third-country-agreement-biden/" },
-    { "heading": "Singh, M. (2024). Trump’s asylum ban at US-Mexico border ruled unlawful. The Guardian.", "links": "https://www.theguardian.com/us-news/2025/jul/02/trump-us-mexico-border-immigrants-asylum" },
-    { "heading": "Tataru, G. F. (2019). Migration–an overview on terminology, causes and effects. Logos, Universality, Mentality, Education, Novelty. Section: Law, 7(2), 10-29.", "links": "" },
-    { "heading": "White House Briefing. (2024). Fact Sheet: President Biden Announces New Actions to Secure the Border.", "links": "https://cl.usembassy.gov/fact-sheet-president-biden-announces-new-actions-to-secure-the-border/" },
-    { "heading": "Boone, R., & Thanawala, S. (2020). Travel ban on refugees blocked by federal judge. AP News.", "links": "https://apnews.com/article/44ff62623ac10ef287710f0ebcf5904b" },
-    { "heading": "The Guardian. (2025). Trump administration sued over arrests at immigration courts.", "links": "https://www.theguardian.com/us-news/2025/jul/16/trump-administration-sued-immigration" },
-    { "heading": "Al Jazeera. (2025). Trump administration welcomes 59 white South Africans as refugees to the US.", "links": "https://www.aljazeera.com/news/2025/5/12/trump-administration-welcomes-59-white-south-africans-as-refugees-to-the-us" },
-    { "heading": "Shelton, J. (2025). US welcomes first white South African 'refugees'. DW.", "links": "https://www.dw.com/en/us-welcomes-first-white-south-african-refugees/a-72523983" },
-    { "heading": "PBS NewsHour. (2025). White South Africans arrive in U.S. after receiving refugee status.", "links": "https://www.pbs.org/newshour/show/white-south-africans-arrive-in-u-s-after-receiving-refugee-status-from-trump" }
+  references: [
+   {
+    heading: "American Journal of International Law. (n.d.). Biden Administration Reverses Trump Administration Policies on Immigration and Asylum.",
+    link: ""
+   },
+   {
+    heading: "Amnesty International (2020, November 28). Rebuilding from the Ashes, Trump’s Heritage on Migration and Asylum Policy,",
+    link: "https://www.amnesty.org/en/latest/news/2020/11/trumps-heritage-immigration-asylum-policy/?hl=en-US"
+   },
+   {
+    heading: "Brookings Institution. (2025). 100 days of immigration under the second Trump administration.",
+    link: ""
+   },
+   {
+    heading: "Chavez, M., Gabaldon, M.P., et al (2023). The Consistency of Donald Trump Twitter Rhetoric about Immigration… Norteamerica. Vol.18",
+    link: ""
+   },
+   {
+    heading: "Costa, D. (2025, May 12). Trump attacks on temporary immigration protections.",
+    link: "https://www.epi.org/blog/trump-attacks-on-temporary-immigration-protections-like-tps-hurt-theeconomy-and-strip-millions-of-their-workplace-rights/"
+   },
+   {
+    heading: "Freeman, W., et al. (2024, June 9.). Why Six countries Account for most Immigrants at the US-Mexico Border.",
+    link: "https://www.cfr.org/article/why-six-countries-account-most-migrants-us-mexico-border"
+   },
+   {
+    heading: "Gravelle, T. B. (2018). Politics, time, space, and attitudes toward US–Mexico border security. Political Geography, 65, 107-116.",
+    link: ""
+   },
+   {
+    heading: "Hacking Law Practice. (n.d.). The Impact of Trump Immigration Policy on American Security.",
+    link: ""
+   },
+   {
+    heading: "Hogan, M. (2024, September 9). Trump vs. Harris on immigration: Future policy proposals. Peterson Institute for International Economics.",
+    link: "https://www.piie.com/blogs/realtime-economics/2024/trump-vs-harris-immigration-future-policy-proposals"
+   },
+   {
+    heading: "Human Rights Law Centre. (n.d.). Migration Justice.",
+    link: ""
+   },
+   {
+    heading: "Hyndman, J. (2012). The geopolitics of migration and mobility. Geopolitics, 17(2), 243-255.",
+    link: ""
+   },
+   {
+    heading: "NILC. (2025). The Anti-Immigrant Policies in Trump's Final “Big Beautiful Bill,” Explained",
+    link: ""
+   },
+   {
+    heading: "Pittman, J. (2025, June 24). Trump's Immigration Policies and Project 2025. Docketwise.",
+    link: "https://www.docketwise.com/blog/trump-2025-immigration-plan/"
+   },
+   {
+    heading: "Reichlin-Meinlick, A., (2021, February 8). Biden Administration Ends ‘Safe Third Country’ Agreements, American Immigration Council.",
+    link: "https://www.americanimmigrationcouncil.org/blog/safe-third-country-agreement-biden/"
+   },
+   {
+    heading: "Singh, M. (2024, July 2). A win for humanity’: Trump’s asylum ban at US-Mexico border ruled unlawful. The Guardian.",
+    link: "https://www.theguardian.com/us-news/2025/jul/02/trump-us-mexico-border-immigrants-asylum"
+   },
+   {
+    heading: "Tataru, G. F. (2019). Migration–an overview on terminology, causes and effects. Logos, Universality, Mentality, Education, Novelty. Section: Law, 7(2), 10-29.",
+    link: ""
+   },
+   {
+    heading: "White House Briefing. (2024, June 4). Fact Sheet: President Biden Announces New Actions to Secure the Border.",
+    link: "https://cl.usembassy.gov/fact-sheet-president-biden-announces-new-actions-to-secure-the-border/"
+   },
+   {
+    heading: "Boone, R., &Thanawala, S. (2020, February 5). Travel ban on refugees blocked by federal judge. AP News.",
+    link: "https://apnews.com/article/44ff62623ac10ef287710f0ebcf5904b"
+   },
+   {
+    heading: "The Guardian. (2025, July 16). Trump administration sued over arrests at immigration courts. The Guardian.",
+    link: "https://www.theguardian.com/us-news/2025/jul/16/trump-administration-sued-immigration"
+   },
+   {
+    heading: "Al Jazeera. (2025, May 12). Trump administration welcomes 59 white South Africans as refugees to the US. Al Jazeera.",
+    link: "https://www.aljazeera.com/news/2025/5/12/trump-administration-welcomes-59-white-south-africans-as-refugees-to-the-us"
+   },
+   {
+    heading: "Shelton, J. (2025, May 13). US welcomes first white South African 'refugees'. DW.",
+    link: "https://www.dw.com/en/us-welcomes-first-white-south-african-refugees/a-72523983"
+   },
+   {
+    heading: "awaz, A. (2025, May 12). White South Africans arrive in U.S. after receiving refugee status from Trump. PBS NewsHour.",
+    link: "https://www.pbs.org/newshour/show/white-south-africans-arrive-in-u-s-after-receiving-refugee-status-from-trump"
+   }
   ]
-}
+ }
 
-
-];
+]
 
 
 export default articles;
