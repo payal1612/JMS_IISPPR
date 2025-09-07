@@ -1,6 +1,7 @@
 import jsPDF from 'jspdf';
 import html2canvas from 'html2canvas';
 // import { addDynamicWatermark, addWatermarkToAllPages } from './pdfWatermark.js';
+import releaseDate from '../data/editions';
 
 export const generateIssuePDF = async (issue, publisher, editorialBoard) => {
   const pdf = new jsPDF('p', 'mm', 'a4');
@@ -12,6 +13,7 @@ export const generateIssuePDF = async (issue, publisher, editorialBoard) => {
   let yPosition = margin;
   const lineHeight = 7;
   const titleHeight = 12;
+
 
   // Cover Page
   pdf.setFontSize(24);
@@ -65,7 +67,7 @@ export const generateIssuePDF = async (issue, publisher, editorialBoard) => {
   yPosition += lineHeight;
   pdf.text(`Website: ${publisher.contact.website}`, margin, yPosition);
   yPosition += lineHeight + 10;
-  
+
 
 
   // Table of Contents
@@ -492,15 +494,37 @@ export const generateArticlePDF = async (articles) => {
     pdf.text(issueInfo, margin, yPosition.value);
     yPosition.value += lineHeight;
 
-    if (articles.releaseDate) {
-      const date = new Date(articles.releaseDate);
-      const formattedDate = date.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
-      pdf.text(`Date of Publication: ${formattedDate}`, margin, yPosition.value);
-      yPosition.value += lineHeight;
-      
-    }
+    // if (true) {
+    //   const date = new Date(articles.releaseDate);
+    //   const formattedDate = date.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+    //   pdf.text(`Date of Publication: ${formattedDate}`, margin, yPosition.value);
 
-    yPosition.value += lineHeight + 10;
+
+
+    //   yPosition.value += lineHeight;
+
+    // }
+
+    // yPosition.value += lineHeight + 10;
+
+    // if (true) {
+    //   const parsedDate = new Date(articles.releaseDate);
+
+    //   if (!isNaN(parsedDate.getTime())) {
+    //     const formattedDate = parsedDate.toLocaleDateString('en-US', {
+    //       year: 'numeric',
+    //       month: 'short',
+    //       day: 'numeric'
+    //     });
+    //     pdf.text(`Date of Publication: ${releaseDate}`, margin, yPosition.value);
+    //     yPosition.value += lineHeight;
+    //   } else {
+    //     console.warn("⚠️ Invalid releaseDate format:", articles.releaseDate);
+    //     pdf.text(`Date of Publication: -`, margin, yPosition.value);
+    //     yPosition.value += lineHeight;
+    //   }
+    // }
+
   }
 
   // Abstract

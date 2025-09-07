@@ -102,10 +102,10 @@ const Ethics = () => {
           className="text-2xl font-bold text-primary font-serif mb-2"
           style={{ color: "#693155ff" }}
         >
-          Law, Diplomacy, Tech & Public Policy Review (LDTPPR)
+          Law, Diplomacy, Tech and Public Policy Review
         </h2>
         <p className="text-subtext text-justify">
-          At Law, Diplomacy, Tech & Public Policy Review, we uphold the highest standards of academic integrity, transparency, and ethical publishing. These guidelines apply to all authors, editors, peer reviewers, and contributors.
+          At Law, Diplomacy, Tech and Public Policy Review, we uphold the highest standards of academic integrity, transparency, and ethical publishing. These guidelines apply to all authors, editors, peer reviewers, and contributors.
         </p>
       </motion.div>
 
@@ -148,7 +148,7 @@ const Ethics = () => {
         viewport={{ once: true }}
         transition={{ delay: 0.2, duration: 0.6 }}
       >
-        LDTPPR stands for academic integrity, inclusivity, and empowering the next generation of global thinkers through ethical, rigorous publishing.
+        Law, Diplomacy, Tech and Policy Review stands for academic integrity, inclusivity, and empowering the next generation of global thinkers through ethical, rigorous publishing.
       </motion.p>
     </motion.div>
   );
