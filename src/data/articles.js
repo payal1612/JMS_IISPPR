@@ -9996,7 +9996,7 @@ const articles = [
       "policy analysis"
     ],
     status: "",
-    "intro": [
+    intro: [
       "Educational inequality remains a persistent challenge in India, deeply rooted in historical, socio-economic, and geographic disparities. Despite significant progress in enrollment rates and infrastructure development over the past decades, access to quality education continues to be uneven, particularly across rural-urban divides, income groups, and gender. In response to these disparities, to address these gaps, digital technology is now being seen as an important way to make education more equal and accessible for everyone.",
       "In alignment with the global commitment to Sustainable Development Goal 10 (SDG 10) which seeks to reduce inequality, India has taken several policy initiatives aimed at leveraging digital infrastructure to enhance educational access and equity. Key among these are the Digital India Campaign, PM e-Vidya, the National Education Policy (NEP) 2020, and the DIKSHA platform. These initiatives together show a change in policy, focusing on using technology-based solutions that can reach many people, with the goal of reducing gaps in access to and involvement in education.",
       "However, the transformative potential of digital education remains contested, especially in the context of pre-existing structural inequalities. While digital platforms have expanded the reach of educational content, they have also exposed and, in some cases, deepened the digital divide, particularly among economically marginalized populations, rural communities, and gender-disadvantaged groups. The accessibility, usability, and effectiveness of these digital interventions vary widely across different socio-economic contexts, raising important questions about their actual impact on educational equity.",
@@ -10004,8 +10004,8 @@ const articles = [
     ],
     content: [
       {
-        "heading": "Background and Literature Review",
-        "paragraphs": [
+        heading: "Background and Literature Review",
+        paragraphs: [
           "Studies before the pandemic found that only about 4.4% of rural households had a computer, versus 23.4% in urban areas (NSSO, 75th Round, 2018). Internet access was 14.9% in rural homes compared to 42% in cities (NSSO, 75th Round, 2018). Operating skills were similarly uneven: just 9-13% of rural residents could use computers or the internet, compared to over 30% in urban settings (MoSPI, 2019).",
           "A local survey in Chennai showed only 5.3% of rural government school kids could take live classes (Azim Premji Foundation, 2021). While 56.9% had smartphones, only about 21.1% of private school students could attend online lessons regularly (Oxfam India, Inequality Report, 2021).",
           "In alignment with NEP 2020, platforms like DIKSHA and SWAYAM were positioned to promote access, equity, and quality, but uneven digital access and language barriers have constrained outcomes (Ministry of Education, 2020; Oxfam India, 2022; Azim Premji Foundation, 2022)."
@@ -10147,7 +10147,7 @@ const articles = [
     references: [
       {
         heading: "Angel One. (2025). How BharatNet is transforming rural connectivity in India.",
-        "links": "https://www.angelone.in/news/how-bharatnet-is-transforming-rural-connectivity-in-india"
+        links: "https://www.angelone.in/news/how-bharatnet-is-transforming-rural-connectivity-in-india"
       },
       {
         heading: "ASER Centre. (2021). Annual Status of Education Report 2021.",
@@ -10284,22 +10284,17 @@ const articles = [
     ]
   },
   {
-    "id": 5,
-    "serialNumber": 40,
-    "issue": 4,
-    "volume": 1,
-    "title": "Trapped in Silence: The Psychosocial Consequences of Masculine Norms and Emotional Suppression Among Young Men",
-    "author": "Department of Applied Psychology, Vivekananda College; Department of BA program, Psychology majors, Gargi College; Department Of Psychology, Mata Sundari College For Women; Department of Sociology, Banaras Hindu University; Department of Psychology, Sanskriti University",
-    "authorAbbrev": "Multiple Authors",
-    "abstract": [
-      "This study explores the psychosocial consequences of emotional suppression and adherence to traditional masculine norms among young men in India.",
-      "Using a sample of 79 Indian Men aged 18-25, the study employed the Conformity to Masculine Norms Inventory-22 and The Emotional Regulation Questionnaire to assess internalized norms and emotional regulation strategies.",
-      "Results indicated a high degree of conformity to norms such as risk-taking, emotional control, dominance and self-reliance, alongside elevated scores for expressive suppression.",
-      "The findings highlight a significant link between emotional suppression and challenges such as heightened psychological distress, strained relationships, and reluctance to seek help.",
-      "These outcomes underscore the urgent need for culturally sensitive mental health interventions, emotional education, and a redefinition of masculinity that validates emotional expression.",
-      "Such efforts are critical to improving mental health outcomes and interpersonal well-being among Indian men."
+    id: 5,
+    serialNumber: 40,
+    issue: 4,
+    volume: 1,
+    title: "Trapped in Silence: The Psychosocial Consequences of Masculine Norms and Emotional Suppression Among Young Men",
+    author: "Department of Applied Psychology, Vivekananda College; Department of BA program, Psychology majors, Gargi College; Department Of Psychology, Mata Sundari College For Women; Department of Sociology, Banaras Hindu University; Department of Psychology, Sanskriti University",
+    authorAbbrev: "Multiple Authors",
+    abstract: [
+      "This study explores the psychosocial consequences of emotional suppression and adherence to traditional masculine norms among young men in India. Using a sample of 79 Indian Men aged 18-25, the study employed the Conformity to Masculine Norms Inventory- 22 and The Emotional Regulation Questionnaire(ERQ) to assess internalized norms and emotional regulation strategies. Results indicated a high degree of conformity to norms such as risk- taking, emotional control, dominance and self-reliance, alongside elevated scores for expressive suppression. The findings highlight a significant link between emotional suppression and challenges such as heightened psychological distress, strained relationships, and reluctance to seek help.These outcomes underscore the urgent need for culturally sensitive mental health interventions, emotional education, and a redefinition of masculinity that validates emotional expression. Such efforts are critical to improving mental health outcomes and interpersonal well-being among Indian men.."
     ],
-    "keyword": [
+    keyword: [
       "Masculinity",
       "emotional suppression",
       "Indian men",
@@ -10310,18 +10305,14 @@ const articles = [
       "mental health stigma",
       "gender norms"
     ],
-    "status": "",
-    "intro": [
-      "Over 70% of suicide deaths in India are men, not because they feel they are less but because they have been taught to show less. Behind these numbers there is this cultural script that rewards emotional control and punishes vulnerability.",
-      "From a young age, Indian boys are taught that emotions like sadness, fear, and tenderness are signs of weakness and they can't be weak. These aren't just short-lived lessons, they become the foundation of how boys see themselves and the world around them.",
-      "Masculinity, especially in South Asia, means strength, dominance and emotional control. These ideas are reinforced at home, in schools, through media and even with peer groups. A boy who cries might be bullied or scolded. Over time emotional suppression becomes second nature, since they have been conditioned to do it.",
-      "This learned silence has serious consequences. Emotional Suppression doesn't only limit personal growth it also affects their mental health. While both men and women in India suffer from anxiety and depression at a similar rate, men tend to seek less help or even recognize that they are struggling.",
-      "This article explores psychosocial consequences of emotional suppression as learned behaviour particularly in young Indian men. Drawing from psychological frameworks like Social Learning Theory and Gender Schema Theory, it unpacks emotional restraint through generations."
+    status: "",
+    intro: [
+      "Over 70% of suicide deaths in India are men, not because they feel they are less but because they have been taught to show less. Behind these numbers there is this cultural script that rewards emotional control and punishes vulnerability. From a young age, Indian boys are taught that emotions like sadness, fear, and tenderness are signs of weakness and they can't be weak. These aren't just short-lived lessons, they become the foundation of how boys see themselves and the world around them. Masculinity, especially in South Asia, means strength, dominance and emotional control. These ideas are reinforced at home, in schools, through media and even with peer groups. A boy who cries might be bullied or scolded. Over time emotional suppression becomes second nature, since they have been conditioned to do it. This learned silence has serious consequences. Emotional Suppression doesn't only limit personal growth it also affects their mental health. While both men and women in India suffer from anxiety and depression at a similar rate, men tend to seek less help or even recognize that they are struggling. As the stigma around emotions persists, many men internalize their distress until it changes into aggression, substance abuse or in worst cases Sucide. This article explores psychosocial consequences of emotional suppression as learned behaviour particularly in young Indian men. Drawing from psychological frameworks like Social Learning Theory and Gender Schema Theory, it unpacks emotional restraint through generations."
     ],
-    "content": [
+    content: [
       {
-        "heading": "THEORETICAL FOUNDATIONS OF MASCULINITY",
-        "paragraphs": [
+        heading: "THEORETICAL FOUNDATIONS OF MASCULINITY",
+        paragraphs: [
           "In order to grasp the full scope of the changes that occurred within masculinity, one would need to look at the shifts both materially and ideologically. Dominance, physical strength, and the ability to provide protection were the defining traits of masculinity in early agrarian and warrior societies. These societies valued physical strength not as an arbitrary norm that a culture holds, but as a matter of life and death, as well as the survival of civilization. Social changes also brought along changes to the expectations defined to the male sex.",
           "The rise of capitalism and industrialization in the 18th and 19th century marked a defining change in this aspect and resulted in men being labeled as 'breadwinners.' The economic transformation brought about a change in societal structure. The public work sphere now became the main workplace and domestic life separated from work. The old ideals of masculinity that were grounded in rational, emotionally restrained productivity became predominant (Kimmel, 1996). The emotional constraint discussed above also deserves to be discussed more, as it becomes the societal norm, relied both in fact and fiction to be a utility in economic reasoning.",
           "As always, socially ingrained systems can be ignored, but they have always and will always influence people everywhere. In today's society, the 20th century gave rise to certain stories around the 'stoic father' or the 'hardworking provider' or the 'brave soldier' and how they constructed the ideal man. The world wars, colonial initiatives, and many other such national movements also further elaborated these notions, restricting the notions of admirers for man and manhood. These idealistic notions are the things that in the later years came to be used in concepts like 'hegemonic masculinity' (Connell, 2005). According to this theory, the 'stoic father' leads to the inflation of the narrative of 'sacred masculinity' where men are still men by the cultural definition, yet in a capitalist society, benefits are glorified. These centuries of idealistic forms of fatherhood have socially determined factors determining how a man acts, thinks, and most importantly, hides feelings.",
@@ -10338,8 +10329,8 @@ const articles = [
         ]
       },
       {
-        "heading": "EMOTIONAL SUPPRESSION AS A LEARNED BEHAVIOUR",
-        "paragraphs": [
+        heading: "EMOTIONAL SUPPRESSION AS A LEARNED BEHAVIOUR",
+        paragraphs: [
           "From early childhood, boys are taught both directly and indirectly that emotions such as sadness and fear are signs of weakness. These teachings don't have a short-term impact. Over time, repeated reinforcement through observation and social feedback makes these actions emotionally ingrained habits.",
           "Albert Bandura's social learning theory explains that children learn behaviours by watching other people, especially the people they look up to (Bandura, 1977). When a boy gets scolded for 'crying', praised for being 'strong' and teased for being sensitive, he learns which emotions are acceptable and which are not.",
           "In the Indian context, social learning starts in early childhood. A report by Save the Children India states that 70% of boys between the ages of 6-12 have been told not to cry by their parents and teachers (Save the Children, 2022). These moments aren't isolated; they are the patterns that build on an emotional framework: boys are tough and unaffected. It makes the message loud and clear that vulnerability is equal to unmasculine.",
@@ -10351,7 +10342,7 @@ const articles = [
         ]
       }
     ],
-    "conclusion": [
+    conclusion: [
       "The findings provide valuable insights into how societal expectations of masculinity influence emotional expression and coping mechanisms among young Indian men.",
       "The elevated score for expressive suppression suggests that despite growing mental health conversations, young Indian men continue to rely heavily on inhibiting emotional expression.",
       "High conformity to masculine norms, particularly those emphasizing emotional control and self-reliance, has a detrimental impact on help-seeking attitudes among men.",
@@ -10363,7 +10354,7 @@ const articles = [
       "The goal is to promote a flexible idea of masculinity that embraces toughness alongside self-compassion, self-reliance alongside interdependence, and strength alongside empathy and vulnerability.",
       "This shift can reframe emotional expressivity and help-seeking not as weaknesses, but as signs of strength and courage, thereby increasing the likelihood of better psychological health and healthier interpersonal relationships."
     ],
-    "references": [
+    references: [
       {
         heading: "Anderson, E. (2009). Inclusive masculinity: The changing nature of masculinities. Routledge.",
         links: "https://www.routledge.com/Inclusive-Masculinity-The-Changing-Nature-of-Masculinities/Anderson/p/book/9780415803842"
@@ -10431,14 +10422,14 @@ const articles = [
     ]
   },
   {
-    "id": 6,
-    "serialNumber": 41,
-    "issue": 4,
-    "volume": 1,
-    "title": "SHOULD ECOCIDE BE RECOGNIZED AS THE FIFTH INTERNATIONAL CRIME UNDER THE ROME STATUTE? A LEGAL, ETHICAL, AND JURISDICTIONAL ANALYSIS",
-    "author": "Ankitha Lahari M N; Aiswaryya Dhamodaran; Ananya Aggarwal; Vidhushi; K K Sree Purna",
-    "authorAbbrev": "Lahari, M.N.; Dhamodaran, A.; Aggarwal, A.; Vidhushi; Purna, K.K.S.",
-    "abstract": [
+    id: 6,
+    serialNumber: 41,
+    issue: 4,
+    volume: 1,
+    title: "SHOULD ECOCIDE BE RECOGNIZED AS THE FIFTH INTERNATIONAL CRIME UNDER THE ROME STATUTE? A LEGAL, ETHICAL, AND JURISDICTIONAL ANALYSIS",
+    author: "Ankitha Lahari M N; Aiswaryya Dhamodaran; Ananya Aggarwal; Vidhushi; K K Sree Purna",
+    authorAbbrev: "Lahari, M.N.; Dhamodaran, A.; Aggarwal, A.; Vidhushi; Purna, K.K.S.",
+    abstract: [
       "This research critically examines the pressing need to recognize ecocide - defined as large-scale, long-term, and serious environmental destruction - as the fifth international crime in the Rome Statute of the International Criminal Court.",
       "Through a doctrinal and comparative legal approach, this paper assesses the historical development, moral underpinnings, and jurisdictional implications of articulating ecocide internationally.",
       "The paper traces the evolution of the concept from outrage about the use of Agent Orange during the Vietnam War to current attempts at legal definitions proposed by the Independent Expert Panel (2021).",
@@ -10446,7 +10437,7 @@ const articles = [
       "Ethically, criminalization of ecocide is warranted by principles of ecocentrism and intergenerational justice, which recognize nature's intrinsic value independent of anthropocentrism.",
       "The research provides policy recommendations including amending the Rome Statute, enacting domestic legislation, developing corporate accountability mechanisms, and implementing restorative justice alongside ecological protection."
     ],
-    "keyword": [
+    keyword: [
       "Ecocide",
       "Article 30 of Rome Statute",
       "International Criminal Court",
@@ -10454,8 +10445,8 @@ const articles = [
       "Environmental crime",
       "International law"
     ],
-    "status": "",
-    "intro": [
+    status: "",
+    intro: [
       "The term ecocide—literally meaning the killing of the environment—has evolved from a moral outrage to a legally contested concept in international criminal law.",
       "The term emerged during the Vietnam War with the U.S. military's use of Agent Orange, resulting in environmental ecological devastation.",
       "Biologist Arthur Galston first used the term in 1970 when he spoke out about the eco-devastating impacts of defoliants and proposed a ban.",
@@ -10463,10 +10454,10 @@ const articles = [
       "While environmental offenses were discussed during the drafting of the Rome Statute in the 1990s, ecocide was not included in the final draft.",
       "Recent years have seen renewed interest in ecocide due to climate change, deforestation, and comprehensive industrial pollution awareness."
     ],
-    "content": [
+    content: [
       {
-        "heading": "PROBLEM STATEMENT & RESEARCH OBJECTIVE",
-        "paragraphs": [
+        heading: "PROBLEM STATEMENT & RESEARCH OBJECTIVE",
+        paragraphs: [
           "Ecosystems, human health, and planetary boundaries are threatened by unprecedented environmental destruction, from oil spills and deforestation to industrial pollution and climate-altering emissions.",
           "Ecocide is not a crime under international law, creating a core legal loophole despite global sustainability initiatives like the Sustainable Development Goals.",
           "The Rome Statute covers genocide, crimes against humanity, war crimes, and aggression but not serious environmental damage committed during peacetime.",
@@ -10476,8 +10467,8 @@ const articles = [
         ]
       },
       {
-        "heading": "ETHICAL AND PHILOSOPHICAL JUSTIFICATION FOR CRIMINALISING ECOCIDE",
-        "paragraphs": [
+        heading: "ETHICAL AND PHILOSOPHICAL JUSTIFICATION FOR CRIMINALISING ECOCIDE",
+        paragraphs: [
           "The ethical foundations are rooted in growing awareness of nature's intrinsic value and the moral imperative to protect it beyond anthropocentric legal systems.",
           "The philosophical basis lies in the duty to preserve Earth's integrity for both human and non-human life and future generations, drawing from Hans Jonas's 'ethic for the technological age'.",
           "Deep ecology (Arne Naess) insists on intrinsic value of all living beings, regardless of their utility to humans, justifying ecocide criminalization from an ecocentric worldview.",
@@ -10487,8 +10478,8 @@ const articles = [
         ]
       },
       {
-        "heading": "METHODOLOGICAL OVERVIEW",
-        "paragraphs": [
+        heading: "METHODOLOGICAL OVERVIEW",
+        paragraphs: [
           "The research adopts a doctrinal and comparative legal approach to examine historical/legal foundations, jurisdictional challenges, and domestic/international implications.",
           "Doctrinal research involves scrutiny of laws, case law, treaties, and legal documents concerning environmental law and international criminal law.",
           "Comparative legal method examines how jurisdictions like France, Belgium, Philippines, Ecuador, and Bolivia have recognized or proposed frameworks for ecocide.",
@@ -10498,8 +10489,8 @@ const articles = [
         ]
       },
       {
-        "heading": "CORE FINDINGS",
-        "paragraphs": [
+        heading: "CORE FINDINGS",
+        paragraphs: [
           "Comparative legal approaches show increasing global consensus, with France enacting ecocide law in 2021, Belgium proposing constitutional amendments, and Philippines considering ecocide legislation.",
           "Bolivia and Ecuador have inscribed 'Rights of Nature' into their constitutions, establishing grounds for legal action in the name of ecosystems themselves.",
           "Pacific countries like Maldives and Vanuatu have been vocal in demanding ecocide recognition as an issue of survival on the international stage.",
@@ -10511,8 +10502,8 @@ const articles = [
         ]
       },
       {
-        "heading": "INTERPRETATION AND ANALYSIS",
-        "paragraphs": [
+        heading: "INTERPRETATION AND ANALYSIS",
+        paragraphs: [
           "Stakeholder perspectives are mixed: environmental groups and Indigenous communities strongly support ecocide criminalization, while some corporations and wealthy nations express concerns.",
           "Ethical foundations are based on environmental stewardship, justice, and intergenerational equity, asserting that environment has intrinsic worth beyond human utility.",
           "Legal feasibility under the Rome Statute is increasing, with the 2021 expert definition providing clarity on terms like 'widespread,' 'severe,' and 'long-term' environmental harm.",
@@ -10522,8 +10513,8 @@ const articles = [
         ]
       },
       {
-        "heading": "POLICY AND PRACTICE RECOMMENDATIONS",
-        "paragraphs": [
+        heading: "POLICY AND PRACTICE RECOMMENDATIONS",
+        paragraphs: [
           "Modify the Rome Statute to officially recognize ecocide as the fifth international crime, using the 2021 expert definition and adapting mens rea to include recklessness.",
           "Promote national legislation concurrently with international efforts, using examples like France's 'Climate and Resilience' Law and EU Directive 2024/1203.",
           "Enforce corporate criminal liability through binding international treaties, applying command responsibility principles to corporate executives.",
@@ -10533,7 +10524,7 @@ const articles = [
         ]
       }
     ],
-    "conclusion": [
+    conclusion: [
       "The acknowledgment of ecocide as an international crime signifies a vital and equitable advancement in international law, indicating that the international community no longer condones wanton devastation of Earth's biosphere.",
       "Legal, ethical and jurisdictional obstacles are significant but not insurmountable, with growing scientific consensus, national legislation, and public acceptance building momentum.",
       "The ICC possesses both the legal mandate and ethical obligation to intervene in cases of severe environmental destruction.",
@@ -10541,7 +10532,7 @@ const articles = [
       "This would validate that planetary justice is fundamental to peace, security and human existence, recognizing environmental damage as a grave criminal offence rather than merely a policy failure.",
       "Nations, courts, and communities must undertake this audacious yet essential action to address the persistent ecological catastrophe through legal means."
     ],
-    "references": [
+    references: [
       {
         heading: "Expert Panel on the Legal Definition of Ecocide. (2021). Independent Expert Panel for the Legal Definition of Ecocide: Commentary and Core Text.",
         links: "https://www.stopecocide.earth/legal-definition"
@@ -10598,14 +10589,14 @@ const articles = [
   },
 
   {
-    "id": 7,
-    "serialNumber": 42,
-    "issue": 4,
-    "volume": 1,
-    "title": "WHAT IMPACT WILL IT MAKE ON JUSTICE AND ENVIRONMENTAL ACCOUNTABILITY IF ECOCIDE IS CRIMINALIZED?",
-    "author": "Pratishtha Purohit; Ayushi Sharma; Janvi Manojsinh Chauhan; Saroar Mohammad; Ayush Chaturvedi; Tanisha Mitra; Shanvi Thakre",
-    "authorAbbrev": "Purohit, P.; Sharma, A.; Chauhan, J.M.; Mohammad, S.; Chaturvedi, A.; Mitra, T.; Thakre, S.",
-    "abstract": [
+    id: 7,
+    serialNumber: 42,
+    issue: 4,
+    volume: 1,
+    title: "WHAT IMPACT WILL IT MAKE ON JUSTICE AND ENVIRONMENTAL ACCOUNTABILITY IF ECOCIDE IS CRIMINALIZED?",
+    author: "Pratishtha Purohit; Ayushi Sharma; Janvi Manojsinh Chauhan; Saroar Mohammad; Ayush Chaturvedi; Tanisha Mitra; Shanvi Thakre",
+    authorAbbrev: "Purohit, P.; Sharma, A.; Chauhan, J.M.; Mohammad, S.; Chaturvedi, A.; Mitra, T.; Thakre, S.",
+    abstract: [
       "With the increasing environmental crisis across the globe, ecocide has achieved more widespread recognition and broader awareness.",
       "It is high time we recognised ecocide as 5th International Crime under the Rome Statute since the existing legal provisions lack regulations or frameworks.",
       "The focus is to solve the paradox of how destruction of the environment during a war is crime, and the same destruction in peacetime is not considered a crime.",
@@ -10619,14 +10610,14 @@ const articles = [
       "It will support achieving sustainable development goals 13, 14 and 15 by compelling environmental stewardship across all sectors.",
       "The paper affirms widespread support is needed to ensure environmental havoc is no longer met with impunity but with justice."
     ],
-    "keyword": [
+    keyword: [
       "Ecocide",
       "Criminalisation",
       "Environment SDGs",
       "Liability"
     ],
-    "status": "",
-    "intro": [
+    status: "",
+    intro: [
       "From Agent Orange in Vietnam to oil-soaked rivers in the Niger Delta, from the choking gas of Bhopal to the melting corals of the Great Barrier Reef bleaching in Australia.",
       "While there are courts which prosecute genocide, crimes against humanity, war crimes and the crime of aggression, there is no international mechanism to categorise environmental destruction as criminal acts deserving serious legal scrutiny.",
       "Ecocide, derived from the Greek word 'oikos' (home) and the Latin 'caedere' (to kill) literally means 'killing our home.'",
@@ -10634,7 +10625,7 @@ const articles = [
       "Currently, the international legal system lacks sufficient tools to prosecute those responsible for ecological destruction, and corporations and state actors often avoid criminal liability.",
       "Classifying ecocide as an international crime would elevate environmental preservation to a top-tier legal priority, marking a significant shift in international law norms."
     ],
-    "content": [
+    content: [
       {
         "heading": "PROBLEM STATEMENT & RESEARCH OBJECTIVE",
         "paragraphs": [
@@ -10648,8 +10639,8 @@ const articles = [
         ]
       },
       {
-        "heading": "THEMATIC LITERATURE REVIEW",
-        "paragraphs": [
+        heading: "THEMATIC LITERATURE REVIEW",
+        paragraphs: [
           "The discourse on corporate liability for ecocide is supported by case law, international frameworks, and works by jurists.",
           "Polly Higgins (2013) emphasized human agency in defining ecocide and identifying responsible entities.",
           "Vanderhein (2008) emphasized that principles like polluter pays must be legally enforceable for better implementation.",
@@ -10670,8 +10661,8 @@ const articles = [
         ]
       },
       {
-        "heading": "METHODOLOGICAL OVERVIEW",
-        "paragraphs": [
+        heading: "METHODOLOGICAL OVERVIEW",
+        paragraphs: [
           "This research adopts a multi-method qualitative approach integrating legal doctrinal analysis, comparative case study methodology, normative inquiry, and thematic evaluation.",
           "Doctrinal legal research methodology examines existing legal frameworks including Rome Statute, Stop Ecocide Foundation's 2021 Draft Definition, and domestic statutes.",
           "Precedents like MC Mehta v. Union of India and Gabčíkovo-Nagymaros Project (1997) were analysed for shifting paradigms of ecological rights.",
@@ -10683,8 +10674,8 @@ const articles = [
         ]
       },
       {
-        "heading": "CORE FINDINGS",
-        "paragraphs": [
+        heading: "CORE FINDINGS",
+        paragraphs: [
           "Criminalisation of ecocide addresses systemic gaps facing environmental justice through legal and normative shifts.",
           "Rome Statute only deals with environmental destruction in wartime, leaving peacetime ecocide unpunished.",
           "Case studies like Okpabi v. Royal Dutch Shell and Niger Delta Spills show how corporations protect themselves from liability.",
@@ -10699,8 +10690,8 @@ const articles = [
         ]
       },
       {
-        "heading": "INTERPRETATION AND ANALYSIS",
-        "paragraphs": [
+        heading: "INTERPRETATION AND ANALYSIS",
+        paragraphs: [
           "Ecocide means unlawful or wanton acts committed with knowledge of substantial likelihood of severe environmental damage.",
           "Criminalisation prevents greenwashing practices where companies appear eco-friendly while harming the planet.",
           "Many escape liability by citing excuses like job creation, lack of intent, or paying fines.",
@@ -10747,8 +10738,8 @@ const articles = [
         ]
       },
       {
-        "heading": "POLICY AND PRACTICE RECOMMENDATIONS",
-        "paragraphs": [
+        heading: "POLICY AND PRACTICE RECOMMENDATIONS",
+        paragraphs: [
           "Neubauer, et al. v. Germany case held that constitutional provisions require protecting climate through legislative measures.",
           "Campaign to criminalise ecocide has gained momentum worldwide with particular focus on India.",
           "Ecocide could bolster environmental rights under Articles 21, 48A, and 51A(g) of Indian Constitution.",
@@ -10762,7 +10753,7 @@ const articles = [
         ]
       }
     ],
-    "conclusion": [
+    conclusion: [
       "Criminalisation of ecocide would bring significant global change in addressing environmental damage.",
       "It involves imposition of real legal consequences from which no one can escape.",
       "Ecocide has potential to reverse current trends of environmental destruction.",
@@ -10774,7 +10765,7 @@ const articles = [
       "It can positively impact holding states accountable, regulating corporations, and enabling effective judiciary.",
       "Path forward requires structural reform and precise laws for meaningful implementation."
     ],
-    "references": [
+    references: [
       {
         heading: "Bhopte, N., Bansod, P., & Institute of Law and Legal Studies, SAGE University, Indore. (2024). Corporate Liability for Environmental Damages: A Critical Review of Legal Principles. International Journal of Creative Research Thoughts (IJCRT), 12(12), d397-d399.",
         links: "https://www.ijcrt.org/papers/IJCRT2412364.pdf"
@@ -10905,14 +10896,14 @@ const articles = [
     ]
   },
   {
-    "id": 8,
-    "serialNumber": 43,
-    "issue": 4,
-    "volume": 1,
-    "title": "Digital Platform, Disconnected Protections: Gendered Vulnerabilities in India’s Emerging Gig Economy",
-    "author": "S Shyam; Vanshikha Bilaska; Agrima Srivastav; Jeshvanth Karthikeyan; Nainsee Bansal; La Grace Divine Igirubuntu; Fairuj Fariha",
-    "authorAbbrev": "Shyam, S.; Bilaska, V.; Srivastav, A.; Karthikeyan, J.; Bansal, N.; Igirubuntu, L.G.D.; Fariha, F.",
-    "abstract": [
+    id: 8,
+    serialNumber: 43,
+    issue: 4,
+    volume: 1,
+    title: "Digital Platform, Disconnected Protections: Gendered Vulnerabilities in India’s Emerging Gig Economy",
+    author: "S Shyam; Vanshikha Bilaska; Agrima Srivastav; Jeshvanth Karthikeyan; Nainsee Bansal; La Grace Divine Igirubuntu; Fairuj Fariha",
+    authorAbbrev: "Shyam, S.; Bilaska, V.; Srivastav, A.; Karthikeyan, J.; Bansal, N.; Igirubuntu, L.G.D.; Fariha, F.",
+    abstract: [
       "India's vibrant platform economy from ride-sharing and food delivery to online freelancing and local services, has provided jobs for more than 7.7 million workers (ILO, 2021).",
       "This paper in detail assesses the intersection of Gender and Gig economy focussing on the unique issues that women face in working in Gig economy.",
       "Women and transgender gig workers in India face systemic exclusion from essential labor protections, including access to health insurance, maternity benefits, minimum wage guarantees, and grievance redressal mechanisms.",
@@ -10921,25 +10912,25 @@ const articles = [
       "This paper also critically assesses the inadequacies of India's labour codes revamped including Code on Wages (2019), Industrial Relations Code (2020), Code on Social Security (2020) for women Gig workers.",
       "By analyzing existing policy gaps and exploring gender-sensitive approaches to social protection, the research aims to inform inclusive legal, economic and gender sensitive infrastructural strategies that safeguard women gig workers’ social security rights, enhance their economic agency, and ensure equitable participation in India’s evolving digital labor market."
     ],
-    "keyword": [
+    keyword: [
       "Gig economy",
       "Gender inequality",
       "Social protection",
       "Algorithm bias",
       "Gender-sensitive"
     ],
-    "status": "",
-    "intro": [
+    status: "",
+    intro: [
       "The gig economy in India is transforming how people work. An increasing number of Indians are now making money through short-term, task-based work organized through digital platforms rather than the conventional 9–5 job.",
       "There are currently about 12 million gig workers in India, according to recent data. According to NITI Aayog, that figure is anticipated to almost double to 23.5 million by 2030.",
       "However, the majority of gig workers are not regarded as formal employees. Since they are referred to as 'independent contractors,' they are not eligible for job security, paid time off, health benefits, or insurance.",
       "Nevertheless, the gig economy is growing in importance within India's overall economy, with potential to generate tens of millions of jobs and up to 1.25 percent of India's GDP (BCG, 2021).",
       "Briefly put, the gig economy in India is expanding quickly. It opens up new possibilities, particularly for those excluded from formal employment, but also raises important concerns about equity, job security, and protections."
     ],
-    "content": [
+    content: [
       {
-        "heading": "Gender Participation in India’s Gig Economy",
-        "paragraphs": [
+        heading: "Gender Participation in India’s Gig Economy",
+        paragraphs: [
           "The digital gig economy in India still exhibits deep-seated gender inequalities with women underrepresented (16–23% contribution).",
           "Women are concentrated in beauty, care, and domestic work, while transport and delivery sectors are dominated by men.",
           "Surveys indicate women face safety risks, digital exclusion, discrimination, and lack of protection (Panwar, Singh & Chaudhary, 2024; Sharma, 2023).",
@@ -10948,8 +10939,8 @@ const articles = [
         ]
       },
       {
-        "heading": "Social Protection Challenges Faced by Gig Workers",
-        "paragraphs": [
+        heading: "Social Protection Challenges Faced by Gig Workers",
+        paragraphs: [
           "Gig workers are excluded from essential benefits such as health insurance, maternity leave, and minimum wages.",
           "India’s four new labour codes (Wages, Industrial Relations, Social Security, Occupational Safety) provide limited clarity for gig workers.",
           "Platform algorithms dictate pay and work allocation, with workers often terminated without cause.",
@@ -10958,8 +10949,8 @@ const articles = [
         ]
       },
       {
-        "heading": "Choice or Necessity? Motivation Behind Gig Work for Women in India",
-        "paragraphs": [
+        heading: "Choice or Necessity? Motivation Behind Gig Work for Women in India",
+        paragraphs: [
           "For many women, gig work is driven more by necessity than choice.",
           "During the pandemic, women’s participation rose but dropped again due to societal norms, low digital literacy, and care responsibilities.",
           "Women enter gig work due to constraints such as lack of jobs, rigid working hours, and exclusion from formal labour markets.",
@@ -10968,8 +10959,8 @@ const articles = [
         ]
       },
       {
-        "heading": "Disconnection from Traditional Labor Protections",
-        "paragraphs": [
+        heading: "Disconnection from Traditional Labor Protections",
+        paragraphs: [
           "Gig workers are categorized as independent contractors, exempting companies from providing social security, paid leave, or health benefits.",
           "They remain outside the coverage of traditional laws like Industrial Disputes Act or ESI Act.",
           "Code on Social Security (2020) acknowledges gig workers but enforcement remains weak.",
@@ -10978,8 +10969,8 @@ const articles = [
         ]
       },
       {
-        "heading": "Gender-sensitive Social Protection for Gig Workers",
-        "paragraphs": [
+        heading: "Gender-sensitive Social Protection for Gig Workers",
+        paragraphs: [
           "Women perform two-thirds of global work for only 10% of income and 1% of assets, reflecting extreme disparity.",
           "Female gig workers often engage in low-paid informal work with little bargaining power.",
           "Gig work often excludes health insurance, pensions, and paid leave.",
@@ -10988,8 +10979,8 @@ const articles = [
         ]
       },
       {
-        "heading": "Reimagining Social Protection: Policy Recommendations",
-        "paragraphs": [
+        heading: "Reimagining Social Protection: Policy Recommendations",
+        paragraphs: [
           "Legislate statutory 'living wage' definitions and create AI-driven Living Wage Tools for region-specific standards.",
           "Establish Living Wage Commissions and a National Living Wage Data Stack for transparency and compliance.",
           "Create women-led cooperatives ('Platform Sakhi') to formalize benefits and integrate with e-Shram portal.",
@@ -10998,14 +10989,14 @@ const articles = [
         ]
       }
     ],
-    "conclusion": [
+    conclusion: [
       "India’s gig economy presents opportunities but also deep vulnerabilities, especially for women and transgender workers.",
       "Policy frameworks must be gender-sensitive, enforceable, and multi-stakeholder driven.",
       "Platforms should ensure safe online/offline spaces and grievance redressal.",
       "Social protection is a constitutional right under Article 21 and must be ensured for gig workers.",
       "With structural reforms and enforcement, gig economy can become a vehicle for equitable participation in India’s growth."
     ],
-    "references": [
+    references: [
       {
         heading: "Bansal, T., & De, S. (2024). Gender and the gig economy: An analysis of women workers across gig platforms. International Journal for Research in Applied Science & Engineering Technology, 12(9).",
         links: "https://doi.org/10.22214/ijraset.2024.64178"
