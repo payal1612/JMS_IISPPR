@@ -10896,22 +10896,22 @@ const articles = [
   },
 
   {
-    id: 6,
-    serialNumber: 41,
-    issue: 4,
-    volume: 1,
-    title: "SHOULD ECOCIDE BE RECOGNIZED AS THE FIFTH INTERNATIONAL CRIME UNDER THE ROME STATUTE? A LEGAL, ETHICAL, AND JURISDICTIONAL ANALYSIS.",
-    author: "Ankitha Lahari M N, Aiswaryya Dhamodaran, Ananya Aggarwal, Vidhushi, K K Sree Purna",
-    authorAbbrev: "A.Lahari , A. Dhamodaran , A. Aggarwal , Vidushi, K.k Sree Purna",
-    abstract: [
-      "This research critically examines the pressing need to recognize ecocide - defined as large-scale, long-term, and serious environmental destruction - as the fifth international crime in the Rome Statute of the International Criminal Court (ICC).",
-      "Through a doctrinal and comparative legal approach, this paper assesses the historical development, moral underpinnings, and jurisdictional implications of articulating ecocide internationally.",
-      "The paper seeks to demonstrate that ecocide endangers not only the environment, but human rights, world peace, and intergenerational justice, using case studies like the Bhopal gas leak and Deepwater Horizon oil spill to show insufficient legal responses.",
-      "Ethically, criminalization is warranted by principles of ecocentrism and intergenerational justice. Legally, while challenges exist, the paper argues for amending the Rome Statute to include ecocide by utilizing Article 30's clause and amending mens rea to include recklessness.",
-      "The research provides a policy platform including amending the Rome Statute, enacting domestic legislation, developing corporate accountability mechanisms, and integrating restorative justice.",
-      "Recognizing ecocide as an international crime is legally possible and an ethical imperative for environmental sustainability, justice, and accountability for future generations."
-    ],
-    keyword: [
+  id: 6,
+  serialNumber: 41,
+  issue: 4,
+  volume: 1,
+  title: "SHOULD ECOCIDE BE RECOGNIZED AS THE FIFTH INTERNATIONAL CRIME UNDER THE ROME STATUTE? A LEGAL, ETHICAL, AND JURISDICTIONAL ANALYSIS.",
+  author: "Ankitha Lahari M N, Aiswaryya Dhamodaran, Vidushi, K. K. Sreepurna",
+  authorAbbrev: "A. Lahari, A. Dhamodaran, Vidushi, K.K. Sreepurna",
+  abstract: [
+    "This research critically examines the pressing need to recognize ecocide - defined as large-scale, long-term, and serious environmental destruction - as the fifth international crime in the Rome Statute of the International Criminal Court (ICC).",
+    "Through a doctrinal and comparative legal approach, this paper assesses the historical development, moral underpinnings, and jurisdictional implications of articulating ecocide internationally.",
+    "The paper seeks to demonstrate that ecocide endangers not only the environment, but human rights, world peace, and intergenerational justice, using case studies like the Bhopal gas leak and Deepwater Horizon oil spill to show insufficient legal responses.",
+    "Ethically, criminalization is warranted by principles of ecocentrism and intergenerational justice. Legally, while challenges exist, the paper argues for amending the Rome Statute to include ecocide by utilizing Article 30's clause and amending mens rea to include recklessness.",
+    "The research provides a policy platform including amending the Rome Statute, enacting domestic legislation, developing corporate accountability mechanisms, and integrating restorative justice.",
+    "Recognizing ecocide as an international crime is legally possible and an ethical imperative for environmental sustainability, justice, and accountability for future generations."
+  ],
+  keyword: [
       "Ecocide",
       "Article 30 of Rome Statute",
       "International Criminal Court",
@@ -11102,8 +11102,8 @@ const articles = [
     serialNumber: 42,
     issue: 4,
     volume: 1,
-    title: "Criminalizing Ecocide: Impacts on Justice",
-    author: "Pratishtha Purohit, Ayushi Sharma, Janvi Manojsinh Chauhan, Saroar Mohammad, Ayush Chaturvedi,Tanisha Mitra,Shanvi Thakre",
+    title: "What impact will it make on justice and environmental accountability if ecocide is criminalized?",
+    author: "Pratishtha Purohit, Ayushi Sharma, Janvi Manojsinh Chauhan, Saroar Mohammad, Ayush Chaturvedi, Tanisha Mitra, Shanvi Thakre",
     authorAbbrev: "P. Purohit, A. Sharma, J. M. Chauhan, S. Mohammad, A. Chaturvedi, T.Mitra , S. Thakre",
     abstract: [
       "With the increasing environmental crisis across the globe, ecocide has achieved more widespread recognition and broader awareness. It is high time we recognised ecocide as 5th International Crime under the Rome Statute (International Criminal Court,1998) since the existing legal provisions lack regulations or frameworks.",
@@ -11208,43 +11208,144 @@ const articles = [
       "As demonstrated, criminalisation can have a profound positive impact on environmental justice, holding states and corporations accountable, and enabling the judiciary to contribute effectively to ecological preservation."
     ],
     references: [
+
       {
-        heading: "Bhopte, N., Bansod, P., & Institute of Law and Legal Studies, SAGE University, Indore. (2024). Corporate Liability for Environmental Damages: A Critical Review of Legal Principles. International Journal of Creative Research Thoughts (IJCRT), 12(12), d397–d399."
-      },
-      {
-        heading: "European Commission. (2023). Directive on the protection of the environment through criminal law. Official Journal of the European Union."
-      },
-      {
-        heading: "Higgins, P., Short, D., & South, N. (2013). Protecting the Planet: A Proposal for a Law of Ecocide. Crime, Law, and Social Change."
-      },
-      {
-        heading: "Higgins, P., Short, D., & South, N. (2021). The ecocide draft definition. Stop Ecocide Foundation."
-      },
-      {
-        heading: "International Criminal Court. (1998). Rome Statute of the International Criminal Court."
-      },
-      {
-        heading: "McElwee, P. (2020). The Origins of Ecocide: Revisiting the Ho Chi Minh Trail in the Vietnam War. Environment & Society Portal, Arcadia. Rachel Carson Centre for Environment and Society."
-      },
-      {
-        heading: "Minkova, L. G. (2024). Ecocide, sustainable development and critical environmental law insights. Journal of International Criminal Justice, 22(1), 81–97."
-      },
-      {
-        heading: "Ordinioha, B., & Brisibe, S. (2013). The Human Health Implications of Crude Oil Spills in the Niger delta, Nigeria: an Interpretation of Published Studies. Nigerian Medical Journal, 54(1), 10."
-      },
-      {
-        heading: "Sands, P. (2018). Principles of international environmental law (4th ed.). Cambridge University Press."
-      },
-      {
-        heading: "Stop Ecocide International. (n.d.). Legal definition of ecocide drafted by an independent expert panel."
-      },
-      {
-        heading: "United Nations Environment Programme. (2019). Environmental crime and compliance: Emerging trends. UNEP."
-      },
-      {
-        heading: "Verzola, R. (2004). Industry, Efficiency and Corporations. Human Ecology Review."
-      }
-    ]
+    heading: "Bhopte, N., Bansod, P., & Institute of Law and Legal Studies, SAGE University, Indore. (2024). Corporate Liability for Environmental Damages: A Critical Review of Legal Principles. International Journal of Creative Research Thoughts (IJCRT), 12(12), d397–d399.",
+    link: "https://www.ijcrt.org/papers/IJCRT2304126.pdf"
+  },
+  {
+    heading: "Carrington, D. (2025, May 29). Company directors who cause nature damage in Scotland could face jail. The Guardian.",
+    link: "https://www.theguardian.com/environment/2025/may/29/company-directors-nature-damage-scotland"
+  },
+  {
+    heading: "Ecocide and Corporate Accountability. (n.d.). NUI Galway Law Review.",
+    link: "https://www.nuigalway.ie/lawreview/ecocide-and-corporate-accountability.html"
+  },
+  {
+    heading: "European Commission.",
+    link: "https://ec.europa.eu/info/index_en"
+  },
+  {
+    heading: "European Commission. (2023). Directive on the protection of the environment through criminal law. Official Journal of the European Union.",
+    link: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2023:123:TOC"
+  },
+  {
+    heading: "Gairdner, R. (2025, May 28). ‘Tantamount to EcoCide’: Council of Europe criminalises severe environmental harm — Stop Ecocide International.",
+    link: "https://www.stopecocide.earth/news/council-of-europe-ecocide"
+  },
+  {
+    heading: "GS Bajpai, & Shrawani Shagun. (2025, July 8). When nature dies, so do humans: Why India must criminalise ecocide. Bar And Bench - Indian Legal News.",
+    link: "https://www.barandbench.com/news/litigation/why-india-must-criminalise-ecocide"
+  },
+  {
+    heading: "Hamilton, H. (2025). Ecocide and the expressive power of international criminal law. Harvard Human Rights Journal, 38(1), 69–112.",
+    link: "https://harvardhrj.com/2025/05/ecocide-and-expressive-power-of-international-criminal-law"
+  },
+  {
+    heading: "Higgins, P., Short, D., & South, N. (2013). Protecting the Planet: A Proposal for a Law of Ecocide. Crime, Law, and Social Change.",
+    link: "https://link.springer.com/article/10.1007/s10611-013-9415-6"
+  },
+  {
+    heading: "Higgins, P., Short, D., & South, N. (2021). The ecocide draft definition. Stop Ecocide Foundation.",
+    link: "https://www.stopecocide.earth/stop-ecocide-draft-definition"
+  },
+  {
+    heading: "International Criminal Court. (1998). Rome Statute of the International Criminal Court.",
+    link: "https://www.icc-cpi.int/resource-library/documents/rs-eng.pdf"
+  },
+  {
+    heading: "Ipe, M. (2005). Bhopal Gas Tragedy: Lessons for Corporate Social Responsibility. Social Responsibility Journal, 1(3/4), 122–141.",
+    link: "https://www.emerald.com/insight/content/doi/10.1108/17471110510624600"
+  },
+  {
+    heading: "Kysar, D. A. (2020). Regulating From Nowhere: Environmental Law and the Search for Objectivity. Yale University Press.",
+    link: "https://yalebooks.yale.edu/book/9780300250867/regulating-nowhere"
+  },
+  {
+    heading: "Liao, C., & Pranav, A. (2024). Ecocide and Accountability: Legal Innovation or Moral Necessity? Global Environmental Politics.",
+    link: "https://www.mitpressjournals.org/doi/10.1162/glep_a_01379"
+  },
+  {
+    heading: "McElwee, P. (2020). The Origins of Ecocide: Revisiting the Ho Chi Minh Trail in the Vietnam War. Environment & Society Portal, Arcadia. Rachel Carson Centre for Environment and Society.",
+    link: "https://www.environmentandsociety.org/exhibitions/ho-chi-minh-trail-ecocide"
+  },
+  {
+    heading: "Michael Edwards. (2024, October 19). Corporate liability for environmental damage: legal perspectives and preventive strategies.",
+    link: "https://www.researchgate.net/publication/369857450_Corporate_Liability_for_Environmental_Damage"
+  },
+  {
+    heading: "Minkova, L. G. (2021). The Fifth International Crime: Reflections on the Definition of 'Ecocide.' Journal of Genocide Research, 25(1), 62–83.",
+    link: "https://www.tandfonline.com/doi/full/10.1080/14623528.2021.1879100"
+  },
+  {
+    heading: "Minkova, L. G. (2024). Ecocide, sustainable development and critical environmental law insights. Journal of International Criminal Justice, 22(1), 81–97.",
+    link: "https://academic.oup.com/jicj/article/22/1/81/6978890"
+  },
+  {
+    heading: "Nollkaemper, A. (2011). International environmental agreements and the rule of law. Netherlands Yearbook of International Law, 42(1), 139–164.",
+    link: "https://brill.com/view/journals/nyil/42/1/article-p139_6.xml"
+  },
+  {
+    heading: "Ordinioha, B., & Brisibe, S. (2013). The Human Health Implications of Crude Oil Spills in the Niger delta, Nigeria: an Interpretation of Published Studies. Nigerian Medical Journal, 54(1), 10.",
+    link: "https://www.nmjol.info/index.php/nmj/article/view/11072"
+  },
+  {
+    heading: "Palarczyk, D. (2023). Ecocide Before the International Criminal Court: Simplicity is Better Than an Elaborate Embellishment. Criminal Law Forum, 34(2), 147–207.",
+    link: "https://link.springer.com/article/10.1007/s10609-023-09445-3"
+  },
+  {
+    heading: "Polly Higgins. (2013). Damien Short Nigel South Crime, Law and Social Change.",
+    link: "https://link.springer.com/book/10.1007/978-94-007-4574-0"
+  },
+  {
+    heading: "Rahimli, N. M. a. J. (2024, December 2). The inclusion of Ecocide: Legal challenges and prospects for the Rome Statute. Cambridge International Law Journal.",
+    link: "https://www.cambridge.org/core/journals/cambridge-international-law-journal/article/inclusion-of-ecocide"
+  },
+  {
+    heading: "Sands, P. (2018). Principles of international environmental law (4th ed.). Cambridge University Press.",
+    link: "https://www.cambridge.org/core/books/principles-of-international-environmental-law/3A07E2C1CE7E39BAF1849D38BDE03B0C"
+  },
+  {
+    heading: "Schwegler, V. (2017). The Disposable Nature: The Case of Ecocide and Corporate Accountability. Amsterdam Law Forum, 9(3), 71.",
+    link: "https://www.alf.nl/artikelen/2017/3/71"
+  },
+  {
+    heading: "Singh, U. (2024). Judicial Activism and Sustainable Development: The path to environmental justice. JETIR, 11, 9.",
+    link: "https://www.jetir.org/papers/JETIR240123.pdf"
+  },
+  {
+    heading: "Steiner, R. (2010). Double Standard Shell Practices in Nigeria Compared with International Standards to Prevent and Control Pipeline Oil Spills and the Deepwater Horizon Oil Spill. Milieudefensie, Amsterdam, 11–15.",
+    link: "https://milieudefensie.nl/publicaties/double-standard-shell-practices"
+  },
+  {
+    heading: "Stop Ecocide International. (n.d.). Legal definition of ecocide drafted by an independent expert panel.",
+    link: "https://www.stopecocide.earth/definition"
+  },
+  {
+    heading: "Tridha Gosain, & Tridha Gosain. (2025, May 19). Re-Evaluating the Corporate Veil in Environmental Catastrophes - LHSS Collective. LHSS Collective.",
+    link: "https://lhsscollective.org/2025/05/19/re-evaluating-corporate-veil-environmental-catastrophes"
+  },
+  {
+    heading: "Tsilonis, V. (2024). Ecocide: The Emergence of a New Crime Within the Jurisdiction of the International Criminal Court? In Springer eBooks (pp. 265–297).",
+    link: "https://link.springer.com/chapter/10.1007/978-3-031-34567-8_13"
+  },
+  {
+    heading: "UNEP & Principles for Responsible Investment. (2022). ESG, Due Diligence, and Environmental Harm.",
+    link: "https://www.unepfi.org/publications/esg-due-diligence-and-environmental-harm/"
+  },
+  {
+    heading: "United Nations Environment Programme. (2019). Environmental crime and compliance: Emerging trends. UNEP.",
+    link: "https://www.unep.org/resources/report/environmental-crime-and-compliance-emerging-trends"
+  },
+  {
+    heading: "Verzola, R. (2004). Industry, Efficiency and Corporations. Human Ecology Review.",
+    link: "https://hdl.handle.net/11299/201895"
+  },
+  { 
+    heading: "Voigt, C. (2022). The difficult path to ecocide as an international crime. Journal of International Criminal Justice, 20(3), 557–579.",
+    link: "https://academic.oup.com/jicj/article/20/3/557/6608770"
+  },
+  ]
   },
   {
     id: 8,
