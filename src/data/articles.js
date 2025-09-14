@@ -12270,8 +12270,415 @@ const articles = [
   ]
 },
 
+{
+  id: 11,
+  serialNumber: 47,
+  chapterTitle: "The Strength of Institutions: Peace, Justice and Participation in a Divided World",
+  bookTitle: "Institutional Strength and Global Peace",
+      "authors": [
+        {
+          "name": "Annanya Jain",
+          "qualification": "Bachelor in Management Studies",
+          "college": "Keshav Mahavidhyalaya",
+          "university": "University of Delhi"
+        },
+        {
+          "name": "Athira Krishnan B",
+          "qualification": "B.A Economics",
+          "college": "Stella Maris College",
+          "university": "Madras University"
+        },
+        {
+          "name": "Rakshit Tiwari",
+          "qualification": "BA(Hons.) Political Science",
+          "college": "Ramakrishna Mission Vidyamandir"
+        },
+        {
+          "name": "Sanskriti Goel",
+          "qualification": "BA(Hons.) Political Science",
+          "college": "Kalindi College",
+          "university": "University of Delhi"
+        },
+        {
+          "name": "Saumya Soni",
+          "qualification": "MA Politics with specialisation in International Studies",
+          "university": "Jawaharlal Nehru University"
+        }
+      ],
+      "introduction": `In the contemporary time where the world is facing rapid global changes, conflicts, and deepening inequalities, 
+      the question of how societies can maintain and foster peace and justice has never been more important. A pivotal role in this global 
+      challenge is played by the institutions. These institutions, which are both formal and informal structures, try to uphold international 
+      laws, build cooperation, and govern decision-making. Sustainable development goal number 16 is a holistic target that calls for peaceful 
+      societies, justice for all, and accountable institutions at every level (national and international). Yet, even after years of efforts to 
+      build a just global society, many countries fall into the hands of political evils like corruption, exclusion, and inefficient institutions. 
+      This chapter aims to delve deep into how participation, peace, justice, righteous governance, and responsible institutions cannot only 
+      help build a strong nation but can also become a driver of sustainable development. This chapter examines key global and national dynamics 
+      from youth participation to international cooperation and conflicts. It ultimately helps understand the importance of a just and equitable 
+      future in the current global environment.`,
+      
+      "themes": [
+        {
+          "title": "Strengthening National Institutions to Prevent Violence and Combat Terrorism",
+          "sdgTarget": "16.b",
+          "author": "Saumya Soni",
+          "summary": `SDG 16, centred on ‘Peace, Justice and Strong Institutions’, is foundational as well as transformative for sustainable 
+          social development. Under this, Target 16.b particularly focuses on enhancing national institutions for preventing violence and fighting 
+          terrorism, as well as encouraging and enforcing non-discriminatory policies and laws. The global implications of this theme are immense: 
+          evidence repeatedly indicates that societies with good, accountable, and inclusive institutions are less prone to violence and extremism, 
+          and better able to promote justice, civic trust, and sustainable development. (UN, SDGs) (The global goals) (SDG16) 
+          
+          Sustaining national institutions under SDG 16 is more than building state capacity; it's about bringing these institutions within reach, 
+          equitable, and credible. The United Nations highlights that these institutions are a cornerstone for human rights and the wider 2030 Agenda, 
+          serving as an independent goal and as a facilitator for the achievement of all the other SDGs (UN Department of Economic and Social Affairs, 2024). 
+          Poor or dirty institutions can fuel violence, exclusion, and insecurity, as impediments to justice and equity discourage individual and collective progress 
+          (UN Department of Economic and Social Affairs, 2024). This theme is particularly acute in the global trends context. To illustrate, at the end of 2021, 
+          over 89 million individuals were forcibly displaced by conflict, persecution, or human rights violations, 41% of whom were children, evidencing the 
+          enormous, destabilizing impact of institutional failure and uncontained conflict (UNICEF Key Asks, SDG National Reviews, 2023). Functioning 
+          institutions, by contrast, protect rights, apply fair laws, and neutralize conflict before it causes larger-scale instability.
+          
+          Target 16.b is directly connected to the other components of SDG 16, which is to promote peaceful and inclusive societies by halving all types of 
+          violence, stopping abuse and trafficking, and drastically reducing corruption and bribery (UN The SDG report, 2025). The target also supports the reasoning 
+          that equal laws and institutions are indispensable preconditions for lowering violence, and that legal non-discrimination and inclusive policies are the keys 
+          to preventing the causes of terrorism and organized crime. The UN's ‘whole-of-society’ approach emphasizes a multi-level strategy: while national institutions 
+          need internal reforms and capacity development, community engagement, local ownership, and open oversight are essential to building trust (UN Department of 
+          Economic and Social Affairs, 2024). High-level UN conferences recently emphasized how SDG 16 needs to expand civic and political participation at every level 
+          so that citizens feel heard and safeguarded by their institutions (UN Department of Economic and Social Affairs, 2024).
+          
+          Empirical data underpin the role of effective institutions. Research quoted by UNICEF indicates that when governments implement broad legal reforms to outlaw 
+          all violence, combined with adequate resourcing for enforcement and prevention services, levels of violence, particularly against children, fall significantly 
+          (UNICEF Key Asks, SDG National Reviews, 2023). National coordinating structures dealing with violence against children and women are also found to be effective, 
+          particularly when combined with investments in education, social welfare, and justice delivery. From the scholarly literature, criminology dominates all other fields 
+          in SDG 16 research outputs and how the rule of law, trust in institutions, and non-discriminatory policy affect peace in society (Halevi, 2022). It emphasizes 
+          that nations with accountable judiciaries and independent human rights institutions are inherently more immune to both threats of domestic violence and 
+          international terrorism (Ozkanca, 2021). For example, Dursun-Özkanca's policy assessment of security sector reform emphasizes that human security and democratic 
+          oversight are central connections between the SDG 16 goals and realistic, peace-building policies. UN frameworks like the Paris Principles for human rights bodies 
+          (GANHRI, Paris Principles) offer guideposts for tracking progress: one SDG measure follows the percentage of individuals who report discrimination, making 
+          it possible to gauge if legal reforms are really inclusive. 
 
-];
+          To sum up, Target 16.b captures a concrete, doable agenda: national institutions have to be built up, structurally and procedurally, to safeguard against violence 
+          and fight terrorism. This goes hand in hand with fostering justice, non-discrimination, and human rights. To conclude, the absence of open and fair institutions, 
+          vicious cycles of violence and insecurity continue, but with genuine institutional transformation and multi-level involvement, peaceful societies are within reach, 
+          and sustainable development can flourish down to its roots.`
+        },
+        {
+          "title": "Combating Corruption and Bribery: Building Integrity for a Just and Equitable Society",
+          "sdgTarget": "16.5",
+          "author": "Athira Krishnan B.",
+          "summary": `Corruption is a betrayal of public trust, not just a violation of the law. Corruption weakens the foundation of development and governance, 
+          from small-scale embezzlement of national resources to covert bribery. The Sustainable Development Goal (SDG) Target 16.5 acknowledges this threat 
+          and urges swift international action to significantly lessen bribery and corruption in all of its manifestations. In many developing and even developed 
+          nations, corruption is not just an occasional event; it is systemic. It shows up as grand corruption in government contracts, petty bribery in public 
+          services, and opaque political funding. The results are disastrous: public services are deteriorating, inequality increases, and crucial funds intended for 
+          infrastructure, hospitals, and schools are embezzled. Furthermore, by undermining the institutions designed to enforce the rule of law, corruption contributes 
+          to insecurity and violence.
+          
+          The economic cost of corruption is enormous on a global scale. The World Economic Forum estimates that corruption costs the world economy more than 
+          $2.6 trillion a year, or more than 5% of GDP. Bribes totaling $1 trillion are paid annually in developing nations alone (UNODC, 2019). Beyond monetary 
+          expenses, the harm to society is incalculable; it erodes democracy, deters foreign investment, and increases public disenchantment.
+          
+          Global Frameworks and Commitments The international community has created a number of frameworks to fight corruption because it recognizes its 
+          transnational nature. The most extensive international tool for combating corruption is still the United Nations Convention Against Corruption (UNCAC), 
+          which was ratified in 2003. (UNODC Corruption and Economic Crime Branch, n.d.) It pushes member nations to enact preventative policies, outlaw corrupt 
+          activities, and foster global collaboration in law enforcement and asset recovery. Simultaneously, organizations such as the Financial Action Task Force 
+          (FATF), Transparency International, and the World Bank play a crucial role in monitoring illicit financial flows and assisting national anti-corruption agencies 
+          in strengthening their capacity.
+          
+          National-Level Reforms and Innovations With varying degrees of success, nations have adopted a variety of strategies to combat corruption. Some, like Estonia, 
+          have reduced bureaucratic discretion and increased transparency by utilizing e-governance tools. Others, like India, have tackled public sector corruption by 
+          enacting the Prevention of Corruption Act (Amendment), 2018 and creating independent agencies like the Lokpal. By decreasing human interfaces and enhancing 
+          traceability, digitization of services, such as e-procurement and digital payments, has demonstrated benefits. (How Bad Is the Global Corruption Problem?, 2019) 
+          Protecting whistleblowers and involving citizens are exciting new areas. When freedom of information laws are paired with platforms that enable safe reporting 
+          of misconduct, citizens are empowered to hold their governments responsible. Investigating and exposing corrupt practices is another crucial function of the 
+          media and civil society organizations.
+
+          Persistent Challenges and the Way Forward In spite of societal tolerance, political meddling, and lax enforcement, corruption persists despite efforts. Anti-corruption 
+          organizations are either underfunded or lack autonomy in many nations. The rich and powerful can also avoid justice through offshore financial havens and cross-border 
+          corruption. The way forward needs to be multifaceted. It is essential to fortify institutional independence, guarantee judicial accountability, encourage openness in 
+          political funding, and develop civic education about morality and integrity. Repatriating stolen assets, improving beneficial ownership transparency, and plugging 
+          regulatory gaps in the financial sector must also be the main goals of international cooperation.
+          
+          Changing cultures, attitudes, and expectations is just as important to reducing corruption as enforcing the law. Trust in governance is undermined when public 
+          offices are perceived as a tool for personal benefit. However, societies prosper when institutions are clear, accountable, and transparent. In the end, reaching 
+          Target 16.5 is essential to achieving every other SDG. We cannot create the inclusive, resilient, and sustainable future that the 2030 Agenda envisions without 
+          just and moral governance.`
+        },
+        {
+  "title": "Multilateralism in Crisis",
+  "author": "Sanskriti Goel",
+  "summary": `The framework of international cooperation which is based on multilateral institutions like the 
+  United Nations, World Bank, IMF etc is currently facing a strain. These institutions were created to 
+  mediate state behaviour, prevent and manage global crises and uphold international norms but are 
+  becoming increasingly ineffective. The UN Security Council's paralysis, the absence of legally binding 
+  climate pledges, or the unequal distribution of COVID-19 vaccines are just a few examples of the visible 
+  cracks in the multilateralism framework. This chapter aims to analyze the causes of this dilemma and 
+  assess if international organizations can continue to fulfill their mandate in a world that is changing quickly.
+
+  Multilateralism in theory:  
+  John J Mearsheimer, a famous realist explains in his article “The false promise of international 
+  institutions” that these institutions have little to no independent influence on state behavior, and 
+  that their role in promoting peace and cooperation is greatly exaggerated. John J Mearsheimer 
+  defined institutions “as a set of rules that stipulate the ways in which states should cooperate and 
+  compete with each other. They prescribe acceptable forms of state behavior, and proscribe 
+  unacceptable kinds of behavior. He further explains that these rules are then encoded into an 
+  international law, but they are not binding. These rules only work in the real world if the states 
+  comply with them. (Mearsheimer, 1994-95)
+
+  Realist View - The realists view international institutions as a mere tool for powerful states to 
+  promote their own interests. They believe that these institutions have no power of their own and 
+  are a representation of the world's hierarchies. Mearsheimer mentions that "Institutions are 
+  largely ineffective because they cannot alter the anarchic structure of the international 
+  system." (Mearsheimer, 1994-95) Thus, the fall of multilateralism in the realist view is not as 
+  surprising because they always believed that in crisis, national interest would bypass the 
+  institutions.
+
+  Liberal Institutionalism - John J Mearsheimer gave a variety of institutionalist theories, namely, 
+  Liberal institutionalism, Collective security, and Critical theory. Robert Keohane writes in *After 
+  Hegemony*, "Institutions reduce uncertainty by providing information and promoting trust, which 
+  in turn fosters cooperation." (Keohane, R.O., 1984) However, Liberal institutionalism states that 
+  though international institutions are an effective way to promote cooperation and reduce the 
+  likelihood of a war, its effectiveness depends on the state's willingness to comply.
+
+  Constructive View - Norms, ideas, and identities are central to constructivism. These are 
+  generally defined as ‘a standard of appropriate behaviour for actors with a given identity’ 
+  (Katzenstein 1996, 5)(Katzenstein 1996, 5). Constructivists believe that international institutions 
+  fail not just because of power struggles but due to the weakening of norms and the advancement 
+  of nationalist ideas. Finnemore and Sikkink emphasize that "norms influence behavior not simply 
+  by constraining action, but by shaping actors' identities and interests." (Finnemore and Sikkink, 
+  1998) Amitav Acharya also argues that "the legitimacy of multilateral institutions depends on 
+  their ability to represent diverse identities and values, not just Western liberal norms." (Amitav 
+  Acharya, 2014) Constructivists say that there is a lack of consensus between the states in the 
+  institutions that shape the values and norms of the organization.
+
+  The institutions in the contemporary world are not value-driven and unbiased as they used to be, 
+  and hence we can clearly see them failing in various dynamics.
+
+  Inefficient international law:  
+  The inefficiency of global governance is quite prominent in the contemporary world. In the years 
+  the international institutions have failed to provide prominent global climate change governance, 
+  pandemic response, and even basic human rights (as seen in the case of the Israel conflict). 
+  These gaps in global governance are a result of the weakening of multilateral institutions. The 
+  root causes for the inefficiency of international institutions lie in the conflict of interests between 
+  state and global incentives and the weakness of international institutions in enforcement power 
+  that would ensure state compliance. (Advances in Social Science, Education and Humanities 
+  Research, volume 615, 2021)
+
+  In 2001, John Mearsheimer's *The Tragedy of Great Power Politics* gave people a completely 
+  different understanding of the entire international relationship. Military forces are essential for 
+  states to guarantee stability and ensure security in governing power. The same logic could be 
+  applied on an international scale, hence applicable to global institutions. Hence, military power 
+  holds to be a determining force in enforcing agreements between states, parallel to those within 
+  domestic parameters; however, international institutions lack such forces, so could not be 
+  efficient in the enforcement of the rule intrinsically. (Mearsheimer, J. J. 2001)
+
+  The second reason that the international institutions are not able to deliver is the conflict of 
+  interest between the states and the global incentives. Like different people have different 
+  conceptions of goodness, various countries also have their own conceptions of right and wrong. 
+  These contradictions can also prevent International institutions from allowing participants in 
+  International institutions to achieve the greatest pursuit of good. The U.S. withdrawal from the 
+  Paris Agreement under the Trump administration is an example of how national interest bypasses 
+  multilateral commitments.
+
+  Multilateralism's issue is not just an institutional one; it is a sign of a more significant change in 
+  world politics. Multilateralism might become a thing of the 20th century rather than a solution 
+  for the 21st if international institutions don't change to reflect the realities of the modern world.`
+},
+     {
+  "title": "Participation of Developing Countries in Global Governance: Challenges, Necessity, and the Way Forward",
+  "author": "Rakshit Tiwari",
+  "summary": `The contemporary world has shrunk significantly, owing to technological advancements and 
+  interconnectedness. With this closeness comes transnational challenges like climate change, 
+  conflicts, and pandemics. Global governance plays a pivotal role in addressing these issues. 
+  Developing countries are home to the major chunk of the human population and have historically 
+  remained marginalized in participation in global governance. The participation of the developing 
+  nations has evolved from resistance, challenge, and isolation to a more active engagement in 
+  global environmental governance (Adil Najam, 2005). However, this cannot be considered enough 
+  as the developing countries still face hindrances that prevent them from actively participating in 
+  global governance and restrict their decision-making ability. This section focuses on the nature of 
+  this participation, the hindrances that obstruct it, and why strengthening the role of developing 
+  countries in global governance remains a pressing necessity.
+
+  **Hindrances to the Participation of Developing Countries**:  
+  As already stated, developing countries are evolving into more active participants, and despite 
+  these advancements, the developing countries are still facing significant hindrances that are 
+  limiting their participation. The lack of financial and technical resources limits their participation 
+  in the global forum. Although the developing countries are evolving as more active participants 
+  (Adil Najam, 2005), many of them lack the necessary financial, technical, and institutional 
+  resources to participate fully in decision-making, negotiations, and policymaking processes.  
+  Furthermore, the biggest challenge lies in the design of international institutions, many of which 
+  were established at the post-World War 2 era and are still reflecting the domination of developed 
+  countries. For instance, institutions like the International Monetary Fund (IMF) allocate voting 
+  power on the basis of financial contributions, resulting in disproportionate influence for wealthy 
+  countries (Woods and Lombardi, 2006). This leaves the developing countries behind as they are 
+  not wealthy enough to provide financial contributions. Taking another example of the United 
+  Nations Security Council where only 5 members enjoy permanent membership, it provides them 
+  privileges like veto. No doubt, the developing countries may have formal representation, but the 
+  real decision-making powers are still concentrated in the hands of developed nations. All these 
+  issues are pulling the developing countries back, limiting their presence, at the same time 
+  reducing their ability to have a say in global governance. To overcome these challenges, it is 
+  important to reform the international institutes. (Thomas G. Weiss, 2009)
+
+  **Why Should Developing Countries Participate? The Way Forward**:  
+  The global institutions were established for combating global challenges like climate change, 
+  pandemic, poverty, and so on. The participation of developing countries is not a necessity for 
+  fairness or justice but a legitimate and strategic necessity. Countries all over the world suffer 
+  from the consequences of global challenges, and without the proper participation of developing 
+  countries, these challenges cannot be solved. Limited participation of developing countries leads 
+  to ineffective and poorly designed policies. When policies are made without their input, the 
+  implementation falters and the credibility shatters. On the other side, inclusion and better 
+  participation will foster cooperation and outcomes (Cyrus Rustomjee, 2005).
+
+  Furthermore, the participation of developing countries will bring practical benefits. Through 
+  proper participation, they can gain in technology transfer, climate resilience, and infrastructure 
+  investment. (World Economic Forum, 2023) For instance, through South-South cooperation, it is 
+  evident how it has increased their influence and say in the global forum. Therefore, structural 
+  reforms are necessary, and international institutions must restructure their decision-making and 
+  sharing of power policy to curb the domination of developed countries. Providing financial 
+  support and giving equitable representation will pave the way for a better future. Strengthening 
+  the participation will not only benefit them, at the same time it will benefit the entire globe 
+  collectively.
+
+  **Developing Countries Must Have a Strong Say and Equitable Representation in Global Governance**:  
+  Developing countries must have a strong say and equitable representation in global governance 
+  because the global challenges affect everyone. Without their participation, coming to a solution is 
+  impractical and lacks insights, which might result in poor and weak policy often biased.  
+  Inclusion of developing countries in decision-making leads to fairer, more effective policies that 
+  will benefit all. To make it a reality, international institutions need to change how they share 
+  power, and they need to help developing countries to build the skills and resources to participate 
+  fully. In the end, stronger and equitable representation and participation of developing countries 
+  is not just good for them but makes the whole world better equipped to solve common 
+  problems together.`
+},
+ {
+  "title": "Youth Involvement in Strengthening Governance",
+  "author": "Annanya Jain",
+  "summary": `Globally, over 1.8 billion young people represent a significant demographic force, yet they 
+  remain largely marginalized from formal governance processes (UN DESA, 2023). World Youth 
+  Report 2023: Youth and Governance. As the next generation of leaders, their engagement is not 
+  only a matter of democratic equity but also a practical necessity. Youth possess a high degree of 
+  digital literacy, creativity, and adaptability, traits essential for tackling persistent governance 
+  challenges such as corruption, social inequality, and exclusion (UNODC, 2019). Youth Empowerment 
+  and Integrity.
+
+  Youth-led initiatives have catalyzed important political and institutional reforms in various 
+  contexts. One notable example is Nigeria’s “Not Too Young To Run” movement, which 
+  successfully advocated for the reduction of age barriers for political candidacy, thereby 
+  enhancing political inclusion (Yiaga Africa, 2018). On the global stage, the United Nations’ 
+  “Youth2030” strategy has institutionalized youth participation across international governance 
+  structures, underscoring the importance of integrating young voices in decision-making processes 
+  (United Nations, 2018). Youth2030: The United Nations Youth Strategy.
+
+  Formal mechanisms such as youth councils, youth parliaments, and advisory boards have been 
+  established in many regions to facilitate structured youth engagement. However, these bodies 
+  often struggle with issues such as tokenistic involvement, insufficient institutional power, and 
+  weak policy implementation (UN DESA, 2023). World Youth Report 2023: Youth and Governance.  
+  Further complicating youth participation are systemic barriers, including economic inequality, 
+  limited access to quality education, and lack of digital connectivity, challenges that are 
+  particularly acute in rural and marginalized areas (Social Change Nepal, 2021). Youth Engagement 
+  in Governance and Development.
+
+  Addressing these issues requires comprehensive and inclusive approaches. Integrating civic 
+  education into national curricula can cultivate informed and active young citizens. Additionally, 
+  youth-inclusive policies must be developed and operationalized through transparent frameworks. 
+  Governments should prioritize investment in digital platforms that facilitate two-way 
+  communication, enabling real-time feedback and participatory policy-making processes (UN 
+  DESA, 2023). World Youth Report 2023: Youth and Governance.
+
+  Thus, advancing Sustainable Development Goal 16, focused on peace, justice, and strong 
+  institutions, requires the meaningful inclusion of youth in governance. Their participation 
+  enhances institutional legitimacy, strengthens democratic culture, and contributes to more 
+  inclusive and accountable governance systems. Failing to harness the potential of youth not only 
+  undermines democratic development but also risks perpetuating cycles of exclusion and 
+  disempowerment.`
+},
+
+  {
+  "title": "Conclusion",
+  "summary": `This book chapter has demonstrated that effective, accountable, and inclusive institutions are 
+  central to achieving not only Sustainable Development Goal 16, but also the broader 2030 
+  Agenda for Sustainable Development. Through a thematic exploration, it is abundantly clear that 
+  the strength of institutions, at global, national, and local levels deeply shapes the prospects for 
+  peace, justice, and inclusive participation in our increasingly interconnected and fragmented 
+  world. As the themes have shown, robust institutions underpin democracy, safeguard human 
+  rights, reduce violence, curb corruption, and give voice to marginalized groups, including youth 
+  and developing nations. However, persistent challenges threaten this foundation. From the 
+  weakening of multilateral organizations and rising geopolitical rivalries to systemic corruption 
+  and exclusionary practices, institutional failure continues to impede collective progress. The 
+  Iran-Israel conflict, for example, starkly exposes the limits of international security frameworks 
+  and the dire consequences of institutional paralysis and mistrust.
+
+  It also emphasizes that strong institutions are not built solely through legal reforms or technical 
+  capacity-building. They require genuine political will, a culture of transparency and integrity, and 
+  vibrant civic participation that holds power to account. Meaningful inclusion of youth, women, 
+  the poor, and Global South countries in decision-making is indispensable for fostering legitimacy 
+  and finding durable solutions to today’s complex challenges. Conversely, when laws are applied 
+  unequally, when voices are excluded, and when leadership lacks accountability, cycles of 
+  violence, poverty, and instability are reinforced. Looking forward, institutional renewal must be 
+  comprehensive and multi-layered. At the global level, international organizations need urgent 
+  reform to reflect new realities and ensure equitable representation. Nationally, governments must 
+  prioritize independent oversight, anti-corruption measures, and non-discriminatory policies that 
+  empower all communities. At the local level, strengthening community-based accountability and 
+  embracing the innovation and energy of youth are essential for sustainable transformation.
+
+  Ultimately, progress on SDG 16 is not just a standalone goal; it is the enabling force for all the 
+  Sustainable Development Goals. The world’s hope for peace, justice, and prosperity rests on our 
+  collective ability to build and sustain institutions that are resilient, transparent, and truly 
+  inclusive. Without this, sustainable development remains an unfulfilled promise. With it, a fairer 
+  and more peaceful world is within reach.`
+},
+
+{
+  "title": "References",
+  "references": [
+    { "author": "Acharya, A.", "year": 2014, "title": "The end of American world order", "publisher": "Polity Press" },
+    { "author": "Advances in Social Science, Education and Humanities Research", "year": 2021, "volume": 615 },
+    { "author": "Dursun-Özkanca, O.", "title": "The nexus between security sector governance/reform and Sustainable Development Goal 16", "note": "An examination of conceptual linkages and policy recommendations" },
+    { "author": "E3/EU+3 & Iran", "year": 2015, "date": "July 14", "title": "Joint Comprehensive Plan of Action", "source": "International Atomic Energy Agency", "url": "https://www.iaea.org/topics/" },
+    { "author": "Estonian Government", "title": "E-Estonia: The digital society", "url": "https://e-estonia.com/" },
+    { "author": "Finnemore, M.", "author2": "Sikkink, K.", "year": 1998, "title": "International norm dynamics and political change", "journal": "International Organization", "volume": 52, "issue": 4, "pages": "887–917" },
+    { "author": "Government of India", "year": 2005, "title": "Right to Information Act, 2005", "url": "https://rti.gov.in/" },
+    { "author": "Government of India", "year": 2018, "title": "The Prevention of Corruption (Amendment) Act, 2018", "url": "https://prsindia.org" },
+    { "author": "Halevi, G.", "title": "SDG 16: Peace, justice and strong institutions" },
+    { "author": "International Atomic Energy Agency", "year": 1957, "title": "The Statute of the IAEA", "url": "https://www.iaea.org/about/statute" },
+    { "author": "International IDEA", "year": 2021, "title": "The Global State of Democracy Report 2021: Building resilience in a pandemic era", "url": "https://www.idea.int/gsod/" },
+    { "author": "Keohane, R. O.", "year": 1984, "title": "After hegemony: Cooperation and discord in the world political economy", "publisher": "Princeton University Press" },
+    { "author": "Katzenstein, P. J.", "year": 1996, "title": "The culture of national security: Norms and identity in world politics", "publisher": "Columbia University Press" },
+    { "author": "Mearsheimer, J. J.", "year": "1994–1995", "title": "The false promise of international institutions", "journal": "International Security", "volume": 19, "issue": 3, "pages": "5–49" },
+    { "author": "Mearsheimer, J. J.", "year": 2001, "title": "The tragedy of great power politics", "publisher": "W. W. Norton & Company" },
+    { "author": "Najam, A.", "year": 2005, "title": "Developing countries and global environmental governance: From contestation to participation to engagement", "journal": "International Environmental Agreements: Politics, Law and Economics", "volume": 5, "pages": "303–321" },
+    { "author": "OECD", "year": 2020, "title": "Digital Government Index: 2019 results", "publisher": "Organisation for Economic Co-operation and Development", "url": "https://www.oecd.org/gov/digital-government-index.htm" },
+    { "author": "Rustomjee, C.", "year": 2005, "title": "Why developing countries need a stronger voice", "journal": "Finance & Development", "volume": 42, "issue": 3, "pages": "42–44" },
+    { "author": "Shah, A.", "year": 2007, "title": "Participatory budgeting", "publisher": "The World Bank", "url": "https://openknowledge.worldbank.org/handle/10986/6640" },
+    { "author": "Social Change Nepal", "year": 2021, "title": "Youth participation in governance", "url": "https://socialchange.org.np" },
+    { "author": "The Global Goals", "title": "Goal 16: Peace, justice and strong institutions", "url": "https://globalgoals.org/goals/16-peace-justice-and-strong-institutions/" },
+    { "author": "Transparency International", "year": 2023, "title": "Corruption Perceptions Index 2023", "url": "https://www.transparency.org/en/cpi/2023" },
+    { "author": "Treaty on the Non-Proliferation of Nuclear Weapons", "year": 1968, "title": "Treaty on the Non-Proliferation of Nuclear Weapons", "reference": "21 U.S.T. 483, 729 U.N.T.S. 161" },
+    { "author": "U.N. Security Council", "year": 2015, "date": "July 20", "title": "Resolution 2231 (S/RES/2231)", "url": "https://undocs.org/S/RES/2231(2015)" },
+    { "author": "UNDP", "year": 2022, "title": "Anti-Corruption and Integrity in Development", "url": "https://www.undp.org" },
+    { "author": "United Nations", "year": 1945, "title": "Charter of the United Nations and Statute of the International Court of Justice", "url": "https://www.un.org/en/about-us/un-charter/full-text" },
+    { "author": "United Nations", "year": 2015, "title": "Transforming our world: The 2030 Agenda for Sustainable Development", "url": "https://sdgs.un.org/2030agenda" },
+    { "author": "United Nations", "year": 2018, "title": "Youth2030: The United Nations youth strategy", "url": "https://www.un.org/youthenvoy/youth2030/" },
+    { "author": "United Nations", "year": 2023, "title": "The Sustainable Development Goals Report 2023", "url": "https://unstats.un.org/sdgs/report/2023/" },
+    { "author": "United Nations", "year": 2025, "title": "The SDG report 2025: SDG 16", "publisher": "United Nations" },
+    { "author": "United Nations Department of Economic and Social Affairs", "year": 2023, "title": "2023 SDG national reviews report: Key asks", "publisher": "United Nations" },
+    { "author": "United Nations Department of Economic and Social Affairs", "year": 2024, "title": "SDG 16: A cornerstone for achieving all global goals", "publisher": "United Nations" },
+    { "author": "United Nations Department of Economic and Social Affairs", "title": "Promoting youth participation in decision-making and public service delivery", "url": "https://desapublications.un.org" },
+    { "author": "United Nations Office on Drugs and Crime", "title": "Corruption and Economic Crime Branch", "url": "https://www.unodc.org/corruption/en/index.html" },
+    { "author": "United Nations Office on Drugs and Crime", "year": 2019, "title": "Education for Justice (E4J) initiative", "url": "https://www.unodc.org" },
+    { "author": "United Nations", "title": "SDG 16: Peace, justice and strong institutions", "url": "https://www.un.org/sustainabledevelopment/peace-justice/" },
+    { "author": "Woods, N.", "author2": "Lombardi, D.", "year": 2006, "title": "Voting power in the International Monetary Fund: The limits of reform", "journal": "Review of International Political Economy", "volume": 13, "issue": 3, "pages": "480–515" },
+    { "author": "World Bank", "year": 2022, "title": "Worldwide Governance Indicators", "url": "https://info.worldbank.org/governance/wgi/" },
+    { "author": "World Economic Forum", "year": 2018, "title": "Corruption costs developing countries $1.26 trillion per year", "url": "https://www.weforum.org" },
+    { "author": "World Economic Forum", "year": 2023, "title": "How developing countries empower themselves to navigate the challenges of global cooperation" },
+    { "author": "Yiaga Africa", "year": 2018, "title": "#NotTooYoungToRun campaign", "url": "https://yiaga.org" },
+    { "author": "Weiss, T. G.", "year": 2009, "title": "Global governance: Why? What?" }
+  ]
+  }
+  ]
+}
+
+]
+
 
 
 export default articles;
+
