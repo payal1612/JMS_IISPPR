@@ -131,7 +131,7 @@ const ResearchCard = ({ articles, onDelete }) => {
       {/* Top bar */}
       <div className="flex justify-between items-center relative z-10" style={{ color: '#703b5f' }}>
         <span className="text-sm font-medium">
-          Serial {articles.id}
+          page {articles.id}
         </span>
         <span className="text-sm font-medium">
           Issue {articles.issue} · Volume {articles.volume}

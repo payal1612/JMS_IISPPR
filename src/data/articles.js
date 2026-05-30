@@ -21,7 +21,7 @@ const articles = [
       "Improving rural education in India",
       "Kerala model of education and Literacy policy in India",
     ],
-    status: "Submitted",
+    status: "published",
     intro: [
       "Literacy in India displays significant regional imbalances, with Bihar, Odisha, and West Bengal continuing to rank below the national average. Bihar, in particular, had the lowest literacy rate of just 61.8% as per the 2011 Census, while Kerala topped the chart at 93.9%, showcasing the stark contrasts in education quality and access. These disparities emphasize that universal education, though a constitutional right, remains inaccessible to many in India.",
       "Raising literacy rates is not merely a statistical endeavor—it directly impacts economic development, public health, gender equality, and social empowerment. Education reforms, therefore, must prioritize quality education for all, particularly in underdeveloped states. Kerala’s education model, widely known as the “Kerala model of literacy,” serves as a benchmark of how sustained public investment, social inclusion, and policy consistency can deliver transformative outcomes.",
@@ -310,7 +310,7 @@ const articles = [
     abstract:
       "An overview of how the 2017 Maternity Benefit Amendment Act shaped women's workforce participation in India from 2014–2024, with insights into policy gaps, mental health, and employer responses.",
     keywords: ["Maternity", "Labour", "Workforce", "Women", "India"],
-    status: "Submitted",
+    status: "published",
     intro: [
       "“In a country where over 90% of working women are in the informal sector, can a law designed for the formal workforce bring real change?” This paradox frames the critical examination of the Maternity Benefit (Amendment) Act, 2017 — a law that extended maternity leave from 12 to 26 weeks and mandated crèche facilities in workplaces with more than 50 employees, in the hope of improving maternal health and women’s labor retention. This article explores the Act’s impact on women’s workforce participation in India between 2014 and 2024, a period marked by policy reform, economic shifts, and a global pandemic. The discussion provides a holistic overview of legislative intent, national labor trends, employer responses, regional disparities, and psychological challenges faced by mothers. Key themes include the mismatch between formal-sector policy and informal-sector reality, the rise in rural women’s workforce participation driven more by economic necessity than legal protection, and the cost burdens faced by employers, especially SMEs. The article is structured around five major sections — beginning with legal and historical background, followed by labor market trends, disparities in implementation, employer and SME reactions, and psychological return-to-work dynamics. These sections together reveal that while the Act is a necessary step toward inclusive labor reform, it remains insufficient in scope and accessibility. The topic holds significance not only for legal and economic scholars but also for policymakers and advocates of gender equity, as it highlights how structural inequality persists despite well-intentioned legislation and underscores the need for broader, more inclusive interventions. It also offers insights into future policy directions for inclusive maternal labor protections.",
     ],
@@ -728,7 +728,7 @@ const articles = [
       "Renewable energy",
       "Methane leakage",
     ],
-    status: "Submitted",
+    status: "published",
     intro: [
       "The globe is currently experiencing a paradigm shift, towards decarbonization of the energy matrix, and hydrogen, as energy vector, has an opportunity in various areas including industrial application processes, power, and transportation. Nevertheless, hydrogen is not a clean fuel by its nature, and its environmental impact would depend radically on its production method. Hydrogen is classified as grey, blue and blue hydrogen today as a short hand of the production pathways, each of which has very different implications on greenhouse gas emissions, resource and ecological trade-offs.",
       "Visualisation of global hydrogen production. Grey hydrogen mainly formed through the steam methane reforming (SMR) of natural gas but without carbon capture at present has an absolute majority in global production. It has great impact on climate and lifecycle emissions of hydrogen can surpass 1015 kg CO 2 -equivalent of 1 kilogram of hydrogen. Blue hydrogen, by comparison, also includes carbon capture and storage (CCS) as a part of the SMR process with a view to minimizing net emissions, though like SMR itself it still relies on fossil feedstocks and is susceptible to both methane fugitive emissions and varying levels of CO 2 capture effectiveness. The one I commonly hear extolled as the most sustainable is green hydrogen, made by electrolysing water with renewable energy; but it has issues with land use, water requirements, and power intermittency. The variety in this requires a stringent, comparative analysis of the claims of sustainability of each pathway.",
@@ -855,7 +855,7 @@ const articles = [
       "sustainable",
       "vison",
     ],
-    status: "Submitted",
+    status: "published",
     intro: [
       "Climate change is getting worse every year. Environmental harm is more visible now than ever. Following the global agreement of the United Nations, which is known as the Sustainable Development Goals, environmental responsibility has been the guiding metric for many corporations. (United Nations, 2015) Companies are judged by consumers, investors, and the media. This has led to an increase in “green messaging” in brand images and marketing. It has given rise to false or misleading marketing tactics used by many corporations. This phenomenon is known as greenwashing. It is the practice of making a good, service, or policy seem less harmful or more ecologically friendly than it is. As the need to fulfill the global agreement that  (SDGs) increases, the abuse of environmental branding misleads the stakeholders and delays real climate action. This paper studies greenwashing and how branding supports it. It also dives deep into how vague claims hinder trust among consumers. It also explores audits and standards that can help support genuine climate-conscious campaigns and corporations.",
     ],
@@ -1039,7 +1039,7 @@ const articles = [
       "Foreign Policy",
       "Soft Power and Community Health Worker",
     ],
-    status: "Submitted",
+    status: "published",
     intro: [
       "“Health is not merely the absence of disease—it is a matter of social justice. And diplomacy must serve justice.”",
       "— Dr Tedros Adhanom Ghebreyesus, Director-General, World Health Organisation",
@@ -1187,7 +1187,7 @@ const articles = [
       "International Relations",
       "WAVES Summit",
     ],
-    status: "Submitted",
+    status: "published",
     intro: [
       "Cultural diplomacy, although rooted in age-long cross-cultural interactions (Grincheva, 2023), is a 21st century’s pillar of soft power in foreign policy and diplomatic relations. It is a branch of foreign policy where countries utilise the uniqueness of their culture to facilitate their diplomatic goals. According to Milton Cummings, cultural diplomacy can be described as the “exchange of ideas, information, art, language and other aspects of culture among nations and peoples in order to foster mutual understanding” (UNESCO, 2023).",
       "Made up of people from diverse religions, languages, cultures and regions, India is not new to the concept of cross-cultural relations. At the national level, India practices interculturalism, encouraging regional diversity and acceptance by promoting pluralism (Manian & Naidu, 2009).  At the global stage, India engages in cultural exchange, sharing its cultural practices with the rest of the world in its diplomatic pursuit. In multilateral forums such as the United Nations, India has emphasised cultural heritage as a universal connector. India’s role in founding the International Solar Alliance aimed at promoting sustainable development in the world’s environment is founded on ancient Indian philosophies like the Prakriti Dharma (harmony with nature) (Mohanapriya & Suriya, 2025). This subtly links India’s past with a vision for the future. Moreover, India's engagement with Africa, Southeast Asia, and Latin America is increasingly rooted in cultural commonalities. Initiatives like Bharat Ko Janiye (Know India Programme) for youth of Indian origin and cultural festivals (Douw et al., 2024) organised through embassies promote mutual respect and cooperation.",
@@ -1393,7 +1393,7 @@ const articles = [
       "Feminist movements",
       "Social transformation",
     ],
-    status: "Submitted",
+    status: "published",
     intro: [
       "Women's empowerment in India is deeply intertwined with the complexities of unpaid employment, caste hierarchies, and intersecting social factors. Unpaid domestic and care work remains a central barrier to women's economic empowerment, with Indian women disproportionately burdened by such responsibilities. Being a woman in India often means shouldering a disproportionate burden of unpaid care work, navigating patriarchal societal norms, and facing significant barriers to education, employment, and healthcare. This work, largely invisible in economic statistics and undervalued in policy, restricts women’s labor force participation and perpetuates dependency and marginalization. According to the World Bank, women in India spend an average of 5 hours and 35 minutes per day on unpaid care work, compared to 38 minutes per day for men.(Observer Research Foundation. (2022, October 17)) [OBSERVE RESEARCH FOUNDATION,(2022, OCTOBR 17]",
       "Caste and class further compound the issue. Patriarchal norms are more rigid among higher castes, limiting women’s mobility and autonomy, while lower-caste women, despite higher labor force participation, often face double burdens—engaging in both unpaid care and low-paid informal sector work. (Rege, S. (1998)) [REGE, S.(1998)].The lived experience of empowerment is highly variable, shaped by hereditary and localized caste dynamics.(Chopra, D., & Zambelli, E. (2017))[CHOPRA, D.,&ZAMBELLI, E. (2017)] Public policy responses have included affirmative action, reservations, and employment schemes , which offer frameworks for women to claim rights, but implementation gaps persist. The Government of India has initiated various schemes and policies to promote women's empowerment, including the National Policy for Women's Empowerment in 2001. Initiatives like microfinance programs, skill development training, and entrepreneurship support to enhance women's economic independence that will play a significant role in reducing the unpaid work culture of women. Social Empowerment by making efforts to address social issues like education, health, and violence against women, promoting gender equality and social justice which will make women uplift their position in India. Political Empowerment by  Reservation of seats for women in local governance bodies, promoting women's participation in decision-making processes. Studies indicate a positive impact of government initiatives on women's empowerment, but challenges persist, including societal attitudes, lack of awareness, and limited access to resources. Effective implementation and monitoring of policies are crucial to achieving desired outcomes. (Desai, S., & Thakkar, U. (2007)) [DESAI, S.& THAKKAR, U.(2007)]",
@@ -1747,7 +1747,7 @@ const articles = [
       "Permanent Court of Arbitration",
       "Indo-Pacific security",
     ],
-    status: "Submitted",
+    status: "published",
     intro: [
       "Rich in natural riches and an essential route for international trade, the South China Sea has become a major international flashpoint with conflicting territorial claims over economic stability and regional security. The disputed 'Nine-Dash Line' is often used to depict China's vast maritime claims. This line crosses the exclusive economic zones (EEZs) of several Southeast Asian nations, including Vietnam, the Philippines, Malaysia, Brunei, and Indonesia, and encircles a sizable section of the South China Sea, which contains several islands and reefs. A hub of geopolitical complexity and heightened competition, the South China Sea is rich in fisheries resources, making up almost 12% of the world's total fish catch and essential to the livelihoods of millions in the area. It also holds substantial undeveloped oil and gas reserves, with an estimated 11 billion barrels of oil and 190 trillion cubic feet of natural gas, influencing the wealth and potential economic expansion of neighbouring countries. As a vital route handling more than one-third of all marine traffic worldwide, the South China Sea's strategic significance extends to international trade. Carrying commodities worth over $3 trillion annually and linking major Asian economies with markets in Europe, Africa, and the Americas, it becomes a focal point for overlapping marine authorities and territorial claims, underscoring its global importance. The region’s rich historical background dates back many centuries. China, the Philippines, Vietnam, Malaysia, Brunei, and Taiwan are among the powers vying for control of various islands and reefs. This rivalry has produced a complicated web of conflicts that entwine tactical advantages, national pride, and historical interpretations. The involvement of global powers like the United States adds new dimensions to this already complex situation.",
     ],
@@ -1905,7 +1905,7 @@ const articles = [
       "Curriculum Development",
       "Awareness",
     ],
-    status: "Submitted",
+    status: "published",
     intro: [
       "Promoting responsible, knowledgeable, and engaged citizens starts with raising awareness of human rights. Raising awareness among young people is essential in Bangladesh, where social justice and democratic practices are still developing priorities. Institutions of higher learning are essential to this process. Human rights education is acknowledged by policy, but there is still inconsistency in how it is actually incorporated into curricula and student life. This study examines university students' level of human rights awareness, assesses how existing policy frameworks meet this need, and gauges young people's participation in discussions about rights.",
     ],
@@ -2082,7 +2082,7 @@ const articles = [
       "Ultimately, this paper argues that multipolarity reshapes the structure of international diplomacy, shifting it away from a multilateral consensus to normative contestation and discursive fragmentation. ",
       "In a world like this, the politics of who defines, who speaks, and who defends become more than just a diplomatic issue; they become a fight for survival, inclusion, and global justice. ",
     ],
-    status: "Submitted",
+    status: "published",
     intro: [
       "Modern international relations are undergoing dramatic changes, not just in terms of who is in charge, but also in how that authority is perceived, utilised, and justified. Both disruption and opportunity have resulted from the shift from a post-Cold War unipolar world dominated by liberal Western democracies to a multipolar order. There is now intense competition for what once seemed to be established norms in the areas of migration, terrorism, gender equality, and security. The struggle for both material and epistemic supremacy lies at the core of this shifting terrain: What defines the threat? Whose safety is important? Moreover, in a fractured global order, what constitutes proper diplomacy? ",
       "International relations (IR) has historically given preference to masculinist logics of military deterrence, state sovereignty, and rationalist diplomacy. The lived realities of those who are disadvantaged by systematic violence, war, displacement, and exploitation have been masked by these paradigms, which have all too frequently ignored feminist criticisms and gendered experiences. Human trafficking, migration, and women's roles in peacebuilding were all framed within this paradigm as peripheral or 'soft' issues that did not fit the mould of conventional 'security' concerns. ",
@@ -2586,7 +2586,7 @@ const articles = [
       "marginalized communities",
       "Gender Inclusion Fund",
     ],
-    status: "Submitted",
+    status: "published",
     intro: [
       "Education in India stands at a critical intersection of demographic opportunity and systemic challenge. With over 248 million school-going children and the world’s largest youth population, the country has immense potential to leverage education as a tool for equitable development. However, two persistent and interlinked barriers continue to undermine this goal: gender disparity in educational access and the uneven quality and accountability of teachers in the public system.  ",
       "Researchers such as Bandopadhyay (2008) and White et al. (2016) have emphasized how patriarchal norms, poverty, poor infrastructure, and safety concerns significantly hinder girls’ access to education, particularly among marginalized communities. Despite national efforts—such as the Sarva Shiksha Abhiyan, the Right to Education Act, and the Gender Inclusion Fund under NEP 2020—gaps in enrolment, retention, and learning outcomes between boys and girls remain deeply entrenched.  Parallelly, the literature on teacher quality and professional accountability, such as studies by Hill (2011) and Mukherjee (2024), reveals critical deficiencies in both training institutions and systemic oversight. These gaps are magnified in rural and low-income areas. The Justice Verma Commission (2012) and recent Tata Institute of Social Sciences (TISS) studies (2023–24) have exposed the commercialization of teacher education and stark subject mismatches that further exacerbate inequities in learning outcomes.  This review explores how gender disparities in education are not just shaped by socio-cultural barriers, but also reinforced—or potentially mitigated—by the quality and accountability of teachers. By examining intersecting policy frameworks, institutional structures, and socio-cultural dynamics, this article seeks to highlight the dual need for gender-responsive reforms and systemic improvements in teacher education to achieve inclusive, quality education for all. ",
@@ -2872,6 +2872,7 @@ const articles = [
       "The Indo-U.S. bilateral relationship has undergone a remarkable transformation, evolving from the contested relations during the Cold War, into a strategic partnership shaped by mutual interests. Both nations have deepened their cooperation in defence, technology, innovation and other key sectors. Despite its potential, Indo-U.S. bilateral relations have become unpredictable ever since President Trump took office as the 47th President of the United States earlier this year. While expressing mutual interest and maintaining a good rapport with Prime Minister Modi, rising tariffs and trade barriers, mass deportations and increasing racial discrimination towards the Indian diaspora in the U.S. have strained the stability of this partnership.",
       "This article aims to trace the Indo-U.S. bilateral developments in seven parts, starting through the backdrop of President Biden’s administration followed by the tariff and trade practices and their implications. Then we critically examine defence relations, particularly the CAATSA sanctions, the plight of Indian students in the U.S. through the Harvard issue, the potential of transnational diplomacy, and the H-1B visa restrictions and the legacy of the Indian diaspora on the U.S. economy. The article concludes by evaluating the geopolitical implications of Indo-U.S. relations and its impact on international issues.",
     ],
+    
     keywords: [
       "Indo-U.S. relations",
       "Indian diaspora",
@@ -2885,6 +2886,7 @@ const articles = [
       "strategic partnership",
       "immigration policy",
     ],
+    
     intro: [
       "The Indo-U.S. bilateral ties have been one of the most dynamic geopolitical relationships in the past century. Rooted in a history of dependency during the inception of an Independent India and a relationship of mistrust during the Non-Aligned Movement, both India and the U.S. have redefined their bilateral relations by increasing cooperation in various sectors. As two of the major players in the Indian ocean over maritime security, the cooperation between them is important to the geopolitics of the Indo-Pacific region. Emerging from the idea of the American Dream amongst aspiring Indians leading to an increase in population, the Indian diaspora in the U.S. and their cultural influence has played a significant role in the bilateral ties.",
       "Despite this deepening partnership, recent developments in their bilateral relationship is posing a major threat of uncertainty, particularly under President Trump’s administration during his second tenure. Areas such as tariffs, immigration and racial equity have been of great concern over the past few months. While high level diplomatic engagement between President Trump and Prime Minister Narendra Modi, the domestic political shift in the United States seems to hinder the broader trajectory of this bilateral cooperation.",
@@ -3391,7 +3393,7 @@ const articles = [
     author: "Diganta Singha Roy, Devanshi Shrotriya, and Arunima Singh",
     authorAbbrev: "D. S. Roy, D. Shroytiya, and others",
     abstract: "This article explores the concept of Eco Swaraj, a decentralized, community-led model of environmental governance rooted in sustainability, equity, and participatory democracy. Focusing on South India, the study examines how Panchayati Raj Institutions (PRIs) and local initiatives have implemented Eco Swaraj principles to address ecological challenges. It highlights key policies like the 73rd Constitutional Amendment, Forest Rights Act, and Green India Mission, alongside grassroots success stories such as Kerala's Kudumbashree and Tamil Nadu's water conservation projects. The analysis identifies gaps in implementation, including structural inequalities and capacity deficits, while proposing policy recommendations to strengthen local governance, integrate traditional knowledge, and foster inclusive ecological stewardship. The article underscores the potential of Eco Swaraj to reconcile environmental sustainability with democratic participation, offering a pathway for resilient and equitable development.",
-    status: "Submitted",
+    status: "published",
     abstract:
       "This article explores the concept of Eco Swaraj, a decentralized, community-led model of environmental governance rooted in sustainability, equity, and participatory democracy. Focusing on South India, the study examines how Panchayati Raj Institutions (PRIs) and local initiatives have implemented Eco Swaraj principles to address ecological challenges. It highlights key policies like the 73rd Constitutional Amendment, Forest Rights Act, and Green India Mission, alongside grassroots success stories such as Kerala's Kudumbashree and Tamil Nadu's water conservation projects. The analysis identifies gaps in implementation, including structural inequalities and capacity deficits, while proposing policy recommendations to strengthen local governance, integrate traditional knowledge, and foster inclusive ecological stewardship. The article underscores the potential of Eco Swaraj to reconcile environmental sustainability with democratic participation, offering a pathway for resilient and equitable development.",
     intro: [
@@ -3902,7 +3904,7 @@ const articles = [
       "youth focused programs",
       "adaptive systems",
     ],
-    status: "Submitted",
+    status: "published",
     intro: [
       "Rural poverty remains one of the most persistent and complex development challenges in low-income countries. Despite decades of targeted interventions, rural populations continue to experience disproportionately high levels of distress not only in terms of income, but also in access to education, healthcare, social services and opportunities for quality life. According to the World Bank, four out of five people living below the international poverty line reside in rural areas and poverty rates in these regions have declined at less than half the pace of urban areas over the past two decades (World Bank, 2022).",
       "Social protection policies have emerged as critical tools in the fight against rural poverty, offering pathways to resilience and human development through short-term relief and long-term structural support. While many low income countries have implemented programs such as conditional cash transfers, public works and food subsidies, their design and reach remain uneven. This article explores the impact of social protection policies on rural poverty, while rethinking inclusion frameworks through a multidimensional lens that moves beyond income based approach to address the vulnerability of groups like the near poor.",
@@ -4331,7 +4333,7 @@ const articles = [
       `Gender-inclusive planning, the integration of mental health and psychosocial support (MHPSS), and recognition of animal life as part of urban ecosystems emerge as critical pillars of inclusive smart cities. From Pune’s trans-inclusive toilets to Nairobi’s digital literacy for LGBTQIA+ youth and Jaipur’s humane animal control programs, the study documents how cities can be reimagined as sites of belonging and dignity.`,
       `The research also calls for transforming urban governance into a co-governed, multi-actor process that breaks down institutional silos and embeds ethics in planning. Ultimately, it presents a blueprint for building cities in the Global South that are not only digitally enabled, but emotionally, socially, and ecologically intelligent. It asks: What if smart cities were not just about better tools—but better values?`,
     ],
-    status: "Submitted",
+    status: "published",
     content: [
       {
         heading:
