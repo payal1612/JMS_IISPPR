@@ -149,15 +149,15 @@ const EditionsPage = () => {
             </div>
           </div>
 
-          {/* Issues Container */}
-           <Issues
+          {/* Issues Container
+          <Issues
         onIssueClick={(issueTitle) => {
           const issueNumber = issueTitle.match(/Issue:\s*(\d+)/)?.[1];
           if (issueNumber) {
             navigate(`/editions/${issueNumber}`);
           }
-        }}
-      />
+        }} 
+      /> */}
         </motion.div>
       </div>
     </div>

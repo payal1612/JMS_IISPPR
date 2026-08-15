@@ -174,7 +174,7 @@ const LandingPage = () => {
                   Law Diplomacy Review
                 </h1>
                 <p className="text-[11px] sm:text-xs text-subtext mixcase tracking-wide">
-                  Law,Diplomacy,TechandPolicyReview
+                  Law Diplomacy Review
                 </p>
               </div>
             </div>
