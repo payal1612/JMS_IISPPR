@@ -5,23 +5,29 @@ import { Download } from "lucide-react";
 import { generateArticlePDF, downloadPDF } from "../utils/pdfExport";
 
 const articleRoutes1 = {
-  1: "/Bridging-Literacy-Gaps-in-India",
-  2: "/Impact-Of-The-Maternity-Benefit-Act",
-  3: "/The-Troubling-Rise-Of-Realism-Over-Institutionalism",
-  4: "/Life-Cycle-Environmental-Impact-Assessment",
-  5: "/Greenwashing-In-Corporate-Branding",
-  6: "/Primary-Health-Care-And-Foreign-Policy",
-  7: "/Projecting-Culture-Shaping-Perceptions",
-  8: "/The-Intersection-Of-Women-Empowerment",
-  9: "/Scripts-Symbols-and-Soft-Power-Tracing-Indias-Cultural-Diplomacy-in-Global-Affairs",
-  10: "/Sovereignty-Strategy-and-Systemic-Strain",
-  11: "/Evaluating-Policy-Gaps-And-Youth-Involvement",
-  12: "/Multipolar-Worldmaking",
-  13: "/Bridging-The-Education-Gap",
-  14: "/India-US-Bilateral-Relations",
-  15: "/Diplomacy-Beyond-Diplomats",
-  16: "/From-Gram-Sabha-To-Eco-Swaraj",
-  17: "/Impact-Of-Social-Protection-Policies",
+  1: "/Socioeconomic-Contradictions-Of-Child-Obesity-In-India",
+  2: "/Land-Labour-And-Livelihoods",
+  3: "/Housing-Affordability-Crisis-In-Global-Cities",
+  4: "/From-Green-Transition-To-Local-Tensions",
+  5: "/Vaccine-Diplomacy-And-Politics-Of-Influence",
+  6: "/Displaced-By-Degrees",
+  7: "/Bridging-Literacy-Gaps-in-India",
+  8: "/Impact-Of-The-Maternity-Benefit-Act",
+  9: "/The-Troubling-Rise-Of-Realism-Over-Institutionalism",
+  10: "/Life-Cycle-Environmental-Impact-Assessment",
+  11: "/Greenwashing-In-Corporate-Branding",
+  12: "/Primary-Health-Care-And-Foreign-Policy",
+  13: "/Projecting-Culture-Shaping-Perceptions",
+  14: "/The-Intersection-Of-Women-Empowerment",
+  15: "/Scripts-Symbols-and-Soft-Power-Tracing-Indias-Cultural-Diplomacy-in-Global-Affairs",
+  16: "/Sovereignty-Strategy-and-Systemic-Strain",
+  17: "/Evaluating-Policy-Gaps-And-Youth-Involvement",
+  18: "/Multipolar-Worldmaking",
+  19: "/Bridging-The-Education-Gap",
+  20: "/India-US-Bilateral-Relations",
+  21: "/Diplomacy-Beyond-Diplomats",
+  22: "/From-Gram-Sabha-To-Eco-Swaraj",
+  23: "/Impact-Of-Social-Protection-Policies",
 };
 
 const articleRoutes2 = {
@@ -60,21 +66,18 @@ const articleRoutes4 = {
   4: "/From-Policy-To-Progress",
   5: "/Trapped-in-silence",
   6: "/Should-Eco",
-  7:"/What-Impact",
+  7: "/What-Impact",
   8: "/digital-platform",
-  9:"/Blue-Diplomacy-in-Western-India",
-  10:"/Policy-To-Progress",
-  11:"/Paper-To-Practice",
-  12:"/Impact-Of-Trump-Era",
+  9: "/Blue-Diplomacy-in-Western-India",
+  10: "/Policy-To-Progress",
+  11: "/Paper-To-Practice",
+  12: "/Impact-Of-Trump-Era",
   13: "/Advancing-Urban-Institutional",
   14: "/Anlysing-The-Scope-Of-Feminist",
   15: "/Localizing-Climate-Action-The-National-Action",
-  16:"/Bridging-The-Divide-Digital-Public",
-  17:"/Modeling-Urban-Economic-Peformance"
-  
+  16: "/Bridging-The-Divide-Digital-Public",
+  17: "/Modeling-Urban-Economic-Peformance",
 };
-
-
 
 const ResearchCard = ({ articles, onDelete }) => {
   const [downloading, setDownloading] = useState(false);
@@ -84,11 +87,11 @@ const ResearchCard = ({ articles, onDelete }) => {
   const handleDownload = async () => {
     setDownloading(true);
     try {
-      console.log('Generating PDF with watermarks for:', {
+      console.log("Generating PDF with watermarks for:", {
         serialNumber: articles.serialNumber,
         issue: articles.issue,
         volume: articles.volume,
-        title: articles.title.substring(0, 50) + '...'
+        title: articles.title.substring(0, 50) + "...",
       });
 
       const pdf = await generateArticlePDF(articles);
@@ -99,12 +102,12 @@ const ResearchCard = ({ articles, onDelete }) => {
         .substring(0, 50);
 
       // Enhanced filename with watermark indicator and date
-      const dateStamp = new Date().toISOString().split('T')[0];
+      const dateStamp = new Date().toISOString().split("T")[0];
       const filename = `LDTPPR_WM_Serial${articles.serialNumber}_${sanitizedTitle}_${dateStamp}.pdf`;
 
       downloadPDF(pdf, filename);
 
-      console.log('PDF downloaded successfully with watermarks:', filename);
+      console.log("PDF downloaded successfully with watermarks:", filename);
     } catch (error) {
       console.error("Error generating PDF:", error);
       alert("Error generating PDF. Please try again.");
@@ -119,7 +122,7 @@ const ResearchCard = ({ articles, onDelete }) => {
     if (issue === 2) return articleRoutes2[id];
     if (issue === 3) return articleRoutes3[id];
     if (issue === 4) return articleRoutes4[id];
-    
+
     return null;
   };
 
@@ -129,10 +132,11 @@ const ResearchCard = ({ articles, onDelete }) => {
       <div className="absolute inset-0 z-0 rounded-xl group-hover:ring-2 group-hover:ring-new-primary/30 transition-all duration-300 pointer-events-none" />
 
       {/* Top bar */}
-      <div className="flex justify-between items-center relative z-10" style={{ color: '#703b5f' }}>
-        <span className="text-sm font-medium">
-          page {articles.id}
-        </span>
+      <div
+        className="flex justify-between items-center relative z-10"
+        style={{ color: "#703b5f" }}
+      >
+        <span className="text-sm font-medium">page {articles.id}</span>
         <span className="text-sm font-medium">
           Issue {articles.issue} · Volume {articles.volume}
         </span>
@@ -140,8 +144,14 @@ const ResearchCard = ({ articles, onDelete }) => {
 
       {/* Author + Status */}
       <div className="flex justify-between items-center relative z-10">
-        <span className="text-new-primary px-3 py-1 rounded-full text-xs font-medium" style={{ background: 'rgba(105, 49, 85, 0.13)' }}>
+        <span
+          className="text-new-primary px-3 py-1 rounded-full text-xs font-medium"
+          style={{ background: "rgba(105, 49, 85, 0.13)" }}
+        >
           {articles.authorAbbrev}
+        </span>
+        <span className="px-3 py-1 rounded-full text-xs font-medium bg-amber-800 text-amber-50">
+          DOI
         </span>
         <span className="px-3 py-1 rounded-full text-xs font-medium bg-green-100 text-green-800">
           {articles.status}
@@ -149,19 +159,27 @@ const ResearchCard = ({ articles, onDelete }) => {
       </div>
 
       {/* Title */}
-      <h2 className="text-xl font-serif font-bold leading-tight relative z-10 transition duration-300 group-hover:text-primary" style={{ color: '#482742ff' }}>
+      <h2
+        className="text-xl font-serif font-bold leading-tight relative z-10 transition duration-300 group-hover:text-primary"
+        style={{ color: "#482742ff" }}
+      >
         {articles.title}
       </h2>
 
       {/* Abstract */}
-      <p className="text-new-primary text-sm text-justify relative z-10 border-l-4 mb-6 border-new-primary p-6 rounded-lg space-y-3" style={{ backgroundColor: 'rgba(105, 49, 85, 0.13)' }}>
+      <p
+        className="text-new-primary text-sm text-justify relative z-10 border-l-4 mb-6 border-new-primary p-6 rounded-lg space-y-3"
+        style={{ backgroundColor: "rgba(105, 49, 85, 0.13)" }}
+      >
         {articles.abstract}
       </p>
 
       {/* Keywords */}
       {articles.keywords?.length > 0 && (
         <div className="relative z-10">
-          <h4 className="font-semibold text-new-primary mb-3 text-sm"><b>Keywords</b></h4>
+          <h4 className="font-semibold text-new-primary mb-3 text-sm">
+            <b>Keywords</b>
+          </h4>
           <div className="flex flex-wrap gap-2">
             {articles.keywords.map((keyword, idx) => (
               <span

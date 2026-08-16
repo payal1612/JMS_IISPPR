@@ -2,7 +2,7 @@ import articles from "../../data/articles";
 import ArticlePage from "../../components/ArticlePage";
 
 const MultipolarWorldmaking = () => {
-  const article = articles.find((a) => a.id === 12); // ID
+  const article = articles.find((a) => a.id === 18 && a.issue === 1); // Serial 18, Issue 1
 
   return article ? (
     <ArticlePage
