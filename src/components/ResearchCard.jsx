@@ -150,9 +150,7 @@ const ResearchCard = ({ articles, onDelete }) => {
         >
           {articles.authorAbbrev}
         </span>
-        <span className="px-3 py-1 rounded-full text-xs font-medium bg-amber-800 text-amber-50">
-          DOI
-        </span>
+
         <span className="px-3 py-1 rounded-full text-xs font-medium bg-green-100 text-green-800">
           {articles.status}
         </span>
