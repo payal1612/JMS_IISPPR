@@ -60,7 +60,7 @@ const navLinks = [
     icon: Search,
   },
   {
-    to: "/editions",
+    to: "/editions/1",
     label: "Journal Editions",
     desc: "Browse current and archived journal issues with complete article details and editorial information.",
     icon: BookOpen,
@@ -190,7 +190,7 @@ const LandingPage = () => {
               ref={dropdownRef}
             >
               <button
-                onClick={() => navigate("/editions")}
+                onClick={() => navigate("/editions/1")}
                 className="w-full sm:w-auto flex justify-center items-center gap-2 px-5 py-3 text-sm sm:text-base text-text hover:text-primary border border-muted rounded-lg bg-white hover:border-primary hover:bg-primary-light transition-all hover:scale-[1.03]"
               >
                 <BookOpen className="w-4 h-4" />

@@ -154,7 +154,7 @@ function AppRoutes() {
         <Route path="/issn" element={<IssnPage />} />
         <Route path="/research" element={<ResearchPage />} />
         <Route path="/watermark-test" element={<WatermarkTest />} />
-        <Route path="/editions" element={<EditionsPage />} />
+        <Route path="/editions" element={<FilteredIssuePage />} />
         <Route path="/editions/:issueId" element={<FilteredIssuePage />} />
         <Route path="/ethics" element={<Ethics />} />
         <Route path="/plagiarism" element={<Plagiarism />} />
