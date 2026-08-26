@@ -6,7 +6,7 @@ const navLinks = [
   { to: '/publisher', label: 'Publisher Details' },
   { to: '/issn', label: 'ISSN Details' },
   // { to: '/research', label: 'Research Articles' },
-  { to: '/editions', label: 'Journal Editions' },
+  { to: '/editions/1', label: 'Journal Editions' }, // Chnage navigation temporary from editions to editions/1 to reflect issue 1 article only
   { to: '/ethics', label: 'Ethics' },
   { to: '/plagiarism', label: 'Plagiarism Policy' },
   { to: '/contact-us', label: 'Contact Info' },
