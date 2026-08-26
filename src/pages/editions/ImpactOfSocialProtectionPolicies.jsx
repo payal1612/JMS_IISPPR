@@ -2,7 +2,7 @@ import articles from "../../data/articles";
 import ArticlePage from "../../components/ArticlePage";
 
 const ImpactOfSocialProtectionPolicies = () => {
-  const article = articles.find((a) => a.id === 17); // ID
+  const article = articles.find((a) => a.id === 23); // ID
 
   return article ? (
     <ArticlePage

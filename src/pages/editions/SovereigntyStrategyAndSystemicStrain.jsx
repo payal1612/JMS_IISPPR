@@ -2,7 +2,7 @@ import articles from "../../data/articles";
 import ArticlePage from "../../components/ArticlePage";
 
 const SovereigntyStrategyAndSystemicStrain = () => {
-  const article = articles.find((a) => a.id === 10); // ID
+  const article = articles.find((a) => a.id === 16 && a.issue === 1); // Serial 16, Issue 1
 
   return article ? (
     <ArticlePage

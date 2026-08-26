@@ -2,7 +2,7 @@ import articles from "../../data/articles";
 import ArticlePage from "../../components/ArticlePage";
 
 const TheIntersectionOfWomenEmpowerment = () => {
-  const article = articles.find((a) => a.id === 8); // ID 
+  const article = articles.find((a) => a.id === 14 && a.issue === 1); // Serial 14, Issue 1 
 
   return article ? (
     <ArticlePage

@@ -173,15 +173,15 @@ const LandingPage = () => {
                 <h1 className="text-lg sm:text-xl font-serif font-bold text-text tracking-wide">
                   Law Diplomacy Review
                 </h1>
-                <p className="text-[11px] sm:text-xs text-subtext uppercase tracking-wide">
-                  Academic Publishing Platform
+                <p className="text-[11px] sm:text-xs text-subtext mixcase tracking-wide">
+                  Law Diplomacy Review
                 </p>
               </div>
             </div>
 
 
             <span className="text-xs sm:text-sm font-semibold text-primary bg-primary/10 px-3 py-1 rounded-full shadow-sm">
-              January 2025 - Multidisciplinary Subjects
+              May 2026 - Multidisciplinary Subjects
             </span>
 
             {/* Nav Buttons & Account Dropdown */}

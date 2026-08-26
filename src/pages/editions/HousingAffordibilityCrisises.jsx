@@ -1,8 +1,8 @@
 import articles from "../../data/articles";
 import ArticlePage from "../../components/ArticlePage";
 
-const EvaluatingPolicyGapsAndYouthInvolvement = () => {
-  const article = articles.find((a) => a.id === 17 && a.issue === 1); // Serial 17, Issue 1
+const SovereigntyStrategyAndSystemicStrain = () => {
+  const article = articles.find((a) => a.id === 3 && a.issue === 1); // Serial 3, Issue 1
 
   return article ? (
     <ArticlePage
@@ -22,4 +22,4 @@ const EvaluatingPolicyGapsAndYouthInvolvement = () => {
   );
 };
 
-export default EvaluatingPolicyGapsAndYouthInvolvement;
+export default SovereigntyStrategyAndSystemicStrain;

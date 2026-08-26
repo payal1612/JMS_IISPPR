@@ -17,7 +17,7 @@ const ArticlePage = ({
         {/* Top bar - stacked on mobile */}
         <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-2 mb-4 sm:mb-6">
           <span className="text-sm sm:text-base font-medium min-w-[120px]">
-            Serial {id}
+            serial{id}
           </span>
           <span className="text-sm sm:text-base font-medium">
             Issue {issue} · Volume {volume}

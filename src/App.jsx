@@ -7,8 +7,8 @@ import {
 
 import ScriptsSymbolsSoftPower from "./pages/editions/ScriptsSymbolsSoftPower";
 import ScrollToTop from "./components/ScrollToTop";
-import TopNavbar from './components/TopNavbar';
-import { useLocation } from 'react-router-dom';
+import TopNavbar from "./components/TopNavbar";
+import { useLocation } from "react-router-dom";
 import DashboardLayout from "./layouts/DashboardLayout";
 import AdminDashboard from "./pages/dashboards/AdminDashboard";
 import EditorDashboard from "./pages/dashboards/EditorDashboard";
@@ -93,8 +93,12 @@ import PaperToPractice from "./pages/editions/PaperToPractice";
 import PolicyToProgress from "./pages/editions/PolicyToProgress";
 import ImpactOfTrumpEra from "./pages/editions/ImpactOfTrumpEra";
 import ModelingUrbanEconomicPeformance from "./pages/editions/ModelingUrbanEconomicPeformance";
-
-
+import SociaEconomicContradictions from "./pages/editions/SociaEconomicContradictions";
+import VaccineDiplomacyandpolictics from "./pages/editions/VaccineDiplomacyandpolictics";
+import LandLabourLivlihoods from "./pages/editions/LandLabourLivlihoods";
+import HousingAffordibilityCrisises from "./pages/editions/HousingAffordibilityCrisises";
+import GreenTransitions from "./pages/editions/GreenTransitions";
+import DisplacedByDegree from "./pages/editions/DisplacedByDegree";
 
 function AppRoutes() {
   const location = useLocation();
@@ -169,6 +173,33 @@ function AppRoutes() {
         <Route path="/reader/articles" element={<ReaderArticles />} />
         <Route path="/article/:articleSlug" element={<ArticlePage />} />
         <Route
+          path="/socioeconomic-contradictions-of-child-obesity-in-india"
+          element={<SociaEconomicContradictions />}
+        />
+
+        <Route
+          path="/vaccine-diplomacy-and-politics-of-influence"
+          element={<VaccineDiplomacyandpolictics />}
+        />
+
+        <Route
+          path="/land-labour-and-livelihoods"
+          element={<LandLabourLivlihoods />}
+        />
+
+        <Route
+          path="/Housing-Affordability-Crisis-In-Global-Cities"
+          element={<HousingAffordibilityCrisises />}
+        />
+
+        <Route path="/displaced-by-degrees" 
+        element={<DisplacedByDegree />} />
+
+        <Route
+          path="/From-Green-Transition-To-Local-Tensions"
+          element={<GreenTransitions />}
+        />
+        <Route
           path="/Bridging-Literacy-Gaps-in-India"
           element={<BridgingLiteracyGapsInIndia />}
         />
@@ -206,21 +237,21 @@ function AppRoutes() {
         />
         <Route
           path="/Sovereignty-Strategy-And-Systemic-Strain"
-          element={<SovereigntyStrategyAndSystemicStrain/>}
+          element={<SovereigntyStrategyAndSystemicStrain />}
         />
         <Route
           path="/Evaluating-Policy-Gaps-And-Youth-Involvement"
           element={<EvaluatingPolicyGapsAndYouthInvolvement />}
         />
-        <Route 
+        <Route
           path="/Multipolar-Worldmaking"
-          element= {<MultipolarWorldmaking />}
+          element={<MultipolarWorldmaking />}
         />
         <Route
           path="/Bridging-The-Education-Gap"
           element={<BridgingTheEducationGap />}
         />
-        <Route 
+        <Route
           path="/India-US-Bilateral-Relations"
           element={<IndiaUSBilateralRelations />}
         />
@@ -230,11 +261,11 @@ function AppRoutes() {
         />
         <Route
           path="/From-Gram-Sabha-To-Eco-Swaraj"
-          element={<FromGramSabhaToEcoSwaraj/>}
+          element={<FromGramSabhaToEcoSwaraj />}
         />
         <Route
           path="/Impact-Of-Social-Protection-Policies"
-          element={<ImpactOfSocialProtectionPolicies/>}
+          element={<ImpactOfSocialProtectionPolicies />}
         />
         <Route
           path="/Rewiring-The-Engines-Of-Growth"
@@ -242,151 +273,103 @@ function AppRoutes() {
         />
         <Route
           path="/Reconciling-Development-And-Ecology"
-          element={<ReconcilingDevelopmentAndEcology/>}
+          element={<ReconcilingDevelopmentAndEcology />}
         />
         <Route
           path="/Geopolitical-Stress-Impacting-Financial-Markets-In-India"
-          element={<GeopoliticalStressImpactingFinancialMarketsInIndia/>}
+          element={<GeopoliticalStressImpactingFinancialMarketsInIndia />}
         />
         <Route
           path="/The-Informal-Gig-Economy-In-Globalised-India"
-          element={<TheInformalGigEconomyInGlobalisedIndia/>}
+          element={<TheInformalGigEconomyInGlobalisedIndia />}
         />
         <Route
           path="/Understanding-The-Mind-In-Decline"
-          element={<UnderstandingTheMindInDecline/>}
+          element={<UnderstandingTheMindInDecline />}
         />
-        
+
         <Route
           path="/Beyond-Firewalls-The-Human-Factor-In-Cybersecurity"
-          element={<BeyondFirewalls/>}
+          element={<BeyondFirewalls />}
         />
+        <Route path="/Economics" element={<Economics />} />
+        <Route path="/Mahatma-Gandhi-Rural" element={<MahatmaGandhiRural />} />
         <Route
-          path="/Economics"
-          element={<Economics />}
-          />
-           <Route
-          path="/Mahatma-Gandhi-Rural"
-          element={<MahatmaGandhiRural />}
-          />
-           <Route
           path="/India-Approach-Crisis"
           element={<IndiaApproachCrisis />}
-          />
-           <Route
+        />
+        <Route
           path="/From-Passive-Player-To-Active-Participant"
           element={<FromPassivePlayer />}
-          />
+        />
 
-          <Route
-          path="/From-Traditional"
-          element={<FromTraditional />}
-          />
-          <Route
-          path="/Impact-Analysis"
-          element={<ImpactAnalysis />}
-          />
-          <Route
-          path="/India-Policy-Promote"
-          element={<IndiaPolicyPromote />}
-          />
-          <Route
-          path="/Smoke-Sludge"
-          element={<SmokeSludge />}
-          />
-          <Route
-          path="/Who-Deserve-To-Be"
-          element={<WhoDeserveToBe/>}
-          />
-          <Route
-          path="/Bridging-The-Divide"
-          element={<BridgingTheDivide/>}
-          />
-          <Route
+        <Route path="/From-Traditional" element={<FromTraditional />} />
+        <Route path="/Impact-Analysis" element={<ImpactAnalysis />} />
+        <Route path="/India-Policy-Promote" element={<IndiaPolicyPromote />} />
+        <Route path="/Smoke-Sludge" element={<SmokeSludge />} />
+        <Route path="/Who-Deserve-To-Be" element={<WhoDeserveToBe />} />
+        <Route path="/Bridging-The-Divide" element={<BridgingTheDivide />} />
+        <Route
           path="/From-Paper-To-Practice"
-          element={<FromPaperToPractice/>}
-          />
-          <Route
+          element={<FromPaperToPractice />}
+        />
+        <Route
           path="/Impact-Of-Trump-Era-US-Migration-Policy"
-          element={<ImpactOfTrump/>}
-          />
-          <Route
+          element={<ImpactOfTrump />}
+        />
+        <Route
           path="/Localizing-Climate-Action"
-          element={<LocalizingClimateAction/>}
-          />
-          <Route
-          path="/Advancing-Urban"
-          element={<AdvancingUrban/>}
-          />
-          <Route
+          element={<LocalizingClimateAction />}
+        />
+        <Route path="/Advancing-Urban" element={<AdvancingUrban />} />
+        <Route
           path="/Relationship-Between-Identity"
-          element={<RelationshipBetweenIdentity/>}
-          />
-          <Route
+          element={<RelationshipBetweenIdentity />}
+        />
+        <Route
           path="/From-Hegemony-to-Humanitarianism"
-          element={<FromHegemonytoHumanitarianism/>}
-          />
-          <Route
-          path="/Fiscal-Risk"
-          element={<FiscalRisk/>}
-          />
-          <Route
+          element={<FromHegemonytoHumanitarianism />}
+        />
+        <Route path="/Fiscal-Risk" element={<FiscalRisk />} />
+        <Route
           path="/From-Policy-To-Progress"
-          element={<FromPolicyToProgress/>}
-          />
-           <Route
+          element={<FromPolicyToProgress />}
+        />
+        <Route
           path="Advancing-Urban-Institutional"
-          element={<AdvancingUrbanInstitutional/>}
-          />
-          <Route
+          element={<AdvancingUrbanInstitutional />}
+        />
+        <Route
           path="Anlysing-The-Scope-Of-Feminist"
-          element={<AnlysingTheScopeOfFeminist/>}
-          />
-           <Route
+          element={<AnlysingTheScopeOfFeminist />}
+        />
+        <Route
           path="Bridging-The-Divide-Digital-Public"
-          element={<BridgingTheDivide_DigitalPublic/>}
-          />
-          <Route
+          element={<BridgingTheDivide_DigitalPublic />}
+        />
+        <Route
           path="Localizing-Climate-Action-The-National-Action"
-          element={<LocalizingClimateActionTheNationalAction/>}
-          />
-          <Route
-          path="Trapped-in-silence"
-          element={<TrappedinSilence/>}
-          />
-           <Route
+          element={<LocalizingClimateActionTheNationalAction />}
+        />
+        <Route path="Trapped-in-silence" element={<TrappedinSilence />} />
+        <Route
           path="digital-platform"
-          element={<DigitalPlatformDisconnectedProtections/>}
-          />
-          <Route
-          path="What-Impact"
-          element={<WhatImpactWill/>}
-          />
-          <Route
-          path="Should-Eco"
-          element={<ShouldEcoideBeRecognized/>}
-          />
-          <Route
+          element={<DigitalPlatformDisconnectedProtections />}
+        />
+        <Route path="What-Impact" element={<WhatImpactWill />} />
+        <Route path="Should-Eco" element={<ShouldEcoideBeRecognized />} />
+        <Route
           path="Blue-Diplomacy-in-Western-India"
-          element={<BlueDiplomacy/>}
-          />
-           <Route
-          path="Paper-To-Practice"
-          element={<PaperToPractice/>}
-          />
-           <Route
-          path="Policy-To-Progress"
-          element={<PolicyToProgress/>}
-          />
-           <Route
-          path="Impact-Of-Trump-Era"
-          element={<ImpactOfTrumpEra/>}
-          />
-           <Route
-              path="Modeling-Urban-Economic-Peformance"
-              element={<ModelingUrbanEconomicPeformance/>}
-          />
- 
+          element={<BlueDiplomacy />}
+        />
+        <Route path="Paper-To-Practice" element={<PaperToPractice />} />
+        <Route path="Policy-To-Progress" element={<PolicyToProgress />} />
+        <Route path="Impact-Of-Trump-Era" element={<ImpactOfTrumpEra />} />
+        <Route
+          path="Modeling-Urban-Economic-Peformance"
+          element={<ModelingUrbanEconomicPeformance />}
+        />
+
         <Route path="*" element={<LandingPage />} />
       </Routes>
     </>

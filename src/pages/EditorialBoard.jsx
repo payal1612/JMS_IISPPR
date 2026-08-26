@@ -69,7 +69,7 @@ const EditorialBoard = () => {
       desc: 'Ibn Tofaïl University, Morocco ',
       email: 'benbrahim.fatimazahra@uit.ac.ma',
       postaladdress:
-      'BP 11223 AGDAL FES MOROCCO',
+      'Office number 30, Nihard Plaza, Near Zakir Hussain school, ',
     },
   ];
 

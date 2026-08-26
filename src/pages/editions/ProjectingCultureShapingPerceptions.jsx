@@ -2,7 +2,7 @@ import articles from "../../data/articles";
 import ArticlePage from "../../components/ArticlePage";
 
 const ProjectingCultureShapingPerceptions = () => {
-  const article = articles.find((a) => a.id === 7); // ID 
+  const article = articles.find((a) => a.id === 13 && a.issue === 1); // Serial 13, Issue 1 
 
   return article ? (
     <ArticlePage

@@ -16,7 +16,7 @@ const FilteredIssuePage = () => {
     background: 'linear-gradient(to right, #caa1b8ff, #3b0a29ff, #2b1426ff)',
   }}>
       <h2 className="text-3xl text-white mb-6">
-        Articles from Issue {issueId}
+        July 2026 Issue {issueId}
       </h2>
 
       <div className="grid gap-6">
