@@ -1,7 +1,7 @@
 import articles from "../../data/articles";
 import ArticlePage from "../../components/ArticlePage";
 
-const SovereigntyStrategyAndSystemicStrain = () => {
+const LandLabourLivlihoods = () => {
   const article = articles.find((a) => a.id === 2 && a.issue === 1); // Serial 2, Issue 1
 
   return article ? (
@@ -14,7 +14,10 @@ const SovereigntyStrategyAndSystemicStrain = () => {
       abstract={article.abstract}
       intro={article.intro}
       content={article.content}
+      figures={article.figures}
+      tables={article.tables}
       conclusion={article.conclusion}
+      acknowledegements={article.acknowledegements}
       references={article.references}
     />
   ) : (
@@ -22,4 +25,4 @@ const SovereigntyStrategyAndSystemicStrain = () => {
   );
 };
 
-export default SovereigntyStrategyAndSystemicStrain;
+export default LandLabourLivlihoods;
