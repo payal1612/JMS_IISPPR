@@ -1,8 +1,8 @@
 import articles from "../../data/articles";
 import ArticlePage from "../../components/ArticlePage";
 
-const EvaluatingPolicyGapsAndYouthInvolvement = () => {
-  const article = articles.find((a) => a.id === 17 && a.issue === 1); // Serial 17, Issue 1
+const VaccineDiplomacyandpolictics = () => {
+  const article = articles.find((a) => a.id === 5 && a.issue === 1); // Serial 5, Issue 1
 
   return article ? (
     <ArticlePage
@@ -14,7 +14,10 @@ const EvaluatingPolicyGapsAndYouthInvolvement = () => {
       abstract={article.abstract}
       intro={article.intro}
       content={article.content}
+      figures={article.figures}
+      tables={article.tables}
       conclusion={article.conclusion}
+      acknowledegements={article.acknowledegements}
       references={article.references}
     />
   ) : (
@@ -22,4 +25,4 @@ const EvaluatingPolicyGapsAndYouthInvolvement = () => {
   );
 };
 
-export default EvaluatingPolicyGapsAndYouthInvolvement;
+export default VaccineDiplomacyandpolictics;

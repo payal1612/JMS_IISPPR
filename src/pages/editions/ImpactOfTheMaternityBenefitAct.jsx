@@ -2,7 +2,7 @@ import articles from "../../data/articles";
 import ArticlePage from "../../components/ArticlePage";
 
 const ImpactOfTheMaternityBenefitAct = () => {
-  const article = articles.find((a) => a.id === 2); // ID
+  const article = articles.find((a) => a.id === 8 && a.issue === 1); // Serial 8, Issue 1
 
   return article ? (
     <ArticlePage

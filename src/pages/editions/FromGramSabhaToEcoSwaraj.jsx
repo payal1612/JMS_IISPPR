@@ -2,7 +2,7 @@ import articles from "../../data/articles";
 import ArticlePage from "../../components/ArticlePage";
 
 const FromGramSabhaToEcoSwaraj = () => {
-  const article = articles.find((a) => a.id === 16); // ID
+  const article = articles.find((a) => a.id === 22); // ID
 
   return article ? (
     <ArticlePage

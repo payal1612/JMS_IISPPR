@@ -2,7 +2,7 @@ import articles from "../../data/articles";
 import ArticlePage from "../../components/ArticlePage";
 
 const DiplomacyBeyondDiplomats = () => {
-  const article = articles.find((a) => a.id === 15); // ID
+  const article = articles.find((a) => a.id === 21 && a.issue === 1); // Serial 21, Issue 1
 
   return article ? (
     <ArticlePage

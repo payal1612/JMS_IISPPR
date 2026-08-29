@@ -51,9 +51,9 @@ const PublisherPage = () => {
             <p style={{ color: '#703b5dff' }}>
               <strong>Official Journal:</strong> Law, Diplomacy and Tech Policy Review
             </p>
-            <p style={{ color: '#703b5dff' }}>
+            {/* <p style={{ color: '#703b5dff' }}>
               <strong>Publisher (Legal Entity):</strong> IISPPR Publication
-            </p>
+            </p> */}
             <p style={{ color: '#703b5dff' }}>
               <strong>Country:</strong> India (International Journal)
             </p>

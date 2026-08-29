@@ -60,7 +60,7 @@ const navLinks = [
     icon: Search,
   },
   {
-    to: "/editions",
+    to: "/editions/1",
     label: "Journal Editions",
     desc: "Browse current and archived journal issues with complete article details and editorial information.",
     icon: BookOpen,
@@ -173,15 +173,15 @@ const LandingPage = () => {
                 <h1 className="text-lg sm:text-xl font-serif font-bold text-text tracking-wide">
                   Law Diplomacy Review
                 </h1>
-                <p className="text-[11px] sm:text-xs text-subtext uppercase tracking-wide">
-                  Academic Publishing Platform
+                <p className="text-[11px] sm:text-xs text-subtext mixcase tracking-wide">
+                  Law Diplomacy Review
                 </p>
               </div>
             </div>
 
 
             <span className="text-xs sm:text-sm font-semibold text-primary bg-primary/10 px-3 py-1 rounded-full shadow-sm">
-              January 2025 - Multidisciplinary Subjects
+              May 2026 - Multidisciplinary Subjects
             </span>
 
             {/* Nav Buttons & Account Dropdown */}
@@ -190,7 +190,7 @@ const LandingPage = () => {
               ref={dropdownRef}
             >
               <button
-                onClick={() => navigate("/editions")}
+                onClick={() => navigate("/editions/1")}
                 className="w-full sm:w-auto flex justify-center items-center gap-2 px-5 py-3 text-sm sm:text-base text-text hover:text-primary border border-muted rounded-lg bg-white hover:border-primary hover:bg-primary-light transition-all hover:scale-[1.03]"
               >
                 <BookOpen className="w-4 h-4" />
