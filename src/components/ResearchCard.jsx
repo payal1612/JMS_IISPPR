@@ -79,10 +79,20 @@ const articleRoutes4 = {
   17: "/Modeling-Urban-Economic-Peformance",
 };
 
+const issue1PageNumbers = {
+  1: "1 - 19",
+  2: "20 - 60",
+  3: "61 - 83",
+  4: "84 - 102",
+  5: "103 - 122",
+  6: "123 - 147",
+};
+
 const ResearchCard = ({ articles, onDelete }) => {
   const [downloading, setDownloading] = useState(false);
   const location = useLocation();
   const isAdmin = location.pathname.startsWith("/admin");
+  const pageRange = articles.pageRange || articles.pageNumbers || (articles.issue === 1 ? issue1PageNumbers[articles.id] : null) || articles.id;
 
   const handleDownload = async () => {
     setDownloading(true);
@@ -136,7 +146,7 @@ const ResearchCard = ({ articles, onDelete }) => {
         className="flex justify-between items-center relative z-10"
         style={{ color: "#703b5f" }}
       >
-        <span className="text-sm font-medium">Page {articles.id}</span>
+        <span className="text-sm font-medium">Page {pageRange}</span>
         <span className="text-sm font-medium">
           Issue {articles.issue} · Volume {articles.volume}
         </span>

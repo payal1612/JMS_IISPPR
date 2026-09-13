@@ -65,11 +65,11 @@ const EditorialBoard = () => {
       '4th Floor, Block A, Faculty of Business Economics and Accountancy, University Malaysia Sabah, Kota Kinabalu, 88400, Sabah, Malaysia',
     },
     {
-      name: 'Fatima Zahra BENBRAHIM ',
-      desc: 'Ibn Tofaïl University, Morocco ',
+      name: 'Fatima Zahra Benbrahim',
+      desc: 'Ibn Tofaïl University, Morocco',
       email: 'benbrahim.fatimazahra@uit.ac.ma',
       postaladdress:
-      'Office number 30, Nihard Plaza, Near Zakir Hussain school, ',
+        'office number 307, Department of Business, Ibn Tofaïl University, BP 11223 AGDAL FES, MOROCCO',
     },
   ];
 
