@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { useState } from "react";
 import { useLocation } from "react-router-dom";
-import { Download } from "lucide-react";
+import { Download, ExternalLink } from "lucide-react";
 import { generateArticlePDF, downloadPDF } from "../utils/pdfExport";
 
 const articleRoutes1 = {
@@ -136,7 +136,7 @@ const ResearchCard = ({ articles, onDelete }) => {
         className="flex justify-between items-center relative z-10"
         style={{ color: "#703b5f" }}
       >
-        <span className="text-sm font-medium">page {articles.id}</span>
+        <span className="text-sm font-medium">Page {articles.id}</span>
         <span className="text-sm font-medium">
           Issue {articles.issue} · Volume {articles.volume}
         </span>
@@ -193,16 +193,30 @@ const ResearchCard = ({ articles, onDelete }) => {
 
       {/* Buttons */}
       <div className="flex items-center gap-4 mt-4 relative z-10">
+        {/* Download PDF button (hidden as requested, not deleted) */}
         <button
           onClick={handleDownload}
           disabled={downloading}
-          className="inline-flex items-center gap-2 px-4 py-2 bg-new-primary-dark text-white font-medium rounded hover:bg-new-primary-sub transition disabled:opacity-50 hover:text-new-primary"
+          style={{ display: "none" }}
+          className="hidden px-4 py-2 bg-new-primary-dark text-white font-medium rounded hover:bg-new-primary-sub transition disabled:opacity-50 hover:text-new-primary"
           title="Download PDF with watermarks: Serial Number, Issue/Volume, and Publication Date"
         >
           <Download size={16} />
           {downloading ? "Generating..." : "Download PDF"}
           <span className="text-xs opacity-75"></span>
         </button>
+
+        {/* Link to PDF button - opens in browser without download */}
+        <a
+          href={articles.pdfUrl || articles.pdfLink || `/pdfs/${articles.id}.pdf`}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-2 px-4 py-2 bg-new-primary-dark text-white font-medium rounded hover:bg-new-primary-sub transition hover:text-new-primary cursor-pointer"
+          title="Open PDF"
+        >
+          <ExternalLink size={16} />
+          <span>PDF Link</span>
+        </a>
 
         {getRoute(articles.issue, articles.id) && (
           <Link to={getRoute(articles.issue, articles.id)}>

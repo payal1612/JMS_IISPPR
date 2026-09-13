@@ -171,10 +171,10 @@ const LandingPage = () => {
               </div>
               <div>
                 <h1 className="text-lg sm:text-xl font-serif font-bold text-text tracking-wide">
-                  Law Diplomacy Review
+                  Law, Diplomacy, Tech and Policy Review
                 </h1>
                 <p className="text-[11px] sm:text-xs text-subtext mixcase tracking-wide">
-                  Law Diplomacy Review
+                  Law, Diplomacy, Tech and Policy Review
                 </p>
               </div>
             </div>
@@ -584,7 +584,7 @@ const LandingPage = () => {
               </div>
               <div>
                 <h3 className="font-serif font-bold text-bg-light text-lg tracking-wide group-hover:text-accent transition-colors duration-300">
-                  Law, Diplomacy, Tech and Public Policy Review
+                  Law, Diplomacy, Tech and Policy Review
                 </h3>
                 {/* <p className="text-xs text-white opacity-80">Law, Diplomacy, Tech & Public Policy Review</p> */}
               </div>

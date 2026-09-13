@@ -38,39 +38,76 @@ const IssnPage = () => {
                 Journal:
               </p>
               <p className="text-lg font-normal w-2/3" style={{ color: '#703b5dff' }}>
-                Law, Diplomacy, Tech and Public Policy Review 
+                Law, Diplomacy, Tech and Policy Review 
               </p>
             </div>
-            <div className="flex items-start">
+          </div>
+
+          {/* ISSN Print Section */}
+          <div className="mb-6">
+            <div className="flex items-start mb-4">
               <p className="text-lg font-serif font-semibold w-1/3" style={{ color: '#703b5dff' }}>
-                ISSN (Print/Online):
+                ISSN (Print):
               </p>
               <p className="text-lg font-normal w-2/3" style={{ color: '#703b5dff' }}>
                 Application in process
               </p>
             </div>
+
+            <motion.div
+              whileHover={{ scale: 1.01 }}
+              className="border-l-4 border-primary p-6 rounded-lg space-y-4"
+              style={{ backgroundColor: 'rgba(105, 49, 85, 0.13)' }}
+            >
+              <p className="text-lg font-semibold" style={{ color: '#703b5dff' }}>
+                Application Status:
+              </p>
+              <ul className="list-disc ml-6 space-y-2" style={{ color: '#703b5dff' }}>
+                <li>
+                  <strong>Application ID:</strong> 77020
+                </li>
+                <li>
+                  <strong>Status:</strong> Under review with the ISSN National Centre
+                </li>
+                <li>
+                  <strong>Expected Availability:</strong> 1 month
+                </li>
+              </ul>
+            </motion.div>
           </div>
 
-          <motion.div
-            whileHover={{ scale: 1.01 }}
-            className="border-l-4 border-primary p-6 rounded-lg space-y-4 mb-8"
-            style={{ backgroundColor: 'rgba(105, 49, 85, 0.13)' }}
-          >
-            <p className="text-lg font-semibold" style={{ color: '#703b5dff' }}>
-              Application Status:
-            </p>
-            <ul className="list-disc ml-6 space-y-2" style={{ color: '#703b5dff' }}>
-              <li>
-                <strong>Application ID:</strong> IDS70965
-              </li>
-              <li>
-                <strong>Status:</strong> Under review with the ISSN National Centre
-              </li>
-              <li>
-                <strong>Expected Availability:</strong> Within 6 months
-              </li>
-            </ul>
-          </motion.div>
+          {/* ISSN Online Section */}
+          <div className="mb-8">
+            <div className="flex items-start mb-4">
+              <p className="text-lg font-serif font-semibold w-1/3" style={{ color: '#703b5dff' }}>
+                ISSN (Online):
+              </p>
+              <p className="text-lg font-normal w-2/3" style={{ color: '#703b5dff' }}>
+                Application in process
+              </p>
+            </div>
+
+            <motion.div
+              whileHover={{ scale: 1.01 }}
+              className="border-l-4 border-primary p-6 rounded-lg space-y-4"
+              style={{ backgroundColor: 'rgba(105, 49, 85, 0.13)' }}
+            >
+              <p className="text-lg font-semibold" style={{ color: '#703b5dff' }}>
+                Application Status:
+              </p>
+              <ul className="list-disc ml-6 space-y-2" style={{ color: '#703b5dff' }}>
+                <li>
+                  <strong>Application ID:</strong> 77018
+                </li>
+                <li>
+                  <strong>Status:</strong> Under review with the ISSN National Centre
+                </li>
+                <li>
+                  <strong>Expected Availability:</strong> 1 month
+                </li>
+              </ul>
+            </motion.div>
+          </div>
 
           <div className="text-gray-700 text-sm">
             <p className="mb-3">

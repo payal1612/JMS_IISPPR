@@ -6,9 +6,9 @@ import articleData from "../../data/articles";
 const FilteredIssuePage = () => {
   const { issueId } = useParams();
 
-  const filteredArticles = articleData.filter(
-    (article) => String(article.issue) === issueId
-  );
+  const filteredArticles = articleData
+    .filter((article) => String(article.issue) === (issueId || "1"))
+    .slice(0, 6);
 
   return (
     <div className="min-h-screen p-8"
